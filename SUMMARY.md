@@ -4,26 +4,26 @@
 
 ## Introdução
 
-* [O que é o SIAD?](introducao/o-que-e-o-siad.md)
+* [O que é o SIAD?](introducao/o-que-e.md)
 * [Contextualização](introducao/contextualizacao.md)
 * [Projeto Piloto](introducao/projeto-piloto.md)
 * [Próximos Passos](introducao/proximos-passos.md)
 
-## Visão Geral
+## Visão Geral <a href="#geral" id="geral"></a>
 
-* [Acesso ao sistema](visao-geral/acesso-ao-sistema.md)
-* [Termo de Uso](visao-geral/termo-de-uso.md)
-* [Comunicados](visao-geral/comunicados.md)
-* [Manuais e Suporte](visao-geral/manuais-e-suporte.md)
+* [Acesso ao sistema](geral/acesso.md)
+* [Termo de Uso](geral/termo-uso.md)
+* [Comunicados](geral/comunicados.md)
+* [Manuais e Suporte](geral/manuais.md)
 
 ## Cadastro de Pessoas <a href="#pessoas" id="pessoas"></a>
 
 * [O que é?](pessoas/o-que-e.md)
-* [Pesquisa de pessoas](pessoas/pesquisa-de-pessoas.md)
-* [Fluxo de cadastro](pessoas/fluxo-de-cadastro.md)
-* [Ficha de cadastro](pessoas/ficha-de-cadastro.md)
-* [Alteração dos dados](pessoas/alteracao-dos-dados.md)
-* [Associar prontuários](pessoas/associar-prontuarios.md)
+* [Pesquisa de pessoas](pessoas/pesquisa.md)
+* [Fluxo de cadastro](pessoas/cadastro.md)
+* [Ficha de cadastro](pessoas/ficha.md)
+* [Alteração dos dados](pessoas/alteracao.md)
+* [Associar prontuários](pessoas/prontuarios.md)
 * [Composição Familiar](pessoas/composicao-familiar.md)
 * [Encaminhamentos](pessoas/encaminhamentos.md)
 * [Anexos](pessoas/anexos.md)
