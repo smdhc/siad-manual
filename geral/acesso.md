@@ -6,17 +6,11 @@ O acesso ao SIAD pode ser feito através do seguinte endereço:
 
 > &#x20;[https://siad.prefeitura.sp.gov.br](https://siad.prefeitura.sp.gov.br)
 
-Ao entrar, você cairá na tela inicial de login, onde deverá utilizar suas credenciais para acessar o sistema. Caso ainda não as possua, entre em contato com seus gestores para solicitar a criação do seu login e senha ou envie um e-mail para \[siad@prefeitura.sp.gov.br]\(mailto:siad@prefeitura.sp.gov.br).
+Ao entrar, você cairá na tela inicial de login, onde deverá utilizar suas credenciais para acessar o sistema. Caso ainda não as possua, entre em contato com seus gestores para solicitar a criação do seu login e senha ou envie um e-mail para [siad@prefeitura.sp.gov.br](mailto:siad@prefeitura.sp.gov.br).
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-### 1.2 Aceitando os Termos de Uso
-
-O ato de aceitar e concordar com as cláusulas deste termo de uso durante o primeiro acesso ao sistema implica na aceitação total das responsabilidades relacionadas ao sistema. O usuário compromete-se a agir de acordo com as normas estabelecidas, sendo integralmente responsável por qualquer informação ou ação vinculada à sua conta. É recomendado a leitura cuidadosa de todas as cláusulas para assegurar uma compreensão completa de suas obrigações e direitos ao utilizar o SIAD.
-
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Termo de uso usado como exemplo</p></figcaption></figure>
-
-### 1.3 Problemas com o login
+### Problemas com o login
 
 Caso tenha esquecido sua senha ou esteja enfrentando algum problema com acesso, clique na opção <mark style="color:yellow;">'Esqueceu sua senha?</mark>' localizada acima do campo de senha. Você será redirecionado para outra tela onde poderá iniciar o processo de recuperação.
 
