@@ -6,7 +6,7 @@ Ao acessar pela primeira vez, você será apresentado aos termos de uso do siste
 
 Vale ressaltar que essa tela também será exibida sempre que houver alguma atualização nos termos.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Termo de uso de exemplo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Termo de uso usado como exemplo</p></figcaption></figure>
 
 ### Acessando termos de uso assinados anteriormente
 
