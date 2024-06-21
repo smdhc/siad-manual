@@ -1,22 +1,14 @@
 # Acesso ao sistema
 
-
-
-### 1.1 Efetuar login
+### Efetuar login
 
 O acesso ao SIAD pode ser feito através do seguinte endereço:
 
 > &#x20;[https://siad.prefeitura.sp.gov.br](https://siad.prefeitura.sp.gov.br)
 
-Por aqui, você acessará o SIAD utilizando suas credenciais. Caso ainda não as possua, entre em contato com seus gestores para solicitar a criação do seu login e senha.
+Ao entrar, você cairá na tela inicial de login, onde deverá utilizar suas credenciais para acessar o sistema. Caso ainda não as possua, entre em contato com seus gestores para solicitar a criação do seu login e senha ou envie um e-mail para \[siad@prefeitura.sp.gov.br]\(mailto:siad@prefeitura.sp.gov.br).
 
-<div align="center">
-
-<figure><img src="../.gitbook/assets/image.png" alt="Página de login da plataforma"><figcaption><p>Página de login da plataforma</p></figcaption></figure>
-
-</div>
-
-
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1.2 Aceitando os Termos de Uso
 
