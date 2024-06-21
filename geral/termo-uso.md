@@ -6,11 +6,11 @@ Ao acessar pela primeira vez, você será apresentado aos termos de uso do siste
 
 Vale ressaltar que essa tela também será exibida sempre que houver alguma atualização nos termos.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Termo de uso de exemplo</p></figcaption></figure>
 
 ### Acessando termos de uso assinados anteriormente
 
-Caso queira acessar o termo de uso novamente, basta abrir o menu lateral e ir na opção “Termos de Uso”.  Aqui você encontra todas as versões do termo de uso lançadas até o momento, basta clicar em qual deseja para poder ler a versão completa.
+Caso queira acessar o termo de uso novamente, basta abrir o menu lateral e ir na opção “<mark style="color:yellow;">Termos de Uso</mark>”.  Aqui você encontra todas as versões do termo de uso lançadas até o momento, basta clicar em qual deseja para poder ler a versão completa.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Menu que permite visualizar termos de uso anteriormente assinados</p></figcaption></figure>
 

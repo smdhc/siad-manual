@@ -4,7 +4,7 @@
 
 ### 1. Efetuar login
 
-O acesso ao SIAD pode ser feito através desse link:
+O acesso ao SIAD pode ser feito através do seguinte endereço:
 
 > &#x20;[https://siad.prefeitura.sp.gov.br](https://siad.prefeitura.sp.gov.br)
 
