@@ -40,6 +40,10 @@ Aqui, você tem a capacidade de buscar todos os cadastros na rede, <mark style="
 
 Você também pode utilizar o campo '<mark style="color:yellow;">Pesquisar</mark>', buscando por dados específicos da pessoa cadastrada no sistema. Além disso, há a opção de <mark style="color:yellow;">aplicar filtros</mark> clicando no ícone de funil, como mostra a imagem abaixo:
 
+{% hint style="info" %}
+Atenção: alguns campos são aplicados em contextos específicos e, por isso, não representam o total de pessoas cadastradas na base
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption><p>Opções de busca encontradas na seção de Cadastro de Pessoas</p></figcaption></figure>
 
 A seção de <mark style="color:yellow;">filtros</mark> oferece diversas opções de amostragem. Selecionando os de sua preferência, você poderá buscar cadastros mais específicos, como, por exemplo, apenas do sexo feminino ou de alguma etnia, orientação sexual, raça/cor específica, entre outras opções. É importante lembrar de clicar no botão '<mark style="color:yellow;">Aplicar filtro</mark>' após finalizar as escolhas.
