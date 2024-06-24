@@ -1,7 +1,7 @@
 # Fluxo de cadastro
 
 {% hint style="info" %}
-Em caso de dúvida, por todo o cadastro você encontrará ícones de ajuda ao lado dos campos, como '<mark style="color:purple;">Consultar instruções</mark>' e '<mark style="color:orange;">Consultar Significado</mark>' Ao clicar sobre eles, uma janela lateral se abrirá, fornecendo instruções detalhadas e esclarecimentos sobre como preencher corretamente cada campo.
+Em caso de dúvida, você encontrará por todo o cadastro ícones de ajuda ao lado dos campos, como '<mark style="color:purple;">Consultar instruções</mark>' e '<mark style="color:orange;">Consultar Significado</mark>' Ao clicar sobre eles, uma janela lateral se abrirá, fornecendo instruções detalhadas e esclarecimentos sobre como preencher corretamente cada campo.
 {% endhint %}
 
 ### Iniciando o fluxo de cadastro
@@ -28,7 +28,7 @@ Alguns campos terão indicadores ' <mark style="color:red;">\*</mark> ' vermelho
 
 ### Atendimento Emergencial
 
-Em situações de vulnerabilidade da vítima, esta opção se torna necessária, especialmente em <mark style="color:purple;">casos de emergências</mark> ou <mark style="color:purple;">situações extremas</mark>. Preencher este campo permite que você pule as próximas etapas do cadastro.
+Em situações de vulnerabilidade da vítima, esta opção se torna necessária, especialmente em <mark style="color:purple;">casos de emergências</mark> ou <mark style="color:purple;">situações extremas</mark>. Preencher este campo permite que você pule as próximas etapas do cadastro, afim de acelerar e facilitar o processo.
 
 Ao marcar esta opção, será aberta uma caixa de '<mark style="color:purple;">Justificativa</mark>', sendo de preenchimento obrigatório. Nela, escreva em poucas palavras o motivo do atendimento ser emergencial e clique no botão '<mark style="color:purple;">Criar</mark>', localizado logo abaixo.&#x20;
 
