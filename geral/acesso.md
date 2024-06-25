@@ -20,18 +20,26 @@ Em breve, disponibilizaremos uma forma mais automatizada de permitir a recupera�
 
 ## Alterando a sua senha
 
-Após fazer a sua autenticação no sistema, você pode alterar a sua senha a qualquer momento.  Basta clicar no ícone localizado no canto superior direito, ao lado da '<mark style="color:purple;">Barra de pesquisa</mark>', e em seguida clicar em '<mark style="color:purple;">Perfil</mark>':
+Após fazer a sua autenticação no sistema, você pode alterar a sua senha a qualquer momento.  Basta clicar no ícone localizado no canto superior direito, ao lado da <mark style="color:purple;">Barra de pesquisa</mark>, e em seguida clicar em <mark style="color:purple;">Perfil</mark>:
 
 <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Para alterar a senha, basta clicar em 'Perfil'</p></figcaption></figure>
 
-Ao clicar em '<mark style="color:purple;">Perfil</mark>', será aberta uma tela com os campos '<mark style="color:purple;">Nome</mark>', <mark style="color:purple;">'</mark>E-mail' e '<mark style="color:purple;">Nova Senha</mark>'. Agora, você pode escolher a sua nova senha:
+{% hint style="danger" %}
+**Atenção: é fundamental que você altere a senha no primeiro acesso!**
+{% endhint %}
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Página para criar uma nova senha</p></figcaption></figure>
+Ao clicar em <mark style="color:purple;">Perfil</mark>, será aberta uma tela com os campos <mark style="color:purple;">Nome</mark>, <mark style="color:purple;">E-mai</mark>l e <mark style="color:purple;">Nova Senha</mark>. Agora, você pode escolher a sua nova senha:
 
-Lembre-se de que a senha deve ter um comprimento adequado e conter uma variedade de caracteres. Evite o uso de palavras ou informações pessoais na senha; ela precisa ser <mark style="color:purple;">única</mark> e <mark style="color:purple;">segura</mark>.
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Página para cadastrar uma nova senha</p></figcaption></figure>
 
-### Saindo da sua conta
+Lembre-se de que a senha deve ter um comprimento adequado e conter uma variedade de caracteres.&#x20;
 
-Para sair do sistema, você pode clicar no botão '<mark style="color:purple;">Logout</mark>' localizado no centro da tela, na seção '<mark style="color:purple;">Painel de Controle</mark>', ou clicar no ícone ao lado da barra de '<mark style="color:purple;">Pesquisar</mark>' e selecionar a opção '<mark style="color:purple;">Logout</mark>'. Esta ação pode ser realizada em qualquer seção do sistema:
+{% hint style="warning" %}
+Evite o uso de palavras ou informações pessoais na senha — ela precisa ser <mark style="color:purple;">única</mark> e <mark style="color:purple;">segura</mark>.
+{% endhint %}
+
+## Saindo da sua conta
+
+Para sair do sistema, você pode clicar no botão <mark style="color:purple;">Logout</mark> localizado no centro da tela, na seção <mark style="color:purple;">Painel de Controle</mark>; ou clicar no ícone localizado no cano superior direito, ao lado da barra de '<mark style="color:purple;">Pesquisar</mark>' e selecionar a opção '<mark style="color:purple;">Logout</mark>'. Esta ação pode ser realizada em qualquer seção do sistema:
 
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
