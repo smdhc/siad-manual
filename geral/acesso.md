@@ -22,7 +22,7 @@ Em breve, disponibilizaremos uma forma mais automatizada de permitir a recupera�
 
 Após fazer a sua autenticação no sistema, você pode alterar a sua senha a qualquer momento.  Basta clicar no ícone localizado no canto superior direito, ao lado da <mark style="color:purple;">Barra de pesquisa</mark>, e em seguida clicar em <mark style="color:purple;">Perfil</mark>:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Para alterar a senha, basta clicar no menu "Perfil"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Para alterar a senha, basta clicar no menu "Perfil"</p></figcaption></figure>
 
 {% hint style="danger" %}
 **Atenção: é fundamental que você altere a senha no primeiro acesso!**
@@ -52,4 +52,4 @@ Para garantir a segurança de suas informações, sempre deslogue do sistema ao 
 Lembre-se: essa prática é essencial para a **segurança das informações**.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Formas de sair do sistema</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Formas de sair do sistema</p></figcaption></figure>
