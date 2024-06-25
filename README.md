@@ -8,4 +8,4 @@ Olá! Aqui você irá encontrar toda a documentação necessária para trabalhar
 
 Vamos lá?
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
