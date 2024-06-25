@@ -1,5 +1,7 @@
 # Projeto Piloto
 
+<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+
 Lançado em **julho de 2024**, o SIAD tem como sua primeira funcionalidade o módulo de **Cadastro de Pessoas**, que está sendo implantado gradativamente nos seguintes equipamentos:
 
 * CCLGBTI+ Oeste - Claudia Wonder
@@ -22,4 +24,4 @@ Essa etapa é fundamental para validar as funcionalidades e fluxos iniciais do s
 * Encaminhamentos
 * Anexos
 
-Ao longo das semanas iniciais de implantação, será realizado um monitoramento e acompanhamento das informações registradas, visando a melhoria do processo e realização de ajustes necessários para a expansão do sistema para toda a rede de atendimento de direitos humanos.
+Ao longo das semanas iniciais de implantação, será realizado um **monitoramento e acompanhamento** das informações registradas, visando a melhoria do processo e realização de ajustes necessários para a expansão do sistema para toda a rede de atendimento de direitos humanos.
