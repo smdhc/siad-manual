@@ -8,6 +8,7 @@
 * [Como surgiu o sistema?](introducao/como-surgiu-o-sistema.md)
 * [Projeto Piloto](introducao/projeto-piloto.md)
 * [Próximas Etapas](introducao/proximas-etapas.md)
+* [Contato e Suporte](introducao/contato-e-suporte.md)
 
 ## Visão Geral <a href="#geral" id="geral"></a>
 
