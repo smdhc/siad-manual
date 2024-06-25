@@ -9,7 +9,7 @@ Após efetuar o login e concordar com os termos de uso, você será direcionado 
 * Botão para ir direto ao cadastro de pessoas;
 * Indicadores diversos.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 No canto superior direito você encontrará a <mark style="color:purple;">Barra de Pesquisa</mark> (detalhada mais à frente) e o menu de usuário, onde você pode alterar sua senha ou sair do sistema.
 
