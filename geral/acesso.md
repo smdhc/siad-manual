@@ -10,7 +10,7 @@ O acesso ao SIAD pode ser feito através do seguinte endereço:
 
 Ao acessar o endereço acima, você será direcionado para a tela inicial de login, onde precisará utilizar suas credenciais (CPF e Senha). Caso ainda não as tenha, por favor, entre em contato com seus gestores para solicitar a criação do seu login e senha, ou envie um e-mail para [siad@prefeitura.sp.gov.br](mailto:siad@prefeitura.sp.gov.br).
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Problemas com o login
 
@@ -22,7 +22,7 @@ Em breve, disponibilizaremos uma forma mais automatizada de permitir a recupera�
 
 Após fazer a sua autenticação no sistema, você pode alterar a sua senha a qualquer momento.  Basta clicar no ícone localizado no canto superior direito, ao lado da <mark style="color:purple;">Barra de pesquisa</mark>, e em seguida clicar em <mark style="color:purple;">Perfil</mark>:
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Para alterar a senha, basta clicar em 'Perfil'</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Para alterar a senha, basta clicar no menu "Perfil"</p></figcaption></figure>
 
 {% hint style="danger" %}
 **Atenção: é fundamental que você altere a senha no primeiro acesso!**
@@ -40,6 +40,16 @@ Evite o uso de palavras ou informações pessoais na senha — ela precisa ser <
 
 ## Saindo da sua conta
 
-Para sair do sistema, você pode clicar no botão <mark style="color:purple;">Logout</mark> localizado no centro da tela, na seção <mark style="color:purple;">Painel de Controle</mark>; ou clicar no ícone localizado no cano superior direito, ao lado da barra de '<mark style="color:purple;">Pesquisar</mark>' e selecionar a opção '<mark style="color:purple;">Logout</mark>'. Esta ação pode ser realizada em qualquer seção do sistema:
+Para sair do sistema, você pode clicar no botão <mark style="color:purple;">Logout</mark> localizado no centro da tela, na seção <mark style="color:purple;">Painel de Controle</mark>; ou clicar no ícone localizado no canto superior direito, ao lado da <mark style="color:purple;">Barra de Pesquisa</mark> e selecionar a opção <mark style="color:purple;">Logout</mark>. Esta ação pode ser realizada em qualquer seção do sistema.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+{% hint style="info" %}
+O sistema irá deslogar automaticamente após 2 horas de inatividade.
+{% endhint %}
+
+{% hint style="warning" %}
+Para garantir a segurança de suas informações, sempre deslogue do sistema ao finalizar o uso. Isso impede acessos não autorizados e protege seus dados.&#x20;
+
+Lembre-se: essa prática é essencial para a **segurança das informações**.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Formas de sair do sistema</p></figcaption></figure>
