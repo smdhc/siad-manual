@@ -22,7 +22,7 @@ Começando com informações básicas da pessoa atendida, aqui será possível a
 
 <figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Alguns campos terão indicadores ' <mark style="color:red;">\*</mark> ' vermelhos logo acima, indicando que é de preenchimento obrigatório, tendo como exemplo os campos de '<mark style="color:purple;">Nome Civil</mark>' e '<mark style="color:purple;">Data de Nascimento</mark>'.
 {% endhint %}
 
