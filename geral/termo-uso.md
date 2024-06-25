@@ -12,5 +12,5 @@ Vale ressaltar que essa tela também será exibida sempre que houver alguma atua
 
 Caso queira acessar o termo de uso novamente, basta abrir o menu lateral e ir na opção “<mark style="color:purple;">Termos de Uso</mark>”.  Aqui você encontra todas as versões do termo de uso lançadas até o momento, basta clicar em qual deseja para poder ler a versão completa.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Menu que permite visualizar termos de uso anteriormente assinados</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Menu que permite visualizar termos de uso anteriormente assinados</p></figcaption></figure>
 
