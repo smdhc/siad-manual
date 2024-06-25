@@ -12,7 +12,7 @@ Para realizar o encaminhamento você deve clicar no botão '<mark style="color:p
 Aqui, você também poderá ver todos os encaminhamentos feitos referentes ao cadastro em questão.
 
 {% hint style="info" %}
-Observação: Não é possível alterar um encaminhamento já cadastrado.
+Não é possível alterar um encaminhamento já cadastrado.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Acessando o cadastro de um novo encaminhamento</p></figcaption></figure>
