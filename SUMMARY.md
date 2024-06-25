@@ -17,7 +17,7 @@
 * [Termo de Uso](geral/termo-uso.md)
 * [Painel de controle](geral/painel-de-controle.md)
 * [Comunicados](geral/comunicados.md)
-* [Manuais e Suporte](geral/manuais.md)
+* [Manuais](geral/manuais.md)
 
 ## Cadastro de Pessoas <a href="#pessoas" id="pessoas"></a>
 

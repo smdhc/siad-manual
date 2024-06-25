@@ -18,7 +18,7 @@ Os termos de uso do sistema explicarão alguns tópicos como:
 
 Vale ressaltar que essa tela também será exibida sempre que houver alguma atualização nos termos.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Exemplo de Termo de Uso que será exibido no primeiro acesso</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Exemplo de Termo de Uso que será exibido no primeiro acesso</p></figcaption></figure>
 
 ## Acessando termos de uso assinados anteriormente
 
