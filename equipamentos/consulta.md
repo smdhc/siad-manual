@@ -12,7 +12,7 @@ Para obter <mark style="color:purple;">informações mais detalhadas</mark> sobr
 
 ### Filtrando equipamentos
 
-Para tornar sua busca mais eficiente, especialmente quando há muitos equipamentos cadastrados,  Para acessá-la, procure o ícone de '<mark style="color:purple;">Funil</mark>' localizado no canto superior direito da tela de consulta.
+Para tornar sua busca mais eficiente, especialmente quando há muitos equipamentos cadastrados, você pode usar a funcionalidade de filtros. Para isso, procure o ícone de '<mark style="color:purple;">Funil</mark>' localizado no canto superior direito da tela de consulta.
 
 Ao clicar neste ícone, um painel de filtros será exibido, apresentando diversas opções para melhorar sua pesquisa. Você poderá filtrar os equipamentos por critérios como <mark style="color:purple;">Tipo de equipamento</mark>, <mark style="color:purple;">Temática</mark>, <mark style="color:purple;">se realiza atendimentos</mark>, <mark style="color:purple;">Subprefeitura</mark>, ou outro parâmetro que seja relevante:
 
