@@ -8,11 +8,11 @@ Para consultas de fichas cadastradas, basta você retornar para o início da se�
 
 <figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
-Aqui, é possível consultar com mais detalhes todos os dados cadastrais de uma pessoa cadastrada no sistema.
+Aqui, é possível consultar com mais detalhes <mark style="color:purple;">todos</mark> os dados cadastrais da pessoa, além de conseguir acesso a outras ferramentas muito importantes para o atendimento.
 
 ### Alterando os dados de uma pessoa
 
-Na mesma tela, é possível atualizar o cadastro selecionado, basta clicar no botão '<mark style="color:purple;">Editar</mark>', localizado no canto superior da tela, ou no campo '<mark style="color:purple;">Atualizar Cadastro</mark>', localizado no canto esquerdo da mesma.
+Na mesma tela, é possível atualizar o cadastro selecionado: basta clicar no botão '<mark style="color:purple;">Editar</mark>', localizado no canto superior da tela, ou no campo '<mark style="color:purple;">Atualizar Cadastro</mark>', localizado no lado esquerdo da mesma.
 
 {% hint style="info" %}
 Todas as alterações são registradas para fins de auditoria.
