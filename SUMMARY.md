@@ -12,8 +12,10 @@
 
 ## Visão Geral <a href="#geral" id="geral"></a>
 
+* [Introdução](geral/introducao.md)
 * [Acesso ao sistema](geral/acesso.md)
 * [Termo de Uso](geral/termo-uso.md)
+* [Painel de controle](geral/painel-de-controle.md)
 * [Comunicados](geral/comunicados.md)
 * [Manuais e Suporte](geral/manuais.md)
 
