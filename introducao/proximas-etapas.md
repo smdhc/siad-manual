@@ -16,6 +16,7 @@ Nessa fase inicial de implantação do SIAD, temos como próximas etapas a curto
 Essa etapa inicial também serve como base fundamental para os módulos subsequentes:
 
 * Atendimentos
+* Atividades coletivas
 * Gestão de benefícios
 * Programas e outros serviços
 
