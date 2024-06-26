@@ -1,16 +1,28 @@
----
-description: Todos os dados utilizados para demonstração são fictícios.
----
-
 # Pesquisa de pessoas
 
-## Utilizando o campo global '<mark style="color:purple;">Pesquisar</mark>'
+## Sobre a importância da pesquisa
 
-Para pesquisas mais <mark style="color:purple;">abrangentes</mark>, você pode utilizar o campo '<mark style="color:purple;">Pesquisar</mark>', <mark style="color:purple;">localizado no canto superior direito da tela</mark>, presente em <mark style="color:purple;">todas as seções</mark> da plataforma.
+Esta etapa preventiva assegura que informações redundantes não sejam inseridas no sistema, o que pode causar confusão, erros e desperdício de recursos. A duplicidade de cadastros pode levar à fragmentação dos dados, dificultando o acompanhamento contínuo e eficiente das necessidades das pessoas atendidas.&#x20;
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+Além disso, ao garantir que cada pessoa possua um único registro, é possível manter a integridade e a precisão das informações, facilitando a tomada de decisões e a implementação de ações adequadas para cada caso.&#x20;
 
-Por meio deste campo, é possível pesquisar uma pessoa de diversas formas, como:
+{% hint style="info" %}
+Realizar uma pesquisa prévia no cadastro antes de proceder com o registro de novos indivíduos é essencial para **evitar duplicidades e otimizar o tempo** de atendimento.
+{% endhint %}
+
+Portanto, antes de cadastrar uma nova pessoa no SIAD, é essencial realizar uma pesquisa prévia, sendo uma prática indispensável para manter a qualidade e a eficiência de todo o sistema.
+
+Veja a seguir as várias formas de localizar uma pessoa.
+
+## Utilizando a pesquisa global
+
+A pesquisa global é a forma **mais fácil** de pesquisar por uma pessoa no SIAD. Ela aceita diversos tipos de dados e retorna rapidamente os resultados correspondentes.
+
+Para utilizá-la, basta preencher o campo <mark style="color:purple;">Pesquisar</mark>, localizado no canto superior direito da tela, presente em todas as páginas do sistema.
+
+<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption><p>Pesquisa global</p></figcaption></figure>
+
+Por meio deste campo, é possível pesquisar uma pessoa de diversas formas, como através do:
 
 * Nome civil
 * Nome social
@@ -18,17 +30,31 @@ Por meio deste campo, é possível pesquisar uma pessoa de diversas formas, como
 * CPF
 * NIS
 * Número de prontuário
-* Diversos números de outros documentos (como passaporte, CNH, RANI, RNE/RNM, entre outros)
+* Outros números de documentos (Passaporte, CNH, RANI, RNE/RNM, entre outros)
 
-Se uma pessoa for encontrada com os seus critérios de busca, ela aparecerá logo abaixo do campo de '<mark style="color:purple;">Pesquisa</mark>'. Basta clicar no resultado encontrado e você será redirecionado(a) para a '<mark style="color:purple;">Ficha de Cadastro</mark>' da mesma.
+{% hint style="info" %}
+Todos os dados utilizados neste manual são fictícios.
+{% endhint %}
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+Se uma pessoa for encontrada, ela aparecerá logo abaixo do campo de pesquisa, junto com seu código SIAD, data de nascimento, idade e CPF.
 
-Caso o termo utilizado para a pesquisa seja pouco específico, é possível encontrar mais de um resultado, como demonstrado na imagem abaixo. É recomendado utilizar termos e informações mais específicos possíveis, afim de facilitar a localização da pessoa cadastrada.
+{% hint style="info" %}
+Código SIAD é o código de identificação único de uma pessoa no SIAD.
+{% endhint %}
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption><p>Resultado da pesquisa global</p></figcaption></figure>
 
-## Utilizando o menu <mark style="color:purple;">Pessoas</mark>
+Se o termo utilizado na pesquisa for pouco específico, pode resultar em mais de um resultado, como ilustrado na imagem abaixo. Portanto, é recomendável utilizar termos e informações o mais específicos possível para facilitar a localização da pessoa cadastrada.
+
+<figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption><p>Pesquisa global com múltiplas pessoas encontradas</p></figcaption></figure>
+
+Se a pessoa não for localizada, siga para o [Fluxo de Cadastro](cadastro.md), para cadastrá-la no sistema.
+
+Caso tenha sido encontrada, basta clicar no resultado para ir até sua [Ficha de Cadastro](ficha.md).
+
+## Cadastro de Pessoas
+
+O Cadastro de Pessoas em si é uma funcionalidade que permite listar todas as pessoas cadastradas no sistema e disponibiliza diversas formas de filtrar e localizar cadastros.
 
 Acessando o menu '<mark style="color:purple;">Pessoas</mark>', dentro da categoria de '<mark style="color:purple;">Cadastros</mark>', você será apresentado(a) a esta tela:
 
