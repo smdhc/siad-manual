@@ -18,6 +18,8 @@ Caso tenha esquecido sua senha ou esteja enfrentando algum problema com acesso, 
 
 Em breve, disponibilizaremos uma forma mais automatizada de permitir a recuperação de senha.
 
+<figure><img src="../.gitbook/assets/image (57).png" alt="" width="427"><figcaption></figcaption></figure>
+
 ## Alterando a sua senha
 
 Após fazer a sua autenticação no sistema, você pode alterar a sua senha a qualquer momento.  Basta clicar no ícone localizado no canto superior direito, ao lado da <mark style="color:purple;">Barra de pesquisa</mark>, e em seguida clicar em <mark style="color:purple;">Perfil</mark>:
