@@ -8,7 +8,7 @@ O histórico de alterações dos dados é armazenado para fins de auditoria.
 
 ### Através da <mark style="color:purple;">Ficha Cadastral</mark>
 
-Uma das formas de acessar a opção de '<mark style="color:purple;">Editar</mark>' os dados cadastrais de uma pessoa é através da <mark style="color:purple;">Ficha Cadastral</mark>. Aqui, você poderá utilizar o menu '<mark style="color:purple;">Editar</mark>', localizado no topo da tela, ou a opção 'Atualizar Cadastro', no lado esquerdo da mesma.
+Uma das formas de modificar os dados cadastrais de uma pessoa é através da <mark style="color:purple;">Ficha Cadastral</mark>. Aqui, você poderá utilizar o botão '<mark style="color:purple;">Editar</mark>', localizado no topo da tela, ou a opção '<mark style="color:purple;">Atualizar Cadastro</mark>', no lado esquerdo da mesma.
 
 {% hint style="info" %}
 Para saber como acessar a <mark style="color:purple;">Ficha Cadastral</mark>, consulte a seguinte seção do manual:[#consultando-a-ficha-cadastral](ficha.md#consultando-a-ficha-cadastral "mention")
