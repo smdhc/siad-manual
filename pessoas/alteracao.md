@@ -18,13 +18,13 @@ Para saber como acessar a <mark style="color:purple;">Ficha Cadastral</mark>, co
 
 
 
-### Através do menu '<mark style="color:purple;">Pessoas</mark>'
+### Através do menu <mark style="color:purple;">Pessoas</mark>
 
 Outra forma de acessar a edição dos dados de uma pessoa é através do menu '<mark style="color:purple;">Pessoas</mark>'.\
 No lado direito de cada registro, você encontrará um botão. Ao clicar nele, você será redirecionado para a página de <mark style="color:purple;">edição dos dados</mark>. Além dessa opção, você também poderá <mark style="color:purple;">Visualizar</mark> e ter acesso aos <mark style="color:purple;">Prontuários</mark> associados à pessoa.
 
 {% hint style="info" %}
-Para saber mais sobre o menu 'Pessoas', consulte a seguinte seção do manual:\
+Para saber mais sobre o menu <mark style="color:purple;">Pessoas</mark>, consulte a seguinte seção do manual:\
 [#utilizando-o-menu-pessoas](pesquisa.md#utilizando-o-menu-pessoas "mention")
 {% endhint %}
 
