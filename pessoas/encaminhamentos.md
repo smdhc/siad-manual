@@ -8,11 +8,10 @@ Após acessar a <mark style="color:purple;">Ficha Cadastral</mark> da pessoa, é
 
 ### Criando um novo encaminhamento
 
-Para realizar o encaminhamento você deve clicar no botão '<mark style="color:purple;">Cadastrar Encaminhamento</mark>'.\
-Aqui, você também poderá ver todos os encaminhamentos feitos referentes ao cadastro em questão.
+Para criar um encaminhamento, clique no botão '<mark style="color:purple;">Cadastrar Encaminhamento</mark>'. Nesta seção, você também pode visualizar todos os encaminhamentos relacionados ao cadastro atual.
 
 {% hint style="info" %}
-Não é possível alterar um encaminhamento já cadastrado.
+Apenas o equipamento que originou o encaminhamento tem permissão para editá-lo, enquanto os demais equipamentos têm acesso somente para visualização.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Acessando o cadastro de um novo encaminhamento</p></figcaption></figure>
