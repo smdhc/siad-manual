@@ -14,6 +14,12 @@ Portanto, antes de cadastrar uma nova pessoa no SIAD, é essencial realizar uma 
 
 Veja a seguir as várias formas de localizar uma pessoa.
 
+Confira também o vídeo explicativo desta funcionalidade:
+
+{% hint style="info" %}
+[🎬](https://emojiterra.com/pt/claquete/) [SIAD - Pesquisa de Pessoas](https://shorturl.at/axz19)
+{% endhint %}
+
 ## Utilizando a pesquisa global
 
 A pesquisa global é a forma **mais fácil** de pesquisar por uma pessoa no SIAD. Ela aceita diversos tipos de dados e retorna rapidamente os resultados correspondentes.
@@ -66,6 +72,8 @@ Por padrão, serão exibidas todas as pessoas cadastradas no SIAD, independentem
 Com o SIAD, se uma pessoa já foi cadastrada anteriormente em outro equipamento, não será necessário recadastrá-la, facilitando seu atendimento. No entanto, recomendamos sempre manter seu [cadastro atualizado](alteracao.md).
 {% endhint %}
 
+### Filtrar por equipamento
+
 Se necessário, é possível filtrar esses cadastrados para facilitar a buca. No topo da tela, serão apresentadas 3 opções:
 
 * **Todos cadastrados na rede DH:** é a opção padrão, exibe todas as pessoas de nossa rede, mesmo as que foram cadastradas em outros equipamentos.
@@ -75,6 +83,8 @@ Se necessário, é possível filtrar esses cadastrados para facilitar a buca. No
 <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption><p>Filtros de equipamentos específicos ou para toda a rede de Direitos Humanos</p></figcaption></figure>
 
 Os números exibidos ao lado de cada opção indicam o total de pessoas existentes em cada filtro.
+
+### Filtros categóricos
 
 Um pouco mais abaixo, temos o botão <mark style="color:purple;">Filtrar</mark>:
 
