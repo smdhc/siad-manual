@@ -22,7 +22,7 @@ Nesse exemplo, para ler o comunicado, basta clicar na notificação em laranja. 
 
 Uma outra forma de acessar os comunicados é clicando no item <mark style="color:purple;">Comunicados</mark> do menu lateral do sistema. Você será redirecionado para uma tela contendo todos os comunicados publicados.
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Lista de comunicados</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption><p>Lista de comunicados</p></figcaption></figure>
 
 &#x20;<mark style="color:purple;">Ao clicar em um comunicado</mark>, será exibido o seu conteúdo na íntegra e o mesmo será marcado como lido, limpando as notificações correspondentes.
 

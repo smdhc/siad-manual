@@ -38,10 +38,6 @@ Por meio deste campo, é possível pesquisar uma pessoa de diversas formas, como
 * Número de prontuário
 * Outros números de documentos (Passaporte, CNH, RANI, RNE/RNM, entre outros)
 
-{% hint style="info" %}
-Todos os dados utilizados neste manual são fictícios.
-{% endhint %}
-
 Se uma pessoa for encontrada, ela aparecerá logo abaixo do campo de pesquisa, junto com seu código SIAD, data de nascimento, idade e CPF.
 
 {% hint style="info" %}

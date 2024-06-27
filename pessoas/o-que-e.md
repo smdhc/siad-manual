@@ -1,6 +1,6 @@
 # O que é?
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 O **Cadastro de Pessoas** é a principal funcionalidade SIAD, que consiste na coleta, registro e organização de informações de pessoas que buscam o atendimento na nossa rede de direitos humanos.&#x20;
 
@@ -8,4 +8,14 @@ Este cadastro permite a identificação precisa e o acompanhamento das necessida
 
 A importância do cadastro de pessoas reside na sua capacidade de assegurar que nenhuma pessoa seja negligenciado e que todas recebam o suporte necessário de maneira eficiente e justa.
 
-Veja a seguir como acessar, consultar e utilizar essa funcionalidade.
+### Como acessar?
+
+Para acessar o cadastro de pessoas, basta clicar no menu lateral <mark style="color:purple;">Pessoas</mark>, e você será redirecionado para a tela de listagem inicial, que permite realizar diversos tipos de pesquisa, alterar ou incluir cadastros.
+
+{% hint style="info" %}
+Todos os dados utilizados neste manual são fictícios.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Veja a seguir as diversas formas de pesquisar por uma pessoa e como proceder para cadastrar e atualizar.
