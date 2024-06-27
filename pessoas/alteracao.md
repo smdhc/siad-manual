@@ -25,7 +25,7 @@ No lado direito de cada registro, você encontrará um botão. Ao clicar nele, v
 
 {% hint style="info" %}
 Para saber mais sobre o menu <mark style="color:purple;">Pessoas</mark>, consulte a seguinte seção do manual:\
-[#utilizando-o-menu-pessoas](pesquisa.md#utilizando-o-menu-pessoas "mention")
+[#utilizando-o-menu-pessoas](pesquisa/#utilizando-o-menu-pessoas "mention")
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>

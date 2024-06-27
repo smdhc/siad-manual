@@ -22,7 +22,10 @@
 ## Cadastro de Pessoas <a href="#pessoas" id="pessoas"></a>
 
 * [O que é?](pessoas/o-que-e.md)
-* [Pesquisa de pessoas](pessoas/pesquisa.md)
+* [Pesquisa de pessoas](pessoas/pesquisa/README.md)
+  * [Pesquisa Global](pessoas/pesquisa/pesquisa-global.md)
+  * [Filtros de equipamentos](pessoas/pesquisa/filtros-de-equipamentos.md)
+  * [Filtros categóricos](pessoas/pesquisa/filtros-categoricos.md)
 * [Fluxo de cadastro](pessoas/cadastro.md)
 * [Ficha de cadastro](pessoas/ficha.md)
 * [Alteração dos dados](pessoas/alteracao.md)
