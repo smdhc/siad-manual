@@ -54,29 +54,50 @@ Caso tenha sido encontrada, basta clicar no resultado para ir até sua [Ficha de
 
 ## Cadastro de Pessoas
 
-O Cadastro de Pessoas em si é uma funcionalidade que permite listar todas as pessoas cadastradas no sistema e disponibiliza diversas formas de filtrar e localizar cadastros.
+O Cadastro de Pessoas em si também permite realizar outros tipos de pesquisa, como visualizar somente os cadastros do seu equipamento ou aplicar uma série de combinações de filtros utilizando as informações presentes no cadastro da pessoa.
 
-Acessando o menu '<mark style="color:purple;">Pessoas</mark>', dentro da categoria de '<mark style="color:purple;">Cadastros</mark>', você será apresentado(a) a esta tela:
+Para acessar o cadastro, basta clicar na opção <mark style="color:purple;">Pessoas</mark>, no menu lateral esquerdo, onde será exibida a seguinte tela:
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p>Cadastro de Pessoas - Tela inicial de consulta</p></figcaption></figure>
 
-Aqui, você tem a capacidade de buscar todos os cadastros na rede, <mark style="color:purple;">filtrar</mark> por <mark style="color:purple;">equipamentos específicos</mark> ou focar apenas nos prontuários deste equipamento em particular. Basta selecionar a opção desejada. Nota-se que ao lado direito das opções existem valores, esses números indicam a quantidade de cadastros ou prontuários na opção selecionada:
+Por padrão, serão exibidas todas as pessoas cadastradas no SIAD, independentemente do equipamento.
+
+{% hint style="info" %}
+Com o SIAD, se uma pessoa já foi cadastrada anteriormente em outro equipamento, não será necessário recadastrá-la, facilitando seu atendimento. No entanto, recomendamos sempre manter seu [cadastro atualizado](alteracao.md).
+{% endhint %}
+
+Se necessário, é possível filtrar esses cadastrados para facilitar a buca. No topo da tela, serão apresentadas 3 opções:
+
+* **Todos cadastrados na rede DH:** é a opção padrão, exibe todas as pessoas de nossa rede, mesmo as que foram cadastradas em outros equipamentos.
+* **Somente cadastrados neste equipamento:** exibe somente as pessoas que foram cadastradas no seu equipamento.
+* **Somente com prontuário neste equipamento:** exibe somente as pessoas que possuem algum número de prontuário físico associado com o seu equipamento, mesmo que tenham sido cadastradas em outros equipamentos.
 
 <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption><p>Filtros de equipamentos específicos ou para toda a rede de Direitos Humanos</p></figcaption></figure>
 
-Você também pode utilizar o campo '<mark style="color:purple;">Pesquisar</mark>', buscando por dados específicos da pessoa cadastrada no sistema. Além disso, há a opção de <mark style="color:purple;">aplicar filtros</mark> clicando no ícone de funil, como mostra a imagem abaixo:
+Os números exibidos ao lado de cada opção indicam o total de pessoas existentes em cada filtro.
 
-{% hint style="info" %}
-Atenção: alguns campos são aplicados em contextos específicos e, por isso, não representam o total de pessoas cadastradas na base
+Um pouco mais abaixo, temos o botão <mark style="color:purple;">Filtrar</mark>:
+
+<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption><p>Botão "Filtrar"</p></figcaption></figure>
+
+Ao clicar nesse botão, serão abertas diversas opções de filtros, por meio dos quais você poderá pesquisar pelas categorias do cadastro de pessoas, como por exemplo, condição de moradia, identidade de gênero e raça/cor:
+
+<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption><p>Filtros do cadastro de pessoas</p></figcaption></figure>
+
+{% hint style="warning" %}
+Atenção: ao selecionar mais de uma opção de filtro, o sistema irá buscar por cadastros que satisfaçam todas as condições informadas, e não apenas uma. Vale ressaltar também que alguns campos são aplicados em contextos específicos e, por isso, **podem não representar o total de pessoas** cadastradas na base.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption><p>Opções de busca encontradas na seção de Cadastro de Pessoas</p></figcaption></figure>
+Uma vez selecionadas as opções de filtro desejadas, não esqueça de clicar em <mark style="color:purple;">Aplicar filtros</mark>, localizado no final dessa seção:
 
-A seção de <mark style="color:purple;">filtros</mark> oferece diversas opções de amostragem. Selecionando os de sua preferência, você poderá buscar cadastros mais específicos, como, por exemplo, apenas do sexo feminino ou de alguma etnia, orientação sexual, raça/cor específica, entre outras opções. É importante lembrar de clicar no botão '<mark style="color:purple;">Aplicar filtro</mark>' após finalizar as escolhas.
+<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption><p>Botão para aplicar os filtros</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p>Opções de filtros disponíveis</p></figcaption></figure>
+Os resultados serão exibidos na tabela logo abaixo, que contém:
 
-Os <mark style="color:purple;">resultados serão exibidos na tabela abaixo</mark>, mostrando quais filtros foram aplicados, dados das pessoas cadastradas que condizem com os requisitos, e também o total de resultados encontrados.
+* Filtros aplicados
+* Listagem contendo os cadastros encontrados
+* Controles de paginação
+* Total de pessoas encontradas
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>Pessoas encontradas, filtros aplicados e total de resultados</p></figcaption></figure>
 
