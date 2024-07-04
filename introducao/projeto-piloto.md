@@ -9,6 +9,7 @@ Lançado em **julho de 2024**, o SIAD tem como sua primeira funcionalidade o mó
 * Núcleo de Direitos Humanos Campo Limpo
 * Núcleo de Direitos Humanos Jabaquara
 * Estação Cidadania
+* Recifran
 * Reviravolta
 * CRCM 25 de Março
 * CRCM Brasilândia
