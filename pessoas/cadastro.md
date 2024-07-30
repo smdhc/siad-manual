@@ -12,18 +12,18 @@ Para criar um novo registro, basta clicar no botão '<mark style="color:purple;"
 
 <figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>Botão de cadastro acessível pelo menu Pessoas</p></figcaption></figure>
 
-Ao clicar, será aberta uma caixa de consulta de <mark style="color:purple;">CPF</mark>, onde será verificado se o documento informado já está registrado na base de dados. Caso não esteja, basta clicar no botão '<mark style="color:purple;">Continuar Cadastro</mark>', e você será redirecionado(a) para a tela de cadastro.
+Ao clicar, será aberta uma caixa de consulta de <mark style="color:purple;">CPF</mark>, que permite verificar se a pessoa já está cadastrada no sistema através do número de documento informado. Caso não esteja, basta clicar no botão '<mark style="color:purple;">Continuar Cadastro</mark>', e você será redirecionado(a) para a tela de cadastro.
 
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption><p>Verificar se o CPF já consta na base do sistema</p></figcaption></figure>
 
 ### Inserindo os dados cadastrais
 
-Começando com informações básicas da pessoa atendida, aqui será possível adicionar os <mark style="color:purple;">Dados de Identificação</mark>, como <mark style="color:purple;">Nome Civil</mark>, <mark style="color:purple;">Data de Nascimento</mark>, <mark style="color:purple;">Nome da mãe</mark>, entre outros.
+Ao continuar para a tela de cadastro, você será apresentado à primeira aba que coleta os **Dados Cadastrais** da pessoa, onde será possível adicionar os <mark style="color:purple;">Dados de Identificação</mark>, como <mark style="color:purple;">Nome Civil</mark>, <mark style="color:purple;">Data de Nascimento</mark>, <mark style="color:purple;">Nome da mãe</mark>, entre outros.
 
 <figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Alguns campos terão indicadores ' <mark style="color:red;">\*</mark> ' vermelhos logo acima, indicando que é de preenchimento obrigatório, tendo como exemplo os campos de '<mark style="color:purple;">Nome Civil</mark>' e '<mark style="color:purple;">Data de Nascimento</mark>'.
+Alguns campos são de preenchimento obrigatório, indicados pelo símbolo <mark style="color:red;">\*</mark> ao lado do nome do campo, como por exemplo, os campos de <mark style="color:purple;">Nome Civil</mark> e <mark style="color:purple;">Data de Nascimento</mark>.
 {% endhint %}
 
 ### Atendimento Emergencial

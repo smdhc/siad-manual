@@ -17,7 +17,7 @@ A seguir iremos abordar as diversas formas de realizar essa pesquisa.
 Confira também o vídeo explicativo desta funcionalidade:
 
 {% hint style="info" %}
-[🎬](https://emojiterra.com/pt/claquete/) [SIAD - Pesquisa de Pessoas](https://shorturl.at/axz19)
+[🎬 Vídeo: SIAD - Pesquisa de Pessoas](https://shorturl.at/r2ctx)
 {% endhint %}
 
 ## Cadastro de Pessoas
@@ -34,21 +34,33 @@ Por padrão, serão exibidas todas as pessoas cadastradas no SIAD, independentem
 Com o SIAD, se uma pessoa já foi cadastrada anteriormente em outro equipamento, não será necessário recadastrá-la, facilitando seu atendimento. No entanto, recomendamos sempre manter seu [cadastro atualizado](../alteracao.md).
 {% endhint %}
 
+Nas próximas páginas abordaremos as diversas formas de pesquisar por uma pessoa no sistema.
+
+
+
+
+
+\---------------- Mover conteúdo abaixo para as páginas específicas ----------------
+
 ### Filtrar por equipamento
 
-Se necessário, é possível filtrar esses cadastrados para facilitar a buca. No topo da tela, serão apresentadas 3 opções:
+Ao acessar o Cadastro de Pessoas, o sistema exibe por padrão todas as pessoas cadastradas em toda a rede de atendimento de SMDHC.
+
+Se necessário, é possível filtrar esses cadastros para facilitar a busca. No topo da tela, serão apresentadas 3 opções:
 
 * **Todos cadastrados na rede DH:** é a opção padrão, exibe todas as pessoas de nossa rede, mesmo as que foram cadastradas em outros equipamentos.
 * **Somente cadastrados neste equipamento:** exibe somente as pessoas que foram cadastradas no seu equipamento.
-* **Somente com prontuário neste equipamento:** exibe somente as pessoas que possuem algum número de prontuário físico associado com o seu equipamento, mesmo que tenham sido cadastradas em outros equipamentos.
+* **Somente com prontuário neste equipamento:** exibe somente as pessoas que possuem algum número de **prontuário físico associado com o seu equipamento**, mesmo que tenham sido cadastradas em outros equipamentos.
 
 <figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption><p>Filtros de equipamentos específicos ou para toda a rede de Direitos Humanos</p></figcaption></figure>
 
-Os números exibidos ao lado de cada opção indicam o total de pessoas existentes em cada filtro.
+Os números exibidos ao lado de cada opção indicam o total de pessoas encontradas em cada filtro.
+
+\----------------------------------------------
 
 ### Filtros categóricos
 
-O sistema também permite buscar por cadastros que correspondam a uma ou mais categorias de cadastros, como por exemplo, faixa etária, identidade de gênero e condição de moradia.
+O sistema também permite buscar por cadastros que correspondam a uma ou mais categorias de perfil, como por exemplo, faixa etária, identidade de gênero e condição de moradia.
 
 Essa forma de pesquisa possibilita, inclusive, realizar análises quantitativas de públicos-alvos específicos cadastrados no equipamento.
 
@@ -62,13 +74,13 @@ Para realizar esse tipo de filtro, basta clicar no botão <mark style="color:pur
 
 <figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption><p>Botão "Filtrar"</p></figcaption></figure>
 
-Ao clicar nesse botão, serão abertas diversas opções de filtros, por meio dos quais você poderá pesquisar pelas categorias do cadastro de pessoas, como por exemplo, condição de moradia, identidade de gênero e raça/cor:
+Ao clicar nesse botão, serão abertas diversas opções de filtros, por meio das quais você poderá pesquisar pelas categorias do cadastro de pessoas, como por exemplo, condição de moradia, identidade de gênero e raça/cor:
 
 <figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption><p>Filtros do cadastro de pessoas</p></figcaption></figure>
 
 {% hint style="warning" %}
 Atenção: ao selecionar mais de uma opção de filtro, o sistema irá buscar por cadastros que satisfaçam **todas as condições informadas**, e não apenas uma. \
-Vale ressaltar, também, que alguns campos são aplicados em contextos específicos e, por isso, **podem não representar o total de pessoas** cadastradas na base.
+Vale ressaltar, também, que alguns campos são aplicados em contextos específicos e, por isso, **podem não representar o total de pessoas** cadastradas na base (_ex: o campo <mark style="color:purple;">Sexo Biológico</mark> é exibido somente para menores de 18 anos)_.
 {% endhint %}
 
 Uma vez selecionadas as opções de filtro desejadas, não esqueça de clicar em <mark style="color:purple;">Aplicar filtros</mark>, localizado no final dessa seção:
@@ -77,13 +89,13 @@ Uma vez selecionadas as opções de filtro desejadas, não esqueça de clicar em
 
 Na tabela inferior, serão apresentados todos os cadastros que correspondam aos filtros selecionados, contendo:
 
-* Filtros aplicados
+* Filtros aplicados/ativos
 * Listagem contendo os cadastros encontrados
 * Controles de paginação
 
 <figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption><p>Resultado da pesquisa</p></figcaption></figure>
 
-O sistema também exibe, no rodapé da tabela, o total de pessoas que foram localizadas com base nos filtros utilizados:
+O sistema também exibe, no rodapé da tabela, o **total de pessoas** que foram localizadas com base nos filtros utilizados:
 
 <figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption><p>Total de resultados encontrados</p></figcaption></figure>
 
@@ -107,10 +119,18 @@ Para remover **todos** os filtros ativos, basta clicar no ícone "X" localizar n
 Nesses dois últimos exemplos, não é necessário clicar em <mark style="color:purple;">Aplicar filtros</mark> novamente. Ao clicar no ícone "X", o sistema irá realizar automaticamente uma nova pesquisa sem considerar os filtros que foram removidos.
 {% endhint %}
 
-Alternativamente, também é possível limpar os filtros clicando na opção Limpar filtros no topo da tela, conforme destacado na imagem abaixo:
+Alternativamente, também é possível limpar os filtros clicando na opção <mark style="color:purple;">Limpar filtros</mark> no topo da tela, conforme destacado na imagem abaixo:
 
 <figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption><p>Limpeza de filtros</p></figcaption></figure>
+
+\---------------------------------------------
 
 ### Filtro de texto
 
 Além dos filtros apresentados anteriormente, da mesma forma que na pesquisa global, também é possível pesquisar por texto no campo Pesquisar, localizado abaixo do botão Filtrar.
+
+(incluir imagem destacando o campo de pesquisa da tabela)
+
+(fazer menção que não precisa clicar em aplicar filtros, é só aguardar um pouco após preencher)
+
+(destacar a vantagem desse filtro que permite também combinar com os filtros categóricos e de equipamentos, e dar um exemplo disso)

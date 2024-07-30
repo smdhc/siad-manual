@@ -2,13 +2,13 @@
 
 ### Consultando a ficha cadastral
 
-Para consultas de fichas cadastradas, basta você retornar para o início da seção '<mark style="color:purple;">Pessoas</mark>'. Nela, você verá uma <mark style="color:purple;">listagem de cadastros em formato de tabela</mark>. Clicando em um cadastro, você será direcionado para a <mark style="color:purple;">Ficha Cadastral</mark> da mesma.
+Ao gravar um novo cadastro ou ao selecionar um cadastro existe na tela de Cadastro de Pessoas, você será direcionado para a <mark style="color:purple;">Ficha de Cadastro</mark> da mesma.
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+A Ficha de Cadastro da Pessoa exibe todos os dados cadastrados para aquela pessoa, permitindo inclusive a impressão da mesma.
 
-<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption><p>Ficha de Cadastro da Pessoa</p></figcaption></figure>
 
-Aqui, é possível consultar com mais detalhes todos os dados cadastrais de uma pessoa cadastrada no sistema.
+
 
 ###
 
