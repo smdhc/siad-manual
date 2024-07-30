@@ -25,6 +25,7 @@
 * [Pesquisa de pessoas](pessoas/pesquisa/README.md)
   * [Pesquisa Global](pessoas/pesquisa/pesquisa-global.md)
   * [Filtros de equipamentos](pessoas/pesquisa/filtros-de-equipamentos.md)
+  * [Filtro de Texto](pessoas/pesquisa/filtro-de-texto.md)
   * [Filtros categóricos](pessoas/pesquisa/filtros-categoricos.md)
 * [Fluxo de cadastro](pessoas/cadastro.md)
 * [Ficha de cadastro](pessoas/ficha.md)
