@@ -23,5 +23,5 @@ Veja a seguir as diversas formas de pesquisar por uma pessoa e como proceder par
 Não deixe de conferir também o vídeo explicativo:
 
 {% hint style="info" %}
-[🎬](https://emojiterra.com/pt/claquete/)[Vídeo: SIAD](https://shorturl.at/Kf459)[ - Fluxo de Cadastro de Pessoas](https://shorturl.at/9O5cT)
+[🎬Vídeo: SIAD - Fluxo de Cadastro de Pessoas](https://shorturl.at/9O5cT)
 {% endhint %}
