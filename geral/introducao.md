@@ -5,5 +5,5 @@ Nesta seção você encontrará informações básicas sobre como realizar o pri
 Não deixe de conferir também o vídeo explicativo:
 
 {% hint style="info" %}
-[🎬](https://emojiterra.com/pt/claquete/)[SIAD - Visão Geral do Sistema](https://shorturl.at/fSUZ5)
+[🎬](https://emojiterra.com/pt/claquete/)[Vídeo: SIAD - Visão Geral do Sistema](https://shorturl.at/Kf459)
 {% endhint %}

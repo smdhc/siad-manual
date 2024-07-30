@@ -11,3 +11,9 @@ Desenvolvido pela Secretaria Municipal de Direitos Humanos e Cidadania de São P
 O sistema possibilita um acompanhamento mais amplo e minucioso de casos de violência, bem como uma maior qualificação dos atendimentos realizados, **integrando a nossa rede** e resultando em maior controle e responsividade por parte da administração pública.&#x20;
 
 Além disso, os dados coletados auxiliam num processo de **tomada de decisão** mais qualificado para o desenvolvimento de políticas públicas e seus projetos.&#x20;
+
+Confira também o vídeo explicativo desta funcionalidade:
+
+{% hint style="info" %}
+[🎬](https://emojiterra.com/pt/claquete/)[Vídeo: Apresentação do SIAD](https://shorturl.at/Kf459)
+{% endhint %}
