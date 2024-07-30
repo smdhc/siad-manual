@@ -10,9 +10,8 @@ Com este filtro, é possível refinar suas pesquisas adicionando palavra complem
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-A vantagem de utilizar o filtro de texto é que ele permite combinar com os filtros anteriores de categorias e equipamentos, proporcionando resultados mais precisos.
-
 {% hint style="info" %}
 Não há necessidade de clicar em nenhum botão para obter resultados do filtro de texto. Utilizando apenas os filtros anteriores e uma palavra-chave, você já terá alguns resultados listados.
 {% endhint %}
 
+A vantagem de utilizar o filtro de texto é que ele permite combinar com os filtros anteriores de categorias e equipamentos, proporcionando resultados mais precisos.
