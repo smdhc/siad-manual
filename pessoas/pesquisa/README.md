@@ -36,16 +36,3 @@ Com o SIAD, se uma pessoa já foi cadastrada anteriormente em outro equipamento,
 
 Nas próximas páginas abordaremos as diversas formas de pesquisar por uma pessoa no sistema.
 
-
-
-\-------
-
-### Filtro de texto
-
-Além dos filtros apresentados anteriormente, da mesma forma que na pesquisa global, também é possível pesquisar por texto no campo Pesquisar, localizado abaixo do botão Filtrar.
-
-(incluir imagem destacando o campo de pesquisa da tabela)
-
-(fazer menção que não precisa clicar em aplicar filtros, é só aguardar um pouco após preencher)
-
-(destacar a vantagem desse filtro que permite também combinar com os filtros categóricos e de equipamentos, e dar um exemplo disso)
