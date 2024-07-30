@@ -8,9 +8,11 @@ Em caso de dúvida, você encontrará por todo o cadastro ícones de ajuda ao la
 
 Para criar um novo registro, basta clicar no botão '<mark style="color:purple;">Cadastrar Pessoa</mark>'. Ele pode ser encontrado tanto no '<mark style="color:purple;">Painel de Controle'</mark>, como no menu '<mark style="color:purple;">Cadastro</mark>' -> '<mark style="color:purple;">Pessoas</mark>':
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption><p>Botão de cadastro acessível pelo Painel de Controle</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption><p>Botão de cadastro acessível pelo Painel de Controle</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>Botão de cadastro acessível pelo menu Pessoas</p></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption><p>Botão de cadastro acessível pelo menu Pessoas</p></figcaption></figure>
 
 Ao clicar, será aberta uma caixa de consulta de <mark style="color:purple;">CPF</mark>, que permite verificar se a pessoa já está cadastrada no sistema através do número de documento informado. Caso não esteja, basta clicar no botão '<mark style="color:purple;">Continuar Cadastro</mark>', e você será redirecionado(a) para a tela de cadastro.
 
@@ -20,7 +22,7 @@ Ao clicar, será aberta uma caixa de consulta de <mark style="color:purple;">CPF
 
 Ao continuar para a tela de cadastro, você será apresentado à primeira aba que coleta os **Dados Cadastrais** da pessoa, onde será possível adicionar os <mark style="color:purple;">Dados de Identificação</mark>, como <mark style="color:purple;">Nome Civil</mark>, <mark style="color:purple;">Data de Nascimento</mark>, <mark style="color:purple;">Nome da mãe</mark>, entre outros.
 
-<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Alguns campos são de preenchimento obrigatório, indicados pelo símbolo <mark style="color:red;">\*</mark> ao lado do nome do campo, como por exemplo, os campos de <mark style="color:purple;">Nome Civil</mark> e <mark style="color:purple;">Data de Nascimento</mark>.
@@ -42,7 +44,7 @@ Na segunda etapa do cadastro, será possível coletar informações sobre a loca
 Inserindo apenas o CEP da pessoa atendida (caso esteja disponível), metade do cadastro será preenchido automaticamente, otimizando o tempo de atendimento.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption><p>Seção do cadastro que contém dados de endereço e contatos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 O campo 'Demanda sigilo de correspondência/contato' deve ser marcado quando o tipo de correspondência com a pessoa atendida deve ser feita com cuidado. Quando o sigilo estiver ativo, cartas <mark style="color:red;">não</mark> devem ser enviadas para o da pessoa atendida. Mais informações podem ser encontradas abaixo do campo, dentro do formulário.
@@ -56,16 +58,16 @@ Nesta seção do cadastro, é possível coletar informações específicas e mui
 Em caso de dúvida, utilize os campos '<mark style="color:orange;">Consultar Significados</mark>' e '<mark style="color:purple;">Consultar Instruções'.</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption><p>Seção de cadastro dos Dados Sociodemográficos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
 ### Dados Socioeconômicos
 
 Nesta seção, você também se depara com dados cadastrais muito importantes para compreendermos melhor a <mark style="color:purple;">situação econômica</mark> e <mark style="color:purple;">social</mark> da pessoa em atendimento.
 
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
 ### Outros
 
 Na última etapa do cadastro, é possível registrar observações, detalhamentos ou informações que não foram coletados nas seções anteriores, mas que considere <mark style="color:purple;">relevante para o cadastro da pessoa</mark>.
 
-<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
