@@ -19,3 +19,10 @@ Todos os dados utilizados neste manual são fictícios.
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Veja a seguir as diversas formas de pesquisar por uma pessoa e como proceder para cadastrar e atualizar.
+
+Não deixe de conferir também o vídeo explicativo:\
+
+
+{% hint style="info" %}
+[SIAD - Fluxo de Cadastro de Pessoas](https://shorturl.at/9O5cT)
+{% endhint %}
