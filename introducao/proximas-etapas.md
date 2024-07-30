@@ -1,6 +1,6 @@
 # Próximas Etapas
 
-<figure><img src="../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Nessa fase inicial de implantação do SIAD, temos como próximas etapas a curto prazo:
 
@@ -11,7 +11,7 @@ Nessa fase inicial de implantação do SIAD, temos como próximas etapas a curto
 
 É importante destacar que as funcionalidades iniciais do sistema continuarão passando por um processo constante de melhoria e evolução, sempre buscando se adequar às necessidades da nossa rede, sem perder de vista o objetivo maior: garantir um melhor acompanhamento e articulação em rede dos casos de violência contra os direitos humanos.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (2) (1).png" alt=""><figcaption><p>Próximas etapas</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (2) (1) (1).png" alt=""><figcaption><p>Próximas etapas</p></figcaption></figure>
 
 Essa etapa inicial também serve como base fundamental para os módulos subsequentes:
 
