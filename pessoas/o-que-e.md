@@ -20,9 +20,8 @@ Todos os dados utilizados neste manual são fictícios.
 
 Veja a seguir as diversas formas de pesquisar por uma pessoa e como proceder para cadastrar e atualizar.
 
-Não deixe de conferir também o vídeo explicativo:\
-
+Não deixe de conferir também o vídeo explicativo:
 
 {% hint style="info" %}
-[SIAD - Fluxo de Cadastro de Pessoas](https://shorturl.at/9O5cT)
+[🎬](https://emojiterra.com/pt/claquete/)[Vídeo: SIAD](https://shorturl.at/Kf459)[ - Fluxo de Cadastro de Pessoas](https://shorturl.at/9O5cT)
 {% endhint %}
