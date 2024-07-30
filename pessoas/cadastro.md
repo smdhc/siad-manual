@@ -18,6 +18,14 @@ Ao clicar, será aberta uma caixa de consulta de <mark style="color:purple;">CPF
 
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption><p>Verificar se o CPF já consta na base do sistema</p></figcaption></figure>
 
+Caso o CPF informado já esteja na base de dados, uma mensagem em vermelho aparecerá. Logo abaixo, será exibido o número SIAD e o perfil correspondente ao CPF. Basta clicar no link para ser redirecionado a ficha da pessoa.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Se o CPF digitado não estiver na base de dados do SIAD, uma mensagem verde em destaque informará isso. Nesse caso, basta continuar o cadastro.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 ### Inserindo os dados cadastrais
 
 Ao continuar para a tela de cadastro, você será apresentado à primeira aba que coleta os **Dados Cadastrais** da pessoa, onde será possível adicionar os <mark style="color:purple;">Dados de Identificação</mark>, como <mark style="color:purple;">Nome Civil</mark>, <mark style="color:purple;">Data de Nascimento</mark>, <mark style="color:purple;">Nome da mãe</mark>, entre outros.
