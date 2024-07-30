@@ -20,4 +20,4 @@ Essa etapa inicial também serve como base fundamental para os módulos subseque
 * Gestão de benefícios
 * Programas e outros serviços
 
-A expectativa é que, até o **final de 2024**, já tenhamos no sistema a possibilidade de registrar os **atendimentos** de nossa rede de direitos humanos, de onde surgirão os principais indicadores a serem trabalhados pelas coordenações.
+A expectativa é que, até o **final de 2024**, já tenhamos no sistema a possibilidade de registrar os **atendimentos e atividades** de nossa rede de direitos humanos, de onde surgirão os principais indicadores a serem trabalhados pelas coordenações.
