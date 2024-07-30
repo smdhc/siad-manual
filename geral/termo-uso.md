@@ -2,7 +2,7 @@
 
 ## Primeiro acesso
 
-Ao acessar o sistema pela primeira vez, você será apresentado ao termo de uso do sistema vigente. É essencial ler e concordar com esses termos antes de prosseguir.
+Ao acessar o sistema pela primeira vez, você será apresentado ao termo de uso em vigor do sistema. É essencial ler e concordar com esses termos antes de prosseguir.
 
 {% hint style="danger" %}
 Os termos de uso são fundamentais para estabelecer diretrizes transparentes e garantir a conformidade com as **políticas de segurança** vigentes e a **Lei Geral de Proteção de Dados**.

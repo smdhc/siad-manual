@@ -2,7 +2,7 @@
 
 ## Introdução sobre os comunicados
 
-O SIAD dispõe de uma funcionalidade de Comunicados, que permite manter o usuário do sistema informado sobre atualizações, correções e outros tipos de comunicações relevantes.&#x20;
+O SIAD dispõe de uma funcionalidade de **Comunicados**, que permite manter o usuário do sistema informado sobre atualizações, correções e outros tipos de comunicações relevantes.&#x20;
 
 Esses comunicados são cadastrados pela equipe técnica responsável pelo SIAD, em SMDHC, e também pelas Coordenações Temáticas sempre que necessário.
 
@@ -14,9 +14,9 @@ Leia sempre os comunicados do sistema para se manter atualizado e conferir as no
 
 Sempre que houver um comunicado novo, o sistema exibirá uma notificação em destaque no painel de controle, assim como um indicador no menu lateral contendo a quantidade de comunicados não lidos.
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Notificações de comunicados não lidos no painel de controle</p></figcaption></figure>
-
 Nesse exemplo, para ler o comunicado, basta clicar na notificação em laranja. Você será redirecionado para a lista de comunicados do sistema, conforme será melhor detalhado a seguir.
+
+<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 ## Lista de comunicados
 
