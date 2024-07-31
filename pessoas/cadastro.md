@@ -18,13 +18,19 @@ Ao clicar, será aberta uma caixa de consulta de <mark style="color:purple;">CPF
 
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption><p>Verificar se o CPF já consta na base do sistema</p></figcaption></figure>
 
-Caso o CPF informado já esteja na base de dados, uma mensagem em vermelho aparecerá. Logo abaixo, será exibido o número SIAD e o perfil correspondente ao CPF. Basta clicar no link para ser redirecionado a ficha da pessoa.
+Caso o CPF informado já esteja na base de dados, uma mensagem em vermelho aparecerá. Será exibido o número SIAD e o perfil correspondente ao CPF. Basta clicar no link para ser redirecionado a ficha da pessoa.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Se o CPF digitado não estiver na base de dados do SIAD, uma mensagem verde em destaque informará isso. Nesse caso, basta continuar o cadastro.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+
+
+{% hint style="warning" %}
+Apesar de não ser obrigatório, a etapa de conferir se o CPF já está cadastrado na base de dados se torna bastante importante para evitar duplicidades no cadastro.
+{% endhint %}
 
 ### Inserindo os dados cadastrais
 
