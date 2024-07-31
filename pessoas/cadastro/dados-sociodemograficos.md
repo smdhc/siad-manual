@@ -1,7 +1,5 @@
 # Dados Sociodemográficos
 
-### Dados Sociodemográficos
-
 Nesta seção do cadastro, é possível coletar informações específicas e muito importantes da pessoa atendida, pois esses dados são fundamentais para uma <mark style="color:purple;">compreensão mais aprofundada</mark> das características da população atendida e são utilizados na análise de dados para a <mark style="color:purple;">formulação de políticas públicas</mark>.
 
 {% hint style="info" %}
