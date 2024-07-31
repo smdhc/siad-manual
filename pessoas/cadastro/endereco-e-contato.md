@@ -1,7 +1,5 @@
 # Endereço e Contato
 
-### Endereço e contato
-
 Na segunda etapa do cadastro, será possível coletar informações sobre a localidade e os contatos da pessoa.
 
 {% hint style="info" %}

@@ -32,5 +32,3 @@ Se o CPF digitado não estiver na base de dados do SIAD, uma mensagem verde em d
 Apesar de não ser obrigatório, conferir se o CPF já está cadastrado na base de dados é importante para evitar duplicidades no cadastro.
 {% endhint %}
 
-###
-
