@@ -29,3 +29,5 @@ Para saber mais sobre o menu <mark style="color:purple;">Pessoas</mark>, consult
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+
+Após selecionar a opção editar, você sera direcionado para&#x20;
