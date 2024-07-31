@@ -28,6 +28,6 @@ Se o termo utilizado na pesquisa for pouco específico, pode resultar em mais de
 
 <figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption><p>Pesquisa global com múltiplas pessoas encontradas</p></figcaption></figure>
 
-Se a pessoa não for localizada, siga para o [Fluxo de Cadastro](../cadastro.md), para cadastrá-la no sistema.
+Se a pessoa não for localizada, siga para o [Fluxo de Cadastro](../cadastro/), para cadastrá-la no sistema.
 
 Caso tenha sido encontrada, basta clicar no resultado para ir até sua [Ficha de Cadastro](../ficha.md).

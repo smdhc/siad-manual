@@ -1,0 +1,12 @@
+# Dados Sociodemográficos
+
+### Dados Sociodemográficos
+
+Nesta seção do cadastro, é possível coletar informações específicas e muito importantes da pessoa atendida, pois esses dados são fundamentais para uma <mark style="color:purple;">compreensão mais aprofundada</mark> das características da população atendida e são utilizados na análise de dados para a <mark style="color:purple;">formulação de políticas públicas</mark>.
+
+{% hint style="info" %}
+Em caso de dúvida, utilize os campos '<mark style="color:orange;">Consultar Significados</mark>' e '<mark style="color:purple;">Consultar Instruções'.</mark>
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+
