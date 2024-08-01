@@ -16,7 +16,7 @@ Sempre que houver um comunicado novo, o sistema exibirá uma notificação em de
 
 Nesse exemplo, para ler o comunicado, basta clicar na notificação em laranja. Você será redirecionado para a lista de comunicados do sistema, conforme será melhor detalhado a seguir.
 
-<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption><p>Comunicados exibidos no painel de controle</p></figcaption></figure>
 
 ## Lista de comunicados
 
