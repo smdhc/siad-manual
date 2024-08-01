@@ -6,7 +6,7 @@ Nesta seção do cadastro, é possível coletar informações específicas e mui
 Em caso de dúvida, utilize os campos <mark style="color:orange;">Consultar Significados</mark> e <mark style="color:purple;">Consultar Instruções.</mark>
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Cadastro de pessoas / Dados Sociodemográficos</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Cadastro de pessoas / Dados Sociodemográficos</p></figcaption></figure>
 
 Atualmente são coletados os seguintes campos:
 
