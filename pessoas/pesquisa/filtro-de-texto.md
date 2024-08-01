@@ -12,7 +12,7 @@ Além dos filtros apresentados anteriormente, a listagem de pessoas possui tamb�
 * Número de prontuário
 * Outros números de documentos (Passaporte, CNH, RANI, RNE/RNM, entre outros)
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Localizando filtro de texto</p></figcaption></figure>
 
 A grande vantagem desse filtro é a possibilidade de **combinação** com os filtros de equipamento e filtros categóricos, que facilita principalmente quando surge a necessidade de pesquisar por um nome comum.
 
