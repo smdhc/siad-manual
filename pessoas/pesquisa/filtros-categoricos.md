@@ -14,7 +14,7 @@ As seguintes categorias estão disponíveis neste tipo de pesquisa:
 
 Para realizar esse tipo de filtro, basta clicar no botão <mark style="color:purple;">Filtrar</mark>, localizado na tela inicial do Cadastro de Pessoas:
 
-<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption><p>Botão "Filtrar"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption><p>Botão "filtrar"</p></figcaption></figure>
 
 Ao clicar nesse botão, serão abertas diversas opções de filtros, por meio das quais você poderá pesquisar pelas categorias do cadastro de pessoas, como por exemplo, condição de moradia, identidade de gênero e raça/cor:
 
