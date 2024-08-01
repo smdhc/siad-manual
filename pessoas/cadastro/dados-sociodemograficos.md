@@ -8,3 +8,13 @@ Em caso de dúvida, utilize os campos '<mark style="color:orange;">Consultar Sig
 
 <figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
+Atualmente são coletados os seguintes campos:
+
+* Identidade de Gênero (autodeclaratório) (obrigatório);
+* Raça/cor (autodeclaratório) (obrigatório);
+* Orientação Sexual (autodeclaratório) (obrigatório);
+* Etnia
+* Religião
+* Estado Civil
+* Situação Conjugal
+* Tipos de Deficiência
