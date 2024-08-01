@@ -26,7 +26,7 @@ Para criar um novo registro, basta clicar no botão <mark style="color:purple;">
 
 <figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption><p>Botão de cadastro acessível pelo Painel de Controle</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption><p>Botão de cadastro acessível pelo menu Pessoas</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption><p>Botão de cadastro acessível pelo menu Pessoas</p></figcaption></figure>
 
 Ao clicar, será aberta uma caixa de consulta de cadastro existente, que permite verificar através do <mark style="color:purple;">CPF</mark> se a pessoa já está cadastrada no sistema. Caso não esteja, basta clicar no botão <mark style="color:purple;">Continuar Cadastro</mark>, e você será redirecionado(a) para a tela de cadastro.
 
