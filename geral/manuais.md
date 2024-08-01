@@ -6,4 +6,4 @@ Todos os manuais, documentações, instruções, documentos e outros tipos de in
 
 Na tela inicial do SIAD (Painel de Controle) também é possível encontrar um link que redireciona para os manuais do sistema:
 
-<figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption><p>Botão de manuais no painel de controle</p></figcaption></figure>
