@@ -6,7 +6,7 @@ Na segunda etapa do cadastro, será possível coletar informações sobre a loca
 Inserindo apenas o CEP da pessoa atendida (caso esteja disponível), metade do cadastro será preenchido automaticamente, otimizando o tempo de atendimento.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Cadastra pessoa / Endereço e Contato</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Cadastra de pessoas / Endereço e Contato</p></figcaption></figure>
 
 Atualmente são coletados os seguintes campos:
 
