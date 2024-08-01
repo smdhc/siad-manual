@@ -6,7 +6,7 @@
 
 Ao continuar para a tela de cadastro, você será apresentado à primeira aba de **Dados Cadastrais** da pessoa, onde será possível coletar os <mark style="color:purple;">Dados de Identificação</mark>, como <mark style="color:purple;">Nome Civil</mark>, <mark style="color:purple;">Data de Nascimento</mark>, <mark style="color:purple;">Documentos</mark>, entre outros.
 
-<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption><p>Tela de cadastro</p></figcaption></figure>
 
 Atualmente são coletados os seguintes campos:
 
@@ -30,7 +30,7 @@ Alguns campos são de preenchimento obrigatório, indicados pelo símbolo <mark 
 
 Caso você tente criar o cadastro sem preencher todos os campos obrigatórios, uma mensagem em vermelho aparecerá dizendo que aquele campo é obrigatório.
 
-<figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption><p>Campo obrigatório sem preenchimento</p></figcaption></figure>
 
 
 
@@ -38,7 +38,7 @@ Caso você tente criar o cadastro sem preencher todos os campos obrigatórios, u
 
 Em situações de vulnerabilidade da vítima, esta opção se torna necessária, especialmente em <mark style="color:purple;">casos de emergências</mark> ou <mark style="color:purple;">situações extremas</mark>. Preencher este campo permite que você pule as próximas etapas do cadastro, afim de acelerar e facilitar o processo.
 
-Ao marcar esta opção, será aberta uma caixa de '<mark style="color:purple;">Justificativa</mark>', sendo de preenchimento obrigatório. Nela, escreva em poucas palavras o motivo do atendimento ser emergencial e clique no botão '<mark style="color:purple;">Criar</mark>', localizado logo abaixo.&#x20;
+Ao marcar esta opção, será aberta uma caixa de <mark style="color:purple;">Justificativa</mark>, sendo de preenchimento obrigatório. Nela, escreva em poucas palavras o motivo do atendimento ser emergencial e clique no botão <mark style="color:purple;">Criar</mark>, localizado logo abaixo.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption><p>Campo de justificativa</p></figcaption></figure>
 
