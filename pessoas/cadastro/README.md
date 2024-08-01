@@ -38,10 +38,10 @@ Essa etapa de consulta, embora seja opcional, é essencial para evitar a duplici
 
 Para consultar, basta informar o <mark style="color:purple;">CPF</mark> e <mark style="color:purple;">clicar na lupa</mark> ao lado do campo. Caso o CPF informado já esteja cadastrado na base de dados, uma mensagem em vermelho aparecerá. Será exibido o Código SIAD e o nome da pessoa cadastrada para aquele CPF. Caso queira acessar esse cadastro, basta clicar no link para ser redirecionado para a ficha da pessoa.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Exemplo de CPF já cadastrado</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Exemplo de CPF já cadastrado</p></figcaption></figure>
 
 Se o CPF informado não estiver na base de dados do SIAD, uma mensagem verde em destaque informará isso. Nesse caso, basta prosseguir para o cadastro, através do botão <mark style="color:purple;">Continuar Cadastro</mark>.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Exemplo de CPF não cadastrado</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Exemplo de CPF não cadastrado</p></figcaption></figure>
 
 A seguir, abordaremos em detalhes cada uma das seções que compõe o Cadastro da Pessoa.

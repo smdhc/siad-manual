@@ -8,7 +8,7 @@ Ao gravar um novo cadastro ou ao selecionar um cadastro existe na tela de Cadast
 
 A Ficha de Cadastro da Pessoa exibe todos os dados cadastrados para aquela pessoa, permitindo inclusive a impressão da mesma.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Ficha de Impressão</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Ficha de Impressão</p></figcaption></figure>
 
 
 

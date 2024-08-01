@@ -22,7 +22,7 @@ Será por meio do botão <mark style="color:purple;">Cadastrar Prontuário</mark
 
 <figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Menu de prontuários</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Adicionando um novo Prontuário através do menu 'Cadastrar Prontuário', localizado no canto superior direito da tela.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Adicionando um novo Prontuário através do menu 'Cadastrar Prontuário', localizado no canto superior direito da tela.</p></figcaption></figure>
 
 ## Pesquisa por Prontuário
 
