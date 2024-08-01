@@ -12,7 +12,15 @@ Atualmente são coletados os seguintes campos:
 
 * Nome civil (obrigatório);
 * Nome social
-* ...
+* Data de nascimento (obrigatório);
+* Nome da mãe (obrigatório);
+* Nome do Pai
+* País de Nascimento
+* Município de Nascimento
+* CPF (obrigatório);
+* NIS
+
+
 
 ### Obrigatoriedade dos campos
 
