@@ -22,15 +22,11 @@ Será por meio do botão <mark style="color:purple;">Cadastrar Prontuário</mark
 
 <figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Menu de prontuários</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Adicionando um novo Prontuário através do menu 'Cadastrar Prontuário', localizado no canto superior direito da tela.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption><p>Adicionando um novo Prontuário através do menu 'Cadastrar Prontuário', localizado no canto superior direito da tela.</p></figcaption></figure>
 
 ## Pesquisa por Prontuário
 
-Dentro do menu <mark style="color:purple;">Prontuário</mark>, também é possível pesquisar por prontuários. Caso a ficha da pessoa possua muitos prontuários, utilize a barra de <mark style="color:purple;">Pesquisar</mark>. Nela, você pode buscar prontuários pelo equipamento que abriu o prontuário, pelo número do prontuário ou pela data de abertura.
+Dentro do menu <mark style="color:purple;">Prontuário</mark>, também é possível pesquisar por prontuários. Caso a ficha da pessoa possua muitos prontuários, utilize a barra de <mark style="color:purple;">Pesquisar</mark>. Nela você pode buscar prontuários pelo equipamento que abriu o prontuário, pelo número do prontuário ou pela data de abertura.
 
-<figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
+<figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption><p>Barra de pesquisar prontuários</p></figcaption></figure>
 
