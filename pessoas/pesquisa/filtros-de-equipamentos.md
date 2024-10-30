@@ -2,14 +2,14 @@
 
 ### Filtrar por equipamento
 
-Ao acessar o Cadastro de Pessoas, o sistema exibe por padrão todas as pessoas cadastradas em toda a rede de atendimento de SMDHC.
+Ao acessar o Cadastro de Pessoas, o sistema exibe por padrão todas as pessoas cadastradas em seu equipamento.
 
-Se necessário, é possível filtrar esses cadastros para facilitar a busca. No topo da tela, serão apresentadas 3 opções:
+{% hint style="info" %}
+Por questões de segurança, não é possível listar os cadastros realizados em outros equipamentos. Contudo, o acesso individual é permitido desde que realizada uma pesquisa específica.
+{% endhint %}
 
-* **Todos cadastrados na rede DH:** é a opção padrão, exibe todas as pessoas de nossa rede, mesmo as que foram cadastradas em outros equipamentos.
-* **Somente cadastrados neste equipamento:** exibe somente as pessoas que foram cadastradas no seu equipamento.
-* **Somente com prontuário neste equipamento:** exibe somente as pessoas que possuem algum número de **prontuário físico associado com o seu equipamento**, mesmo que tenham sido cadastradas em outros equipamentos.
+Além dessa visão, através da opção **Somente com prontuário neste equipamento** também é possível filtrar pelas pessoas que possuem algum número de [**prontuário físico associado com o seu equipamento**](../prontuarios.md), mesmo que tenham sido cadastradas em outros equipamentos.
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption><p>Filtros de equipamentos específicos ou para toda a rede de Direitos Humanos</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption><p>Filtros de equipamentos</p></figcaption></figure>
 
 Os números exibidos ao lado de cada opção indicam o total de pessoas encontradas em cada filtro.

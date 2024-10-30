@@ -26,9 +26,9 @@ O Cadastro de Pessoas em si também permite realizar outros tipos de pesquisa, c
 
 Para acessar o cadastro, basta clicar na opção <mark style="color:purple;">Pessoas</mark>, no menu lateral esquerdo, onde será exibida a seguinte tela:
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption><p>Cadastro de pessoas - Tela inicial de consulta</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption><p>Cadastro de pessoas - Tela inicial de consulta</p></figcaption></figure>
 
-Por padrão, serão exibidas todas as pessoas cadastradas no SIAD, independentemente do equipamento.
+Por padrão, serão exibidas todas as pessoas cadastradas no seu equipamento.
 
 {% hint style="info" %}
 Com o SIAD, se uma pessoa já foi cadastrada anteriormente em outro equipamento, não será necessário recadastrá-la, facilitando seu atendimento. No entanto, recomendamos sempre manter seu [cadastro atualizado](../alteracao.md).

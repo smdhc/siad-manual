@@ -16,7 +16,7 @@ Para acessar o cadastro de pessoas, basta clicar no menu lateral <mark style="co
 Todos os dados utilizados neste manual são fictícios.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
 Veja a seguir as diversas formas de pesquisar por uma pessoa e como proceder para cadastrar e atualizar.
 

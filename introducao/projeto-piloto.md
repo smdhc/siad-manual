@@ -2,22 +2,14 @@
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Lançado em **julho de 2024**, o SIAD tem como sua primeira funcionalidade o módulo de **Cadastro de Pessoas**, que está sendo implantado gradativamente nos seguintes equipamentos:
+Lançado em **julho de 2024**, o SIAD teve como sua primeira funcionalidade o módulo de **Cadastro de Pessoas**, que foi implantada em caráter piloto nos seguintes equipamentos:
 
 * CCLGBTI+ Oeste - Claudia Wonder
 * Núcleo de Direitos Humanos Central
 * Núcleo de Direitos Humanos Campo Limpo
 * Núcleo de Direitos Humanos Jabaquara
-* Estação Cidadania
-* Recifran
-* Reviravolta
-* CRCM 25 de Março
-* CRCM Brasilândia
-* CRCM Eliane de Grammont
-* CRCM Maria de Lourdes Rodrigues
-* CRPIR Leste 1 - Cidade Tiradentes
 
-Essa etapa é fundamental para validar as funcionalidades e fluxos iniciais do sistema, contemplando também:
+Essa etapa foi fundamental para validar as funcionalidades e fluxos iniciais do sistema, contemplando também:
 
 * Cadastro de equipamentos
 * Composição familiar
@@ -25,4 +17,4 @@ Essa etapa é fundamental para validar as funcionalidades e fluxos iniciais do s
 * Encaminhamentos
 * Anexos
 
-Ao longo das semanas iniciais de implantação, será realizado um **monitoramento e acompanhamento** das informações registradas, visando a melhoria do processo e realização de ajustes necessários para a expansão do sistema para toda a rede de atendimento de direitos humanos.
+O piloto inicial ocorreu de 31/07/2024 a 31/08/2024, e os resultados podem ser conferidos na [1ª Edição do Boletim SIAD](https://cloudprodamazhotmail-my.sharepoint.com/:b:/g/personal/siad\_prefeitura\_sp\_gov\_br/EZqEEcjAuJZOit5le1rHpHABzXAH8oR0IZBpK1pI4P74iA?e=cfe2gF).

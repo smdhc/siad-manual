@@ -14,7 +14,7 @@ As seguintes categorias estão disponíveis neste tipo de pesquisa:
 
 Para realizar esse tipo de filtro, basta clicar no botão <mark style="color:purple;">Filtrar</mark>, localizado na tela inicial do Cadastro de Pessoas:
 
-<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption><p>Botão "filtrar"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption><p>Botão "filtrar"</p></figcaption></figure>
 
 Ao clicar nesse botão, serão abertas diversas opções de filtros, por meio das quais você poderá pesquisar pelas categorias do cadastro de pessoas, como por exemplo, condição de moradia, identidade de gênero e raça/cor:
 
@@ -35,11 +35,11 @@ Na tabela inferior, serão apresentados todos os cadastros que correspondam aos 
 * Listagem contendo os cadastros encontrados
 * Controles de paginação
 
-<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption><p>Resultado da pesquisa</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption><p>Resultado da pesquisa</p></figcaption></figure>
 
 O sistema também exibe, no rodapé da tabela, o **total de pessoas** que foram localizadas com base nos filtros utilizados:
 
-<figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption><p>Total de resultados encontrados</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption><p>Total de resultados encontrados</p></figcaption></figure>
 
 {% hint style="info" %}
 Caso o total de resultados não seja exibido na tela, tente diminuir o zoom da página, aumentar a resolução do seu monitor ou recolher o menu lateral do sistema.
@@ -63,5 +63,4 @@ Nesses dois últimos exemplos, não é necessário clicar em <mark style="color:
 
 Alternativamente, também é possível limpar os filtros clicando na opção <mark style="color:purple;">Limpar filtros</mark> no topo da tela, conforme destacado na imagem abaixo:
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption><p>Limpeza de filtros</p></figcaption></figure>
-
+<figure><img src="../../.gitbook/assets/image (114).png" alt=""><figcaption><p>Limpar filtros</p></figcaption></figure>
