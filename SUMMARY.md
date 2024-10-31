@@ -48,3 +48,4 @@
 ## Histórico de Versões
 
 * [Versão 1.2.0](historico-de-versoes/versao-1.2.0.md)
+* [Versão 1.1.0](historico-de-versoes/versao-1.1.0.md)
