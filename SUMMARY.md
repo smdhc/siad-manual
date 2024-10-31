@@ -44,3 +44,7 @@
 ## Cadastro de Equipamentos <a href="#equipamentos" id="equipamentos"></a>
 
 * [Consulta](equipamentos/consulta.md)
+
+## Histórico de Versões
+
+* [Versão 1.2.0](historico-de-versoes/versao-1.2.0.md)

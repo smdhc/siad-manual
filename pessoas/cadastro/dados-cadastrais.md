@@ -8,7 +8,7 @@ Ao continuar para a tela de cadastro, você será apresentado à primeira aba de
 Apesar do cadastro estar separado em 5 seções/abas, é possível terminar o preenchimento a qualquer momento, estando em qualquer seção, desde que todos os campos de preenchimento obrigatório estejam devidamente preenchidos.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption><p>Tela de cadastro - aba "Dados Cadastrais"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Tela de cadastro - aba "Dados Cadastrais"</p></figcaption></figure>
 
 Atualmente são coletados os seguintes campos:
 
@@ -22,6 +22,30 @@ Atualmente são coletados os seguintes campos:
 * CPF (obrigatório);
 * NIS
 * Outros documentos.
+
+## Sigilo de Cadastro
+
+Logo no início da tela, existe a opção <mark style="background-color:purple;">Sigilo do Cadastro</mark>, que, ao ser ativada, indicará para o sistema que as informações ali registradas serão sigilosas e ficarão **ocultas** para outros equipamentos da Rede de Direitos Humanos que não atuem na mesma temática que o seu.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Sigilo do Cadastro</p></figcaption></figure>
+
+Dessa forma, apenas equipamentos da mesma temática terão acesso aos dados cadastrais completos, enquanto equipamentos de outras temáticas poderão visualizar apenas o <mark style="background-color:purple;">Nome Civil</mark>, <mark style="background-color:purple;">Nome Social</mark>, <mark style="background-color:purple;">Data de Nascimento</mark> e <mark style="background-color:purple;">Nome da Mãe</mark>. Exemplos de temáticas incluem Igualdade Racial, Imigrantes, Criança e Adolescente, entre outras.
+
+{% hint style="warning" %}
+Uma vez ativada, essa opção só poderá ser desativada pelo próprio usuário que a acionou ou pela supervisão técnica da área temática correspondente.
+{% endhint %}
+
+Ao acessar um cadastro sigiloso de um outro equipamento da **mesma temática**, o sistema exibirá todas as informações normalmente, mas indicará através de um alerta:
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Aviso de cadastro sigiloso - mesma temática</p></figcaption></figure>
+
+Ao acessar um cadastro sigiloso de um outro equipamento de **outra temática**, somente as> informações básicas ficarão disponíveis. Todos os demais menus e seções serão ocultados.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Cadastro sigiloso - outra temática</p></figcaption></figure>
+
+Nas próximas versões, serão implementados mecanismos que permitirão compartilhar os dados de um cadastro sigiloso com equipamentos de outras temáticas em situações específicas.
+
+Nesse momento, havendo a necessidade de consultar dados de um cadastro sigiloso, entre em contato com a Coordenação temática responsável pelo seu equipamento.
 
 ## Obrigatoriedade dos campos
 
@@ -59,7 +83,7 @@ O preenchimento da data de nascimento ou idade aproximada é obrigatório, deven
 Apesar dessa possibilidade, sempre recomendamos que a data de nascimento seja informada, mesmo que em momento posterior, pois essa é uma informação essencial para análise e estudos da população atendida.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Exemplo de preenchimento do campo "idade aproximada"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Exemplo de preenchimento do campo "idade aproximada"</p></figcaption></figure>
 
 ## País de nascimento
 
@@ -87,7 +111,7 @@ Todos os documentos cadastrados, independentemente do tipo, poderão ser pesquis
 
 Caso queira <mark style="color:red;">excluir</mark> algum documento, basta clicar no <mark style="background-color:red;">ícone de lixeira</mark> (vermelho) localizado à direita do documento desejado.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Seção de "Documentos"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Seção de "Documentos"</p></figcaption></figure>
 
 {% hint style="info" %}
 As realidades de cada pessoa atendida podem variar muito e, desse modo, deve haver flexibilidade nos documentos aceitos para cadastro e/ou atendimento. É, portanto, importante registrar algum tipo de documento de identificação apresentado, ainda que pouco comum ou desgastado pelo tempo, se for o único que a pessoa tenha no momento. Se o documento apresentar nome do usuário e número, deve ser registrado.
@@ -97,13 +121,13 @@ As realidades de cada pessoa atendida podem variar muito e, desse modo, deve hav
 
 O sistema impedirá gravar um cadastro caso o CPF informado já esteja cadastrado no sistema. O mesmo vale para o NIS.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Exemplo de CPF já cadastrado</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Exemplo de CPF já cadastrado</p></figcaption></figure>
 
 ## Pessoa sem CPF
 
 Existem situações onde, como de imigrantes ou crianças, onde a pessoa possui CPF. Nesses casos, basta habilitar a opção <mark style="background-color:purple;">Não possui CPF</mark>, e o sistema removerá a obrigatoriedade de preenchimento do mesmo.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Opção "Não possui CPF"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Opção "Não possui CPF"</p></figcaption></figure>
 
 {% hint style="warning" %}
 Não utilize essa funcionalidade para outras situações que não sejam as descritas acima. Isso pode dificultar a consulta desse cadastro posteriormente, podendo ocasionar <mark style="color:red;">duplicidades</mark> no sistema.&#x20;
