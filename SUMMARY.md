@@ -29,6 +29,7 @@
   * [Filtros categóricos](pessoas/pesquisa/filtros-categoricos.md)
   * [Filtro de Texto](pessoas/pesquisa/filtro-de-texto.md)
 * [Fluxo de cadastro](pessoas/cadastro/README.md)
+  * [Page](pessoas/cadastro/page.md)
   * [Dados Cadastrais](pessoas/cadastro/dados-cadastrais.md)
   * [Endereço e Contato](pessoas/cadastro/endereco-e-contato.md)
   * [Dados Sociodemográficos](pessoas/cadastro/dados-sociodemograficos.md)
