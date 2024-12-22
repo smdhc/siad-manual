@@ -7,7 +7,7 @@
 * [O que é o SIAD?](introducao/o-que-e.md)
 * [Como surgiu o sistema?](introducao/como-surgiu-o-sistema.md)
 * [Projeto Piloto](introducao/projeto-piloto.md)
-* [Próximas Etapas](introducao/proximas-etapas.md)
+* [Projeto de Expansão](introducao/projeto-de-expansao.md)
 * [Quem pode acessar?](introducao/quem-pode-acessar.md)
 * [Contato e Suporte](introducao/contato-e-suporte.md)
 
@@ -47,5 +47,6 @@
 
 ## Histórico de Versões
 
+* [Versão 2.0.0](historico-de-versoes/versao-2.0.0.md)
 * [Versão 1.2.0](historico-de-versoes/versao-1.2.0.md)
 * [Versão 1.1.0](historico-de-versoes/versao-1.1.0.md)

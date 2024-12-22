@@ -4,7 +4,7 @@
 
 Após acessar a <mark style="color:purple;">Ficha Cadastral</mark> da pessoa, é possível acessar a seção através do botão <mark style="color:purple;">'Encaminhamentos</mark>', localizado no lado esquerdo da tela.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Acessando o menu de Encaminhamentos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Acessando o menu de Encaminhamentos</p></figcaption></figure>
 
 ### Criando um novo encaminhamento
 
@@ -14,7 +14,7 @@ Para criar um encaminhamento, clique no botão '<mark style="color:purple;">Cada
 Apenas o equipamento que originou o encaminhamento tem permissão para editá-lo, enquanto os demais equipamentos têm acesso somente para visualização.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption><p>Acessando o cadastro de um novo encaminhamento</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption><p>Acessando o cadastro de um novo encaminhamento</p></figcaption></figure>
 
 ***
 
@@ -41,5 +41,5 @@ O encaminhamento adequado garantirá que cada caso receba o suporte especializad
 Alguns campos terão indicadores ' <mark style="color:red;">\*</mark> ' vermelhos logo acima, indicando que é de preenchimento obrigatório, tendo como exemplo os campos de '<mark style="color:purple;">Data do Encaminhamento'</mark> e '<mark style="color:purple;">Indicar outro profissional?</mark>'
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption><p>Tela de cadastro de um novo encaminhamento</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption><p>Tela de cadastro de um novo encaminhamento</p></figcaption></figure>
 
