@@ -12,7 +12,7 @@ Confira abaixo todos os detalhes dessa atualização.
 
 ### Atendimentos
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Nova funcionalidade para registro de atendimentos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption><p>Nova funcionalidade para registro de atendimentos</p></figcaption></figure>
 
 A nova funcionalidade de registro de atendimentos representa um marco no sistema, possibilitando o registro não apenas de atendimentos individuais e coletivos, mas também de outros tipos de ações e serviços realizados, garantindo uma gestão mais completa e integrada. Contudo, por se tratar de uma funcionalidade em caráter piloto, sua implementação será realizada de forma **gradual**, permitindo ajustes e melhorias conforme as necessidades identificadas durante o processo de implantação.&#x20;
 
@@ -24,7 +24,7 @@ Para conferir todos os detalhes sobre essa nova funcionalidade, recomenda-se ace
 
 ### Dados de Imigração
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Nova seção de dados de imigração</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Nova seção de dados de imigração</p></figcaption></figure>
 
 Foram adicionados novos campos no <mark style="background-color:purple;">Cadastro de Pessoas</mark> para coletar dados de imigração. Nesse primeiro momento, esses dados ficarão visíveis somente para equipamentos com a temática de Imigrantes.
 
@@ -36,13 +36,13 @@ Para maiores detalhes sobre os novos campos, consulte a seção de [Dados Cadast
 
 ### Novo tipo de contato internacional
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Novo tipo de contato - Telefone Internacional</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Novo tipo de contato - Telefone Internacional</p></figcaption></figure>
 
 No <mark style="background-color:purple;">Cadastro de Pessoas</mark>, foi adicionado um novo tipo de contato "<mark style="color:purple;">Telefone internacional</mark>".
 
 ### Novas opções de Condição de Moradia
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Novas opções de condição de moradia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Novas opções de condição de moradia</p></figcaption></figure>
 
 Foram adicionadas as seguintes opções à lista de <mark style="color:purple;">Condição de Moradia</mark>, no <mark style="background-color:purple;">Cadastro de Pessoas</mark>:
 
@@ -58,7 +58,7 @@ Além disso, a lista de municípios passa a exibir também a sigla de <mark styl
 
 ### Equipamento sob Administração Direta
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Nova opção de Administração Direta</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Nova opção de Administração Direta</p></figcaption></figure>
 
 Agora é possível indicar explicitamente se um equipamento está sob gestão da Administração Direta. Ao ativar essa opção, o sistema irá desativar o campo <mark style="color:purple;">Organização Responsável</mark> e passará a exibir o termo <mark style="color:blue;">Administração Direta</mark> nas telas de consulta.
 
@@ -68,7 +68,7 @@ A edição desse campo está restrita a usuários com permissão específica.
 
 ### Módulos habilitados por equipamento
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Novo campo para controlar os módulos ativos por equipamento</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Novo campo para controlar os módulos ativos por equipamento</p></figcaption></figure>
 
 No <mark style="background-color:purple;">Cadastro de Equipamentos</mark>, foi adicionado um novo campo que permite controlar quais módulos estarão disponíveis por equipamento.
 
@@ -80,7 +80,7 @@ A edição desse campo está restrita a administradores do sistema.
 
 ### Cadastro de usuários em múltiplos equipamentos
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Possibilidade de cadastrar um usuário em vários equipamentos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Possibilidade de cadastrar um usuário em vários equipamentos</p></figcaption></figure>
 
 A partir dessa versão será possível cadastrar um usuário do sistema em mais de um equipamento, que será utilizada em cenários como funcionários que trabalham em mais de um equipamento, unidades móveis e supervisores.
 
@@ -96,7 +96,7 @@ Para acessar um equipamento diferente, o usuário deverá sair do sistema primei
 
 ### Melhorias no Cadastro de Usuários
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Novos filtros no Cadastro de Usuários</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Novos filtros no Cadastro de Usuários</p></figcaption></figure>
 
 Os filtros do <mark style="background-color:purple;">Cadastro de Usuários</mark> foram revisados de forma a melhorar a usabilidade por parte da equipe de gerenciamento dos acessos.
 
@@ -106,7 +106,7 @@ O acesso à essa funcionalidade é exclusivo dos administradores do sistema.
 
 ### Atualização do ícone de carregamento
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Novo ícone para indicar carregamento do sistema</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Novo ícone para indicar carregamento do sistema</p></figcaption></figure>
 
 A tela de carregamento do sistema que era exibida ao preencher alguns campos do sistema foi substituída por uma indicação mais sutil ao lado do campo que está sendo carregado.
 
@@ -118,7 +118,7 @@ Recomendamos sempre aguardar o término do carregamento antes de proceder com as
 
 ### Consulta de Endereço e Distrito
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Ajustes na consulta de endereço</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Ajustes na consulta de endereço</p></figcaption></figure>
 
 Quando selecionado um CEP fora de São Paulo, o sistema ocultará automaticamente o campo <mark style="color:purple;">Distrito</mark>, e passará a exibir o campo <mark style="color:green;">Cidade</mark>.
 
@@ -136,7 +136,7 @@ Agora o sistema passa a localizar números de prontuários independentemente do 
 
 ### Opção "Outra" na Ligação e Relação Familiar
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Opção Outra na ligação e relação familiar</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Opção Outra na ligação e relação familiar</p></figcaption></figure>
 
 Foi adicionada a opção <mark style="color:purple;">Outra</mark> nos campos <mark style="background-color:blue;">Ligação Familiar</mark> e <mark style="background-color:blue;">Relação Familiar</mark>.
 

@@ -10,7 +10,7 @@ O acesso ao SIAD pode ser feito através do seguinte endereço:
 
 Ao acessar o endereço acima, você será direcionado para a tela inicial de login, onde precisará utilizar suas credenciais (CPF e Senha). Caso ainda não as tenha, por favor, entre em contato com seus gestores para solicitar a criação do seu login e senha, ou envie um e-mail para [siad@prefeitura.sp.gov.br](mailto:siad@prefeitura.sp.gov.br).
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Problemas com o login
 
@@ -32,7 +32,7 @@ Após fazer a sua autenticação no sistema, você pode alterar a sua senha a qu
 
 Ao clicar em <mark style="color:purple;">Perfil</mark>, será aberta uma tela com os campos <mark style="color:purple;">Nome</mark>, <mark style="color:purple;">E-mai</mark>l e <mark style="color:purple;">Nova Senha</mark>. Agora, você pode escolher a sua nova senha:
 
-<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Página para cadastrar uma nova senha</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption><p>Página para cadastrar uma nova senha</p></figcaption></figure>
 
 Lembre-se de que a senha deve ter um comprimento adequado e conter uma variedade de caracteres.&#x20;
 

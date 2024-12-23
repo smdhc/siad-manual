@@ -45,6 +45,20 @@
 
 * [Consulta](equipamentos/consulta.md)
 
+## Atendimentos
+
+* [Introdução](atendimentos/introducao/README.md)
+  * [O que é?](atendimentos/introducao/o-que-e.md)
+  * [Conjunto Mínimo de Dados](atendimentos/introducao/conjunto-minimo-de-dados.md)
+  * [Informações complementares](atendimentos/introducao/informacoes-complementares.md)
+  * [Grupos de Atendimentos](atendimentos/introducao/grupos-de-atendimentos.md)
+  * [Quem pode acessar?](atendimentos/introducao/quem-pode-acessar.md)
+* [Registro de atendimentos](atendimentos/registro-de-atendimentos/README.md)
+  * [Como acessar?](atendimentos/registro-de-atendimentos/como-acessar.md)
+  * [Novo atendimento](atendimentos/registro-de-atendimentos/novo-atendimento.md)
+  * [Pesquisar atendimentos](atendimentos/registro-de-atendimentos/pesquisar-atendimentos.md)
+  * [Visualizar atendimento](atendimentos/registro-de-atendimentos/visualizar-atendimento.md)
+
 ## Histórico de Versões
 
 * [Versão 2.0.0](historico-de-versoes/versao-2.0.0.md)
