@@ -18,10 +18,10 @@ Os termos de uso do sistema explicarão alguns tópicos como:
 
 Vale ressaltar que essa tela também será exibida sempre que houver alguma atualização nos termos.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Exemplo de Termo de Uso que será exibido no primeiro acesso</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Exemplo de Termo de Uso que será exibido no primeiro acesso</p></figcaption></figure>
 
 ## Acessando termos de uso assinados anteriormente
 
 Caso queira consultar algum dos termos de uso novamente, basta abrir o menu lateral e ir na opção <mark style="color:purple;">Termos de Uso</mark>.  Aqui você encontra todas as versões do termo de uso lançadas até o momento, basta clicar em qual deseja para poder ler a versão completa.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Tela que permite acessar os Termos de Uso do sistema</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Tela que permite acessar os Termos de Uso do sistema</p></figcaption></figure>

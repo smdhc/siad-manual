@@ -8,7 +8,7 @@ Ao gravar um novo cadastro ou ao selecionar um cadastro existe na tela de <mark 
 
 A Ficha de <mark style="color:purple;">Cadastro da Pessoa</mark> exibe todos os dados cadastrados para aquela pessoa, permitindo inclusive a impressão da mesma.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Ficha de impressão</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Ficha de impressão</p></figcaption></figure>
 
 
 
@@ -26,7 +26,7 @@ Você pode recolher as seções clicando no título ou na seta no canto superior
 Por exemplo, "Prontuários" está recolhida e "Documentos" está expandida.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Prontuário recolhido / Prontuário expandido</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Prontuário recolhido / Prontuário expandido</p></figcaption></figure>
 
 
 

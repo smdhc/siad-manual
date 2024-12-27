@@ -8,7 +8,7 @@ Ao continuar para a tela de cadastro, você será apresentado à primeira aba de
 Apesar do cadastro estar separado em 5 seções/abas, é possível terminar o preenchimento a qualquer momento, estando em qualquer seção, desde que todos os campos de preenchimento obrigatório estejam devidamente preenchidos.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Tela de cadastro - aba "Dados Cadastrais"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Tela de cadastro - aba "Dados Cadastrais"</p></figcaption></figure>
 
 Atualmente são coletados os seguintes campos:
 
@@ -27,7 +27,7 @@ Atualmente são coletados os seguintes campos:
 
 Logo no início da tela, existe a opção <mark style="background-color:purple;">Sigilo do Cadastro</mark>, que, ao ser ativada, indicará para o sistema que as informações ali registradas serão sigilosas e ficarão **ocultas** para outros equipamentos da Rede de Direitos Humanos que não atuem na mesma temática que o seu.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Sigilo do Cadastro</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Sigilo do Cadastro</p></figcaption></figure>
 
 Dessa forma, apenas equipamentos da mesma temática terão acesso aos dados cadastrais completos, enquanto equipamentos de outras temáticas poderão visualizar apenas o <mark style="background-color:purple;">Nome Civil</mark>, <mark style="background-color:purple;">Nome Social</mark>, <mark style="background-color:purple;">Data de Nascimento</mark> e <mark style="background-color:purple;">Nome da Mãe</mark>. Exemplos de temáticas incluem Igualdade Racial, Imigrantes, Criança e Adolescente, entre outras.
 
@@ -83,7 +83,7 @@ O preenchimento da data de nascimento ou idade aproximada é obrigatório, deven
 Apesar dessa possibilidade, sempre recomendamos que a data de nascimento seja informada, mesmo que em momento posterior, pois essa é uma informação essencial para análise e estudos da população atendida.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Exemplo de preenchimento do campo "idade aproximada"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Exemplo de preenchimento do campo "idade aproximada"</p></figcaption></figure>
 
 ## País de nascimento
 

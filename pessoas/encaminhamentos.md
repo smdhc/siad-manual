@@ -4,7 +4,7 @@
 
 Após acessar a <mark style="color:purple;">Ficha Cadastral</mark> da pessoa, é possível acessar a seção através do botão <mark style="color:purple;">'Encaminhamentos</mark>', localizado no lado esquerdo da tela.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Acessando o menu de Encaminhamentos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Acessando o menu de Encaminhamentos</p></figcaption></figure>
 
 ### Criando um novo encaminhamento
 
