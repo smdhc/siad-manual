@@ -1,5 +1,5 @@
 ---
-description: 'Data de lançamento: 23/12/2024'
+description: 'Data de lançamento: 27/12/2024'
 ---
 
 # Versão 2.0.1
