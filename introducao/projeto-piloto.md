@@ -18,5 +18,5 @@ Essa etapa foi fundamental para validar as funcionalidades e fluxos iniciais do 
 * Anexos
 
 {% hint style="info" %}
-O piloto inicial ocorreu de **31/07/2024** a **31/08/2024**, e os resultados podem ser conferidos na [1ª Edição do Boletim SIAD](https://cloudprodamazhotmail-my.sharepoint.com/:b:/g/personal/siad_prefeitura_sp_gov_br/EVMHDgUqxg9As3oGYJicAEMB9DrdkR9QcSxDNJTf7zplcw?e=6BFyWr).
+O piloto inicial ocorreu de **31/07/2024** a **31/08/2024**, e os resultados podem ser conferidos na [1ª Edição do Boletim SIAD](https://cloudprodamazhotmail-my.sharepoint.com/:b:/g/personal/siad_prefeitura_sp_gov_br/EVMHDgUqxg9As3oGYJicAEMBfP8XklJnbKdi2qvoPT7cKA?e=rbvlbA).
 {% endhint %}
