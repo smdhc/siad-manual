@@ -61,6 +61,7 @@
 
 ## Histórico de Versões
 
+* [Versão 2.1.0](historico-de-versoes/versao-2.1.0.md)
 * [Versão 2.0.1](historico-de-versoes/versao-2.0.1.md)
 * [Versão 2.0.0](historico-de-versoes/versao-2.0.0.md)
 * [Versão 1.2.0](historico-de-versoes/versao-1.2.0.md)
