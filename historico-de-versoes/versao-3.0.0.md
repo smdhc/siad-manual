@@ -83,3 +83,7 @@ Corrigido erro que impossibilitava vincular um usuário a um novo equipamento ca
 ### Indicador de usuários ativos
 
 Corrigido o indicador de usuários ativos da tela inicial para considerar usuários únicos.
+
+### Exclusão de atendimento internos
+
+Corrigida brecha que permitia alterar/excluir atendimentos históricos importados para o sistema, caso o usuário não seja Administrador.
