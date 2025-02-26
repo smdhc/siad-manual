@@ -24,7 +24,7 @@ Para conferir todos os detalhes sobre essa nova funcionalidade, recomenda-se ace
 
 ### Dados de Imigração
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Nova seção de dados de imigração</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Nova seção de dados de imigração</p></figcaption></figure>
 
 Foram adicionados novos campos no <mark style="background-color:purple;">Cadastro de Pessoas</mark> para coletar dados de imigração. Nesse primeiro momento, esses dados ficarão visíveis somente para equipamentos com a temática de Imigrantes.
 

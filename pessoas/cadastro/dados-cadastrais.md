@@ -8,7 +8,7 @@ Ao continuar para a tela de cadastro, você será apresentado à primeira aba de
 Apesar do cadastro estar separado em 5 seções/abas, é possível terminar o preenchimento a qualquer momento, estando em qualquer seção, desde que todos os campos de preenchimento obrigatório estejam devidamente preenchidos.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Tela de cadastro - aba "Dados Cadastrais"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Tela de cadastro - aba "Dados Cadastrais"</p></figcaption></figure>
 
 Atualmente são coletados os seguintes campos:
 
@@ -131,6 +131,20 @@ Existem situações onde, como de imigrantes ou crianças, onde a pessoa possui 
 
 {% hint style="warning" %}
 Não utilize essa funcionalidade para outras situações que não sejam as descritas acima. Isso pode dificultar a consulta desse cadastro posteriormente, podendo ocasionar <mark style="color:red;">duplicidades</mark> no sistema.&#x20;
+{% endhint %}
+
+## Edição de CPF
+
+A partir da **versão 3.0.0** do SIAD, <mark style="background-color:red;">não</mark> será mais possível alterar o CPF de uma pessoa. Essa é uma medida que visa garantir que o mesmo cadastro não seja reutilizado por pessoas distintas, preservando assim o seu histórico.
+
+Para os cadastros cuja opção "<mark style="background-color:purple;">Não possui CPF</mark>" tenha sido selecionada, ainda será possível alterar e completar o cadastro com o CPF da pessoa.
+
+{% hint style="warning" %}
+Caso o cadastro de uma pessoa X tenha sido criado erroneamente com o CPF de outra pessoa Y, recomendamos que o cadastro seja alterado/corrigido mantendo os dados da pessoa Y em questão, e seja criado um novo cadastro para a pessoa X.
+{% endhint %}
+
+{% hint style="info" %}
+Caso tenha dúvidas sobre essa regra, entre em contato através do e-mail siad@prefeitura.sp.gov.br.
 {% endhint %}
 
 ## Atendimento Emergencial

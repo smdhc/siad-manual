@@ -12,7 +12,7 @@ Confira abaixo todos os detalhes dessa atualização.
 
 ### Transcidadania
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Tela de cadastro das pessoas beneficiárias do Programa Transcidadania</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Tela de cadastro das pessoas beneficiárias do Programa Transcidadania</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Transcidadania no Cadastro de Pessoas</p></figcaption></figure>
 
@@ -65,6 +65,10 @@ A partir dessa versão, não será mais possível alterar o CPF de um cadastro d
 ### Remoção da coluna Pessoas no Atendimento
 
 Será removida a coluna "Pessoas" da tela principal de atendimentos, por causar confusão com relação ao seu conceito original, que seria contabilizar participantes em atividades coletivas.
+
+### Novo ícone do sistema
+
+Adicionado novo ícone do sistema que passa a ser exibido na aba do navegador.
 
 ## Ajustes e Correções
 
