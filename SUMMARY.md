@@ -61,6 +61,7 @@
 
 ## Histórico de Versões
 
+* [Versão 3.0.1](historico-de-versoes/versao-3.0.1.md)
 * [Versão 3.0.0](historico-de-versoes/versao-3.0.0.md)
 * [Versão 2.1.2](historico-de-versoes/versao-2.1.2.md)
 * [Versão 2.1.1](historico-de-versoes/versao-2.1.1.md)
