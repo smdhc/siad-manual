@@ -59,6 +59,10 @@
   * [Pesquisar atendimentos](atendimentos/registro-de-atendimentos/pesquisar-atendimentos.md)
   * [Visualizar atendimento](atendimentos/registro-de-atendimentos/visualizar-atendimento.md)
 
+## Projetos
+
+* [Page 1](projetos/page-1.md)
+
 ## Histórico de Versões
 
 * [Versão 3.0.1](historico-de-versoes/versao-3.0.1.md)
