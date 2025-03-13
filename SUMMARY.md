@@ -59,9 +59,21 @@
   * [Pesquisar atendimentos](atendimentos/registro-de-atendimentos/pesquisar-atendimentos.md)
   * [Visualizar atendimento](atendimentos/registro-de-atendimentos/visualizar-atendimento.md)
 
-## Projetos
+## Planejamento
 
-* [Em breve](projetos/em-breve.md)
+* [Introdução](planejamento/introducao.md)
+* [Gestão de projetos](planejamento/gestao-de-projetos/README.md)
+  * [Formas de acesso](planejamento/gestao-de-projetos/formas-de-acesso.md)
+  * [Cadastro de projetos](planejamento/gestao-de-projetos/cadastro-de-projetos/README.md)
+    * [Dados do projeto](planejamento/gestao-de-projetos/cadastro-de-projetos/dados-do-projeto.md)
+    * [Dados complementares](planejamento/gestao-de-projetos/cadastro-de-projetos/dados-complementares.md)
+    * [Outros](planejamento/gestao-de-projetos/cadastro-de-projetos/outros.md)
+  * [Ficha do projeto](planejamento/gestao-de-projetos/ficha-do-projeto.md)
+  * [Edição e exclusão](planejamento/gestao-de-projetos/edicao-e-exclusao.md)
+  * [Priorização](planejamento/gestao-de-projetos/priorizacao.md)
+  * [Cronograma](planejamento/gestao-de-projetos/cronograma.md)
+  * [Anexos](planejamento/gestao-de-projetos/anexos.md)
+  * [Pesquisa e organização](planejamento/gestao-de-projetos/pesquisa-e-organizacao.md)
 
 ## Histórico de Versões
 

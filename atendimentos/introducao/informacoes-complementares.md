@@ -1,6 +1,6 @@
 # Informações complementares
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Dependendo do <mark style="background-color:purple;">tipo de atendimento</mark>, podem ser coletadas **informações complementares**, como:
 

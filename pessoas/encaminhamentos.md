@@ -19,13 +19,13 @@ Após acessar a <mark style="color:purple;">Ficha Cadastral</mark> da pessoa, é
 
 O ícone/contador exibido ao lado do menu indica a quantidade de encaminhamentos registrados para a pessoa selecionada.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Acessando o menu de Encaminhamentos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Acessando o menu de Encaminhamentos</p></figcaption></figure>
 
 ## Listagem de encaminhamentos
 
 Ao clicar no menu Encaminhamentos, será exibida uma tela contendo a listagem de todos os encaminhamentos registrados para a pessoa selecionada.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Listagem de encaminhamentos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Listagem de encaminhamentos</p></figcaption></figure>
 
 Nessa tela, é possível consultar, incluir, alterar ou excluir encaminhamentos, conforme regras abaixo:
 

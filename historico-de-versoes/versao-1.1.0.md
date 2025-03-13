@@ -27,19 +27,19 @@ Nessa versão foram disponibilizados dois novos relatórios:
 
 Foram adicionadas novas opções de formatação nos encaminhamentos, permitindo assim controlar o tamanho do texto e demais opções de formatação de texto.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Formatação dos encaminhamentos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Formatação dos encaminhamentos</p></figcaption></figure>
 
 ### Novo indicador de pessoas cadastradas na rede
 
 No Painel de Controle, foi adicionado um novo indicador contendo o total de pessoas cadastradas em todos os equipamentos da rede de atendimento da SMDHC.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Indicador de pessoas cadastradas na rede</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Indicador de pessoas cadastradas na rede</p></figcaption></figure>
 
 ### Novos filtros de pesquisa de pessoas
 
 Nos filtros da tela de pesquisa do Cadastro de Pessoas, foram adicionadas duas novas opções que permitem filtrar cadastros que possuem Composição Familiar e Encaminhamentos.
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Novos filtros no cadastro de pessoas</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption><p>Novos filtros no cadastro de pessoas</p></figcaption></figure>
 
 ### Filtro padrão de pessoas cadastradas no equipamento
 
