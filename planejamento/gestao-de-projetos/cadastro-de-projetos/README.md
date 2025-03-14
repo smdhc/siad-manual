@@ -14,7 +14,7 @@ Está em desenvolvimento um painel para uma visão global dos projetos da secret
 
 Para começar o cadastro de um novo projeto, basta clicar no botão _<mark style="color:purple;">Cadastrar projeto</mark>_, que pode ser encontrado no canto superior direito do menu _<mark style="color:purple;">Projetos</mark>_.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ao clicar no botão, você será redirecionado para a tela “Cadastrar Projeto”, que contém três abas:&#x20;
 

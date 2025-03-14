@@ -18,7 +18,7 @@ Para mais informações sobre a realização de login no SIAD, consulte [acesso.
 
 Para acessar os projetos cadastrados e seus cronogramas, basta clicar no menu lateral “Projetos”, e você será redirecionado para uma lista com todos os projetos cadastrados da área, que permite a utilização de filtros, realização de pesquisa, edição ou inclusão de projetos.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Perfis e permissões
 

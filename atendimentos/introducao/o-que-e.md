@@ -1,6 +1,6 @@
 # O que é?
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Um **registro de atendimento** representa um <mark style="color:purple;">fato</mark>, <mark style="color:purple;">acontecimento</mark> ou <mark style="color:purple;">evento</mark> ocorrido no passado.
 

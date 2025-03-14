@@ -10,4 +10,4 @@ Também é possível acessar essa página selecionando os 3 pontos no canto dire
 
 A ficha está organizada em abas, cujo conteúdo é igual ao conteúdo preenchido no cadastro, bem como uma aba a mais com os “Critérios de planejamento”. Por meio do menu lateral da ficha, é possível navegar no modo de visualização, no modo de edição, acessar o cronograma e a parte de anexos.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

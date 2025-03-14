@@ -14,7 +14,7 @@ Após o cumprimento de todos os requisitos mencionados acima, o acesso à funcio
 
 ### Tela inicial
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Novo botão de atendimento na tela inicial do sistema</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Novo botão de atendimento na tela inicial do sistema</p></figcaption></figure>
 
 A primeira forma de acessar o módulo de atendimentos é através do botão Registrar Atendimento, localizado na tela inicial do sistema, conforme imagem acima.
 

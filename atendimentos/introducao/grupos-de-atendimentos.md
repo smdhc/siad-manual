@@ -1,6 +1,6 @@
 # Grupos de Atendimentos
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para facilitar a <mark style="color:blue;">seleção</mark> e <mark style="color:blue;">consolidação dos dados</mark>, os tipos de atendimento são organizados em grupos de atendimentos.
 

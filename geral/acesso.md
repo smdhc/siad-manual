@@ -10,7 +10,7 @@ O acesso ao SIAD pode ser feito através do seguinte endereço:
 
 Ao acessar o endereço acima, você será direcionado para a tela inicial de login, onde precisará utilizar suas credenciais (CPF e Senha). Caso ainda não as tenha, por favor, entre em contato com seus gestores para solicitar a criação do seu login e senha, ou envie um e-mail para [siad@prefeitura.sp.gov.br](mailto:siad@prefeitura.sp.gov.br).
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Problemas com o login
 

@@ -1,2 +1,0 @@
-# Edição e exclusão
-

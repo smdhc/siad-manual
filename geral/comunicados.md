@@ -26,5 +26,5 @@ Uma outra forma de acessar os comunicados é clicando no item <mark style="color
 
 &#x20;<mark style="color:purple;">Ao clicar em um comunicado</mark>, será exibido o seu conteúdo na íntegra e o mesmo será marcado como lido, limpando as notificações correspondentes.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Comunicado exibido</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Comunicado exibido</p></figcaption></figure>
 
