@@ -18,6 +18,10 @@ O filtro de profissionais na tela principal de Atendimentos passa a exibir todos
 
 Foi adicionada uma nova opção de atributo de atendimento sincronizada com o campo "Criança/adolescente separado/desacompanhado" do Cadastro de Pessoas (exclusivo de equipamentos de imigrantes).
 
+### Atendimentos - Melhorias nas configurações de atributos
+
+O módulo de configurações dos formulários de atendimento foi melhorado de forma a facilitar a reordenação e configuração dos itens de listas suspensas (somente Administradores).
+
 ### Projetos - Melhorias diversas
 
 Foram aplicadas as seguintes melhorias no módulo de Projetos:
@@ -40,6 +44,14 @@ Ao registrar um atendimento através da ficha de cadastro de uma pessoa, o siste
 ### Atendimentos - Exclusão de tipos de atendimentos
 
 Foi bloqueada a possibilidade de excluir um tipo de atendimento que já tenha algum atendimento, na tela de edição.
+
+### Atendimentos - Melhorias nos filtros
+
+O filtro "Tipo de Atendimento" foi ajustado para trazer somente os tipos de atendimentos configurados para o equipamento.
+
+Além disso, por questões de performance, foi <mark style="background-color:red;">removida a possibilidade de listar todos os atendimentos</mark>, bem como a paginação da lista de atendimentos foi <mark style="background-color:blue;">simplificada</mark>.
+
+Esses ajustes foram necessários para evitar a sobrecarga do sistema. Em breve serão disponibilizados painéis e relatórios que facilitarão a consolidação dos dados de atendimento.
 
 ### Cadastro de Pessoas - Exibição dos Dados de Imigração
 
