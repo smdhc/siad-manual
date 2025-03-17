@@ -10,7 +10,7 @@ Confira abaixo todos os detalhes dessa atualização.
 
 ## Correção na alteração de senha
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Tela de alteração de senha atualizada</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Tela de alteração de senha atualizada</p></figcaption></figure>
 
 Corrigido o problema que ocorria ao alterar a senha no caso de usuários com múltiplos vínculos.
 
@@ -20,7 +20,7 @@ Foi aplicada a correção, bem como foi aplicado um <mark style="color:red;">blo
 
 ## Nova área de encaminhamento (IML)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Na tela de registro de **Encaminhamentos**, foi adicionada a nova área "<mark style="color:purple;">**Instituto Médico Legal**</mark>".
 

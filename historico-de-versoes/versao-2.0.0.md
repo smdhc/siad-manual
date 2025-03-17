@@ -24,7 +24,7 @@ Para conferir todos os detalhes sobre essa nova funcionalidade, recomenda-se ace
 
 ### Dados de Imigração
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Nova seção de dados de imigração</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Nova seção de dados de imigração</p></figcaption></figure>
 
 Foram adicionados novos campos no <mark style="background-color:purple;">Cadastro de Pessoas</mark> para coletar dados de imigração. Nesse primeiro momento, esses dados ficarão visíveis somente para equipamentos com a temática de Imigrantes.
 
@@ -36,13 +36,13 @@ Para maiores detalhes sobre os novos campos, consulte a seção de [Dados Cadast
 
 ### Novo tipo de contato internacional
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Novo tipo de contato - Telefone Internacional</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Novo tipo de contato - Telefone Internacional</p></figcaption></figure>
 
 No <mark style="background-color:purple;">Cadastro de Pessoas</mark>, foi adicionado um novo tipo de contato "<mark style="color:purple;">Telefone internacional</mark>".
 
 ### Novas opções de Condição de Moradia
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Novas opções de condição de moradia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Novas opções de condição de moradia</p></figcaption></figure>
 
 Foram adicionadas as seguintes opções à lista de <mark style="color:purple;">Condição de Moradia</mark>, no <mark style="background-color:purple;">Cadastro de Pessoas</mark>:
 
@@ -58,7 +58,7 @@ Além disso, a lista de municípios passa a exibir também a sigla de <mark styl
 
 ### Equipamento sob Administração Direta
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption><p>Nova opção de Administração Direta</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Nova opção de Administração Direta</p></figcaption></figure>
 
 Agora é possível indicar explicitamente se um equipamento está sob gestão da Administração Direta. Ao ativar essa opção, o sistema irá desativar o campo <mark style="color:purple;">Organização Responsável</mark> e passará a exibir o termo <mark style="color:blue;">Administração Direta</mark> nas telas de consulta.
 
@@ -68,7 +68,7 @@ A edição desse campo está restrita a usuários com permissão específica.
 
 ### Módulos habilitados por equipamento
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption><p>Novo campo para controlar os módulos ativos por equipamento</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption><p>Novo campo para controlar os módulos ativos por equipamento</p></figcaption></figure>
 
 No <mark style="background-color:purple;">Cadastro de Equipamentos</mark>, foi adicionado um novo campo que permite controlar quais módulos estarão disponíveis por equipamento.
 
@@ -80,7 +80,7 @@ A edição desse campo está restrita a administradores do sistema.
 
 ### Cadastro de usuários em múltiplos equipamentos
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Possibilidade de cadastrar um usuário em vários equipamentos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption><p>Possibilidade de cadastrar um usuário em vários equipamentos</p></figcaption></figure>
 
 A partir dessa versão será possível cadastrar um usuário do sistema em mais de um equipamento, que será utilizada em cenários como funcionários que trabalham em mais de um equipamento, unidades móveis e supervisores.
 
