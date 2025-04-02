@@ -1,3 +1,9 @@
+---
+description: >-
+  Nessa seção aprenderá a como acessar o SIAD-Planejamento e entrar no módulo
+  SIAD-Projetos.
+---
+
 # Acesso ao sistema
 
 ### Como acessar o SIAD-Projetos?
@@ -6,15 +12,15 @@ Para acessar ao SIAD-Projetos, siga os passos a seguir
 
 {% stepper %}
 {% step %}
-### Acesse o link da página do SIAD-Projetos
+### Entre no link da página do SIAD-Projetos
 
-Link:
+<mark style="color:yellow;">Link:</mark>
 {% endstep %}
 
 {% step %}
 ### Insira o login e senha enviados por CPI
 
-Imagem da página de cadastro
+<mark style="color:yellow;">Imagem da página de cadastro</mark>
 {% endstep %}
 
 {% step %}
@@ -28,7 +34,9 @@ Caso seja o seu primeiro acesso, siga as instruções em [cadastro-de-usuario.md
 {% step %}
 ### Acessado, entrará na página "Painel de Controle"
 
-&#x20;Essa página conterá todas as funcionalidades do SIAD-Planejamento. Por enquanto somente o SIAD-Projetos está disponível.&#x20;
+Essa página conterá todas as funcionalidades do SIAD-Planejamento.&#x20;
+
+Por enquanto somente o SIAD-Projetos está disponível.&#x20;
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -42,4 +50,6 @@ O botão "Projetos" está no canto esquerdo, na sessão "Gestão de Projetos".&#
 {% endstep %}
 {% endstepper %}
 
-A seguir, entrará na página "Lista de Projetos", por meio da qual incluirá novos projetos e poderá visualizar os que já foram cadastrados. Avance para entender essa nova página.&#x20;
+A seguir, entrará na página **"Lista de Projetos"**, por meio da qual incluirá novos projetos e poderá visualizar os que já foram cadastrados.&#x20;
+
+Avance para entender como funciona a página **"Lista de Projetos"**.&#x20;

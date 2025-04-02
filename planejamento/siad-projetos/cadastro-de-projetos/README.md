@@ -1,6 +1,10 @@
-# Cadastro de projetos
+---
+description: >-
+  Nessa seçãoo encontrará instruções de como cadastrar um projeto no
+  SIAD-Projetos
+---
 
-Nessa parte encontrará instruções de como cadastrar um projeto dentro da seção **Projetos**.
+# Cadastro de projetos
 
 ## Iniciando o cadastro&#x20;
 
@@ -21,4 +25,3 @@ Os projetos cadastrados pela área finalística não poderão ser editados ou vi
 {% endhint %}
 
 A seguir, abordaremos os conteúdos de cada aba.&#x20;
-

@@ -1,12 +1,13 @@
 # SIAD-Projetos
 
-Nesta seção você encontrará informações básicas sobre:
+Nas próximas seções você encontrará informações essenciais sobre:
 
 1. Acesso ao SIAD-Projetos;
-2. Cadastro de projetos;
-3. Visualização e análise dos projetos cadastrados;
-4. Elaboração dos cronogramas dos projetos; e
-5. Monitoramento dos projetos.
+2. Visualização da Lista de Projetos
+3. Cadastro de projetos;
+4. Visualização e análise dos projetos cadastrados;
+5. Elaboração dos cronogramas dos projetos; e
+6. Monitoramento dos projetos.
 
 Vamos entender melhor todas as funcionalidades do SIAD-Projetos?
 
