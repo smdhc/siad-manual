@@ -2,7 +2,7 @@
 
 ### O que é o SIAD-Planejamento?
 
-O módulo de planejamento do SIAD (SIAD-Planejamento) consiste em um conjunto de ferramentas para a gestão interna de SMDHC.&#x20;
+O módulo de planejamento do SIAD (SIAD-Planejamento) consiste em um conjunto de ferramentas para a gestão interna de&#x20;
 
 Visa-se facilitar o dia a dia dos seus servidores, integrar os seus projetos e processos e garantir segurança e publicidade às informações gerenciais da secretaria.&#x20;
 

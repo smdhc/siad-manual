@@ -67,6 +67,7 @@
   * [Cadastro de usuário](planejamento/siad-projetos/cadastro-de-usuario.md)
   * [Acesso ao sistema](planejamento/siad-projetos/acesso-ao-sistema.md)
   * [Lista de Projetos](planejamento/siad-projetos/lista-de-projetos.md)
+  * [Pesquisa e organização](planejamento/siad-projetos/pesquisa-e-organizacao.md)
   * [Cadastro de projetos](planejamento/siad-projetos/cadastro-de-projetos/README.md)
     * [Dados do projeto](planejamento/siad-projetos/cadastro-de-projetos/dados-do-projeto.md)
     * [Dados complementares](planejamento/siad-projetos/cadastro-de-projetos/dados-complementares.md)
@@ -81,7 +82,6 @@
     * [Atribuição e atualização de status](planejamento/siad-projetos/cronograma/atribuicao-e-atualizacao-de-status.md)
     * [Alteração de ordem das etapas](planejamento/siad-projetos/cronograma/alteracao-de-ordem-das-etapas.md)
   * [Anexos](planejamento/siad-projetos/anexos.md)
-  * [Pesquisa e organização](planejamento/siad-projetos/pesquisa-e-organizacao.md)
 
 ## Histórico de Versões
 

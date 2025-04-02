@@ -26,3 +26,11 @@ Assim, é possível utilizar os seguintes filtros:&#x20;
 * <mark style="color:purple;">Prioritário?</mark> - filtra apenas os projetos marcados como prioritários ou os que não foram marcados como prioritários, de forma que é possível selecionar apenas uma opção;&#x20;
 * <mark style="color:purple;">Conclusão</mark> - o filtro de conclusão permite selecionar um período de datas de conclusão do projeto, mostrando na tabela apenas os que serão concluídos dentro dessa seleção;&#x20;
 * <mark style="color:purple;">Registros excluídos -</mark> quando um projeto é excluído, ele deixa de aparecer na tela principal de projetos, no entanto, por meio desse filtro, é possível mostrá-los selecionando “Exibir registros excluídos” ou “Somente registros excluídos”.&#x20;
+
+
+
+
+
+
+
+**Está em desenvolvimento um painel para uma visão global dos projetos da secretaria.**&#x20;
