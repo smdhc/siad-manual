@@ -16,7 +16,7 @@ Confira abaixo todos os detalhes dessa atualização.
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Transcidadania no Cadastro de Pessoas</p></figcaption></figure>
 
-Foi implentada uma nova tela de cadastro para as pessoas beneficiárioas do Programa Transcidadania, que facilitará o controle e acompanhamento por parte dos <mark style="color:purple;">Centros de Referência LGBTI+</mark> e da própria <mark style="color:purple;">Coordenação</mark>.
+Foi implementada uma nova tela de cadastro para as pessoas beneficiárioas do Programa Transcidadania, que facilitará o controle e acompanhamento por parte dos <mark style="color:purple;">Centros de Referência LGBTI+</mark> e da própria <mark style="color:purple;">Coordenação</mark>.
 
 Nesse primeiro momento, está disponível apenas o cadastro da pessoa beneficiária e a inclusão na fila de espera, que ficará disponível dentro do <mark style="background-color:blue;">Cadastro de Pessoas</mark> ou através do novo menu lateral <mark style="background-color:blue;">Transcidadania > Cadastro</mark>.
 

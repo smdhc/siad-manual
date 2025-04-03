@@ -1,5 +1,13 @@
 # Acesso ao sistema
 
+## Requisitos
+
+Para garantir o funcionamento adequado do SIAD, é necessário utilizar as versões mais recentes dos navegadores **Google Chrome**, **Mozilla Firefox** ou **Microsoft Edge**. O uso de <mark style="color:red;">versões desatualizadas</mark> pode resultar em falhas de desempenho, problemas de compatibilidade ou até na impossibilidade de acessar determinadas funcionalidades do sistema.
+
+Além disso, o SIAD foi otimizado para resoluções comuns de desktops modernos. A menor resolução considerada aceitável é <mark style="color:blue;">**1024x768**</mark>, porém, essa já é um padrão ultrapassado. Para melhor experiência e aproveitamento das funcionalidades do sistema, recomendamos resoluções a partir de <mark style="color:green;">**1366x768**</mark>, sendo que 1920x1080 ou superiores oferecem a melhor visualização. <mark style="color:red;">Resoluções menores</mark> que 1024x768 podem comprometer a exibição e usabilidade do sistema.
+
+Também é fundamental manter o <mark style="background-color:blue;">sistema operacional atualizado</mark> e garantir uma conexão estável com a internet. Desempenho inadequado pode estar relacionado a configurações locais do dispositivo ou à qualidade da rede utilizada.
+
 ## Efetuar login
 
 O acesso ao SIAD pode ser feito através do seguinte endereço:
