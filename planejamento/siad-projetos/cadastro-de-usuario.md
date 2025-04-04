@@ -17,7 +17,7 @@ layout:
 
 # Cadastro de usuário
 
-## Quem pode acessar?
+### Quem pode acessar?
 
 O SIAD-Projetos poderá ser acessado por todos os funcionários de SMDHC que preencherem o formulário do seguinte link:
 

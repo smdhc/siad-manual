@@ -4,7 +4,7 @@ description: Nessa seção entenderá todas as funcionalidades da página "Lista
 
 # Lista de Projetos
 
-
+### O que é a "Lista de Projetos"?
 
 A página "**Lista de Projetos**" reúne todos os projetos cadastrados pela área e as suas principais informações para que a área tenha uma noção global dos seus projetos.&#x20;
 
@@ -14,7 +14,7 @@ Explicaremos como acessar as informações detalhadas dos projetos em [ficha-do-
 
 A critério do usuário, é possível acrescentar informações disponibilizadas na tabela e aplicar ferramentas de busca, filtragem e agrupação de projetos. A seguir, explicaremos cada uma dessas funcionalidades.
 
-## Informações disponíveis&#x20;
+### Informações disponíveis&#x20;
 
 A tabela com a lista de projetos estará sempre acompanhada das colunas:
 
@@ -29,7 +29,7 @@ A tabela com a lista de projetos estará sempre acompanhada das colunas:
 
 Além desses, é possível incluir as seguintes colunas clicando em botão ao lado do campo de pesquisa:
 
-* Responsável Auxiliar;
+* Responsável Suplente;
 * Data de início;
 * Processo SEI;
 * Data de cadastro e
@@ -39,7 +39,7 @@ Por exemplo, quando selecionamos os itens "Responsável Auxiliar" e "Data de cad
 
 <mark style="color:yellow;">imagem com todos os itens novos realçados</mark>
 
-## Visualização dos projetos
+### Visualização dos projetos
 
 É possível pesquisar pelo projeto desejado por meio de seu nome, do nome do responsável principal ou pelo código do projeto na barra de pesquisa localizada na parte superior direita da tabela inicial.&#x20;
 

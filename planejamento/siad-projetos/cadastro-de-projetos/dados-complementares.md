@@ -1,8 +1,14 @@
+---
+description: >-
+  Nessa seção será apresentado como preencher as informações na aba "Dados
+  complementares" durante a etapa de cadastro
+---
+
 # Dados complementares
 
 ### O que é a aba "Dados Complementares"?
 
-A página de “**Dados complementares**” foi desenvolvida tendo em vista fornecer subsídios para organização interna e priorização pelo Gabinete dos projetos cadastrados por cada área.&#x20;
+A página de “**Dados complementares**” foi desenvolvida para fornecer subsídios para organização interna e priorização pelo Gabinete dos projetos cadastrados por cada área.&#x20;
 
 Aqui a área deverá responder algumas perguntas sobre o projeto e sua realização, como:
 

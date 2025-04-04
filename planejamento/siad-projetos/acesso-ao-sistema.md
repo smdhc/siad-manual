@@ -12,19 +12,19 @@ Para acessar ao SIAD-Projetos, siga os passos a seguir
 
 {% stepper %}
 {% step %}
-### Entre no link da página do SIAD-Projetos
+#### Entre no link da página do SIAD-Projetos
 
 <mark style="color:yellow;">Link:</mark>
 {% endstep %}
 
 {% step %}
-### Insira o login e senha enviados por CPI
+#### Insira o login e senha enviados por CPI
 
 <mark style="color:yellow;">Imagem da página de cadastro</mark>
 {% endstep %}
 
 {% step %}
-### Caso esqueça a senha, solicite o reenvio pela mesma página
+#### Caso esqueça a senha, solicite o reenvio pela mesma página
 
 <mark style="color:yellow;">Imagem da página de cadastro com o botão para reenvio</mark>
 
@@ -32,7 +32,7 @@ Caso seja o seu primeiro acesso, siga as instruções em [cadastro-de-usuario.md
 {% endstep %}
 
 {% step %}
-### Acessado, entrará na página "Painel de Controle"
+#### Acessado, entrará na página "Painel de Controle"
 
 Essa página conterá todas as funcionalidades do SIAD-Planejamento.&#x20;
 
@@ -42,7 +42,7 @@ Por enquanto somente o SIAD-Projetos está disponível.&#x20;
 {% endstep %}
 
 {% step %}
-### Clique no botão "Projetos"
+#### Clique no botão "Projetos"
 
 O botão "Projetos" está no canto esquerdo, na sessão "Gestão de Projetos".&#x20;
 
