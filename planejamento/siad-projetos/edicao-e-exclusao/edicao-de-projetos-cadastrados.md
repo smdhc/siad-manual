@@ -1,3 +1,7 @@
+---
+description: Nessa seção aprenderá como editar os projetos cadastrados
+---
+
 # Edição de projetos cadastrados
 
 Caso precise alterar alguma informação no cadastro de projetos, ou atualizar seu status de andamento, é possível seguir três caminhos:&#x20;

@@ -1,7 +1,7 @@
 ---
 description: >-
   Nessa seção será apresentado como preencher as informações na aba "Dados
-  complementares" durante a etapa de cadastro
+  complementares", durante a etapa de cadastro
 ---
 
 # Dados complementares

@@ -1,3 +1,9 @@
+---
+description: >-
+  Nessa seção aprenderá como preencher a aba "Outros", durante a etapa de
+  cadastro
+---
+
 # Outros
 
 ### O que é a aba "Outros"?

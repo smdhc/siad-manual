@@ -7,5 +7,5 @@ Nessa seção você encontrará instruções e regras acerca da edição e da ex
 3. Edição de etapas cadastradas no cronograma;
 4. Exclusão de etapas cadastradas no cronograma.
 
-<mark style="background-color:yellow;">Reforçamos a importância desse fluxo, já que é necessário acessar o modo de edição para atualizar os status dos projetos e das etapas dos cronogramas.</mark>
+
 
