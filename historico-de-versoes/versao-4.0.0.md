@@ -37,7 +37,8 @@ Confira abaixo as principais alterações:
 * Cadastros sigilosos passam a ser <mark style="background-color:green;">acessíveis em toda a rede</mark> de atendimento, com a ressalva de que os dados de endereço e contato somente ficarão disponíveis mediante <mark style="background-color:orange;">justificativa</mark>.
 * Maior <mark style="color:blue;">controle e auditabilidade</mark> dos acessos realizados em cadastros sigilosos.
 * Todos os submenus do Cadastro da Pessoa passam a exibir um <mark style="color:orange;">alerta em caso de sigilo</mark>.
-* **Anexos** passam a ser visíveis somente para <mark style="color:orange;">equipamentos de mesma temática</mark>, além de não exibir mais as informações do equipamento que inseriu.
+* **Anexos antigos** passam a ser visíveis somente para <mark style="color:orange;">equipamentos de mesma temática</mark>, além de não exibir mais as informações do equipamento que inseriu.
+* Implementado novo **controle de visibilidade** para novos anexos, permitindo selecionar quem poderá ver.
 * Restrição no acesso aos **prontuários** cadastrados, de forma a não exibir prontuários associados em equipamentos sigilosos ou ouvidoria.
 * Restrição no **histórico de atendimentos** da pessoa, de forma a não exibir atendimentos realizados em equipamentos sigilosos ou ouvidoria.
 * Revisão geral das regras de acesso e consulta aos **encaminhamentos**:
@@ -107,6 +108,21 @@ Os benefícios abaixo tiveram seus nomes corrigidos:
 * Auxílio-Reclusão
 
 A mudança foi aplicada no Cadastro de Pessoas (aba Dados Socioeconômicos) e no cadastro da Composição Familiar.
+
+### Cadastro de Pessoas - Limpeza de nomes
+
+Foi aplicada uma limpeza nos campos abaixo, removendo espaços em branco em excesso:
+
+Cadastro de pessoas:
+
+* Nome civil
+* Nome social
+* Nome da mãe
+* Nome do pai
+
+Composição familiar:
+
+* Nome
 
 ### Atendimentos - Correção de bug em campos dinâmicos
 
