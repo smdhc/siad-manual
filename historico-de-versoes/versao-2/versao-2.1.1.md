@@ -19,7 +19,7 @@ Disponibilizamos um novo módulo exclusivo para a equipe da SESANA poder acompan
 * Lista completa da base pendente de regularização, com funcionalidade para importação de dados (somente Admins);
 * Tela para acompanhamento das solicitações de regularização.
 
-<figure><img src="../.gitbook/assets/image (135).png" alt=""><figcaption><p>Novo módulo SESANA</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (135).png" alt=""><figcaption><p>Novo módulo SESANA</p></figcaption></figure>
 
 {% hint style="info" %}
 O formulário de regularização é de uso exclusivo das entidades credenciadas no Programa Cidade Solidária.

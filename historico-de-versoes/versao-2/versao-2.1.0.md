@@ -16,7 +16,7 @@ Dessa forma, essa passa a ser a primeira funcionalidade do sistema que não est�
 
 Esse formulário será utilizado pelas entidades credenciadas no Programa Cidade Solidária para que regularizem os beneficiários com documento inválido.
 
-<figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption><p>Formulário de Regularização de Beneficiários do Cidade Solidária</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (128).png" alt=""><figcaption><p>Formulário de Regularização de Beneficiários do Cidade Solidária</p></figcaption></figure>
 
 Além do formulário público, também foram implementadas no módulo <mark style="background-color:purple;">Admin</mark>:
 
@@ -33,7 +33,7 @@ Foram realizadas as seguintes melhorias na pesquisa de CEP, do <mark style="back
 * Erros passam a ser exibidos no próprio campo do CEP;
 * Distrito volta a ser exibido em caso de CEP inválido.
 
-<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption><p>Exemplo de validação de CEP</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption><p>Exemplo de validação de CEP</p></figcaption></figure>
 
 Vale reforçar que a consulta de CEP é uma <mark style="background-color:orange;">etapa auxiliar</mark>, podendo ainda assim o usuário não utilizar dessa ferramenta e informar manualmente os dados de endereço.
 
@@ -43,7 +43,7 @@ Outro ponto a destacar é que futuramente implementaremos uma forma para que o D
 
 Foi corrigido o permissionamento dos botões <mark style="color:purple;">Registrar Atendimento</mark> e <mark style="color:purple;">Cadastrar Pessoa</mark> na tela inicial, que estavam sendo exibidos mesmo se o usuário não tivesse permissão específica.
 
-<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption><p>Botões da tela inicial</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption><p>Botões da tela inicial</p></figcaption></figure>
 
 A mesma revisão foi aplicada nas seguintes telas/funcionalidades:
 
@@ -60,16 +60,16 @@ Foram adicionados os seguintes filtros no Cadastro de Pessoas:
 * Criança/adolescente separado/desacompanhado (somente temática Imigrantes);
 * Pessoas com anexos.
 
-<figure><img src="../.gitbook/assets/image (132).png" alt=""><figcaption><p>Novos filtros no Cadastro de Pessoas</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption><p>Novos filtros no Cadastro de Pessoas</p></figcaption></figure>
 
 ## Correção da exibição dos contatos no Cadastro de Pessoas
 
 Foi corrigida a exibição dos contatos na listagem do Cadastro de Pessoas, que estava exibindo apenas os contatos adicionais. Agora, o sistema passa a exibir tanto o contato principal quanto os contatos adicionais.
 
-<figure><img src="../.gitbook/assets/image (133).png" alt=""><figcaption><p>Exibição de contatos na listagem de pessoas</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (133).png" alt=""><figcaption><p>Exibição de contatos na listagem de pessoas</p></figcaption></figure>
 
 ## Lista de equipamentos pesquisável nos Encaminhamentos
 
 Ao realizar um <mark style="background-color:purple;">encaminhamento externo</mark> para outro equipamento da nossa rede de atendimento SMDHC, o sistema exibia uma lista estática de equipamentos, que dificultava a pesquisa. Agora é possível **filtrar** por partes do nome do equipamento.
 
-<figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption><p>Nova pesquisa de equipamentos no encaminhamento externo</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption><p>Nova pesquisa de equipamentos no encaminhamento externo</p></figcaption></figure>

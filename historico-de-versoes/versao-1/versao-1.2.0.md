@@ -8,7 +8,7 @@ A versão 1.2.0 do SIAD traz alguns ajustes de **segurança da informação** te
 
 ### Cadastro de Pessoas - Sigilo do Cadastro
 
-<figure><img src="../.gitbook/assets/image (115).png" alt=""><figcaption><p>Nova opção "Sigilo do Cadastro"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption><p>Nova opção "Sigilo do Cadastro"</p></figcaption></figure>
 
 Foi adicionada uma nova opção ao <mark style="color:blue;">Cadastro de Pessoas</mark> que permite informar que um cadastro é sigiloso na rede.
 
@@ -22,25 +22,25 @@ Uma vez ativada, essa opção só poderá ser desativada pelo próprio usuário 
 
 ### Cadastro de Pessoas - Remoção da listagem geral
 
-<figure><img src="../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
-Por questões de segurança, o [filtro ](../pessoas/pesquisa/filtros-de-equipamentos.md)de equipamentos <mark style="color:purple;">Todos cadastrados na rede DH</mark> foi removido do Cadastro de Pessoas, permanecendo as demais opções que permitem listar somente os cadastros do próprio equipamento logado.
+Por questões de segurança, o [filtro ](../../pessoas/pesquisa/filtros-de-equipamentos.md)de equipamentos <mark style="color:purple;">Todos cadastrados na rede DH</mark> foi removido do Cadastro de Pessoas, permanecendo as demais opções que permitem listar somente os cadastros do próprio equipamento logado.
 
-Apesar disso, ainda é possível acessar individualmente cadastros realizados por outros equipamentos através da [Pesquisa Global](../pessoas/pesquisa/pesquisa-global.md).
+Apesar disso, ainda é possível acessar individualmente cadastros realizados por outros equipamentos através da [Pesquisa Global](../../pessoas/pesquisa/pesquisa-global.md).
 
-<figure><img src="../.gitbook/assets/image (119).png" alt=""><figcaption><p>Pesquisa global</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption><p>Pesquisa global</p></figcaption></figure>
 
 ### Cadastro de Pessoas - Remoção do filtro "Equipamento de Cadastro"
 
-<figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption><p>Remoção do filtro de Equipamento de Cadastro</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption><p>Remoção do filtro de Equipamento de Cadastro</p></figcaption></figure>
 
-Também por questões de segurança, foi removida a possibilidade de [filtrar](../pessoas/pesquisa/filtros-categoricos.md) e listar cadastros realizados por outros equipamentos.
+Também por questões de segurança, foi removida a possibilidade de [filtrar](../../pessoas/pesquisa/filtros-categoricos.md) e listar cadastros realizados por outros equipamentos.
 
-Apesar disso, ainda é possível acessar individualmente cadastros realizados por outros equipamentos através da [Pesquisa Global](../pessoas/pesquisa/pesquisa-global.md).
+Apesar disso, ainda é possível acessar individualmente cadastros realizados por outros equipamentos através da [Pesquisa Global](../../pessoas/pesquisa/pesquisa-global.md).
 
 ### Cadastro de Usuários - Reinicio de Senha
 
-<figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption><p>Reinicio de senha</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption><p>Reinicio de senha</p></figcaption></figure>
 
 Implementada nova funcionalidade para facilitar o reinicio de senhas do SIAD.
 

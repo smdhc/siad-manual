@@ -12,7 +12,7 @@ Confira abaixo todos os detalhes dessa atualização.
 
 ### Transcidadania - Acompanhamento Mensal
 
-<figure><img src="../.gitbook/assets/image (169).png" alt=""><figcaption><p>Nova tela de acompanhamento do Transcidadania</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (169).png" alt=""><figcaption><p>Nova tela de acompanhamento do Transcidadania</p></figcaption></figure>
 
 Foi implementada uma nova tela de acompanhamento das pessoas beneficiárioas do Programa Transcidadania, que permitirá o registro da <mark style="color:purple;">Frequência Escolar</mark> mensal.
 
@@ -26,7 +26,7 @@ O módulo do Transcidadania está disponível somente para os Centros de Referê
 
 ### Cadastro de Pessoas - Revisão de Sigilo
 
-<figure><img src="../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
 
 Informamos que as regras de exibição do sigilo de cadastro foram modificadas para atender à expansão do sistema à **rede de atendimento às mulheres**.
 
@@ -38,7 +38,7 @@ Confira abaixo as principais alterações:
 * Maior <mark style="color:blue;">controle e auditabilidade</mark> dos acessos realizados em cadastros sigilosos.
 * Todos os submenus do Cadastro da Pessoa passam a exibir um <mark style="color:orange;">alerta em caso de sigilo</mark>.
 * **Anexos antigos** passam a ser visíveis somente para <mark style="color:orange;">equipamentos de mesma temática</mark>, além de não exibir mais as informações do equipamento que inseriu.
-* Implementado novo **controle de visibilidade** para novos anexos, permitindo selecionar quem poderá ver.
+* Implementado novo **controle de visibilidade** para novos anexos, permitindo selecionar quem poderá ver ([versão 4.0.1](versao-4.0.1.md)).
 * Restrição no acesso aos **prontuários** cadastrados, de forma a não exibir prontuários associados em equipamentos sigilosos ou ouvidoria.
 * Restrição no **histórico de atendimentos** da pessoa, de forma a não exibir atendimentos realizados em equipamentos sigilosos ou ouvidoria.
 * Revisão geral das regras de acesso e consulta aos **encaminhamentos**:
@@ -57,7 +57,7 @@ Foi adicionada uma nova pergunta <mark style="background-color:purple;">"Possui 
 
 ### Projetos - Dados complementares e outras melhorias
 
-<figure><img src="../.gitbook/assets/image (171).png" alt=""><figcaption><p>Seção "Dados Complementares" no Cadastro de Projetos</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (171).png" alt=""><figcaption><p>Seção "Dados Complementares" no Cadastro de Projetos</p></figcaption></figure>
 
 Adicionada nova etapa obrigatória no Cadastro de Projetos, contendo dados complementares que auxiliarão na etapa de priorização.
 
@@ -79,7 +79,7 @@ O registro de atendimento de atividades coletivas com múltiplas pessoas informa
 
 ### Composição Familiar - Dependente e Responsável Legal
 
-<figure><img src="../.gitbook/assets/image (173).png" alt=""><figcaption><p>Novas opções de Ligações Familiares</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (173).png" alt=""><figcaption><p>Novas opções de Ligações Familiares</p></figcaption></figure>
 
 Foram adicionadas as opções <mark style="background-color:blue;">"Dependente"</mark> e <mark style="background-color:blue;">"Responsável Legal"</mark> no campo "**Ligação Familiar**", da janela de cadastro da Composição Familiar.
 
@@ -89,7 +89,7 @@ Todos os membros familiares que estavam com essa opção habilitada foram atuali
 
 ### Transcidadania - Ano letivo de evasão escolar
 
-<figure><img src="../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
 
 O campo "Ano letivo de evasão escolar" no Cadastro do Transcidadania passa a ser uma lista fechada, com valores pré-definidos.
 
