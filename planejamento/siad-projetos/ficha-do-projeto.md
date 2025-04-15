@@ -21,4 +21,4 @@ Com o projeto nesse página existem duas formas de acessar a sua ficha:
 
 A ficha está organizada em abas, cujo conteúdo é igual ao conteúdo preenchido no cadastro, bem como uma aba a mais com os “Critérios de planejamento”. Por meio do menu lateral da ficha, é possível navegar no modo de visualização, no modo de edição, acessar o cronograma e a parte de anexos.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<mark style="color:yellow;">Imagem da página</mark>

@@ -8,7 +8,7 @@ Vale destacar que esse processo será realizado entre CPI e CPDDH junto com o Ga
 
 Com a inclusão do projeto pelas áreas, usuários com perfil de admin, isto é, os usuários de CPI e CPDDH, complementarão o cadastro indicando se incidem sobre o projeto os compromissos decorrentes dos instrumentos de planejamento da secretaria e da prefeitura. Essas informações aparecerão para as áreas como uma aba na ficha chamada _<mark style="color:purple;">Critérios de Priorização</mark>_.
 
-<figure><img src="../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+<mark style="color:yellow;">Imagem da página</mark>
 
 {% hint style="success" %}
 Os instrumentos de planejamento verificados são:&#x20;
@@ -31,6 +31,4 @@ Ao priorizar um projeto, o Gabinete poderá levar em consideração outros crit�
 
 Para saber os projetos prioritários de sua área, verifique o projeto na coluna _<mark style="color:purple;">Prioritário?</mark>_, da tela inicial dos projetos.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (143).png" alt=""><figcaption><p>Projeto priorizado.</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption><p>Projeto não priorizado.</p></figcaption></figure>
+<mark style="color:yellow;">Imagem da página</mark>
