@@ -4,7 +4,7 @@ description: 'Data de lançamento: 24/04/2025'
 
 # Versão 4.1.0
 
-A **versão 4.1.0** do SIAD é uma versão que traz a <mark style="background-color:yellow;">nova funcionalidade</mark> de **Acompanhamento do Transcidadania**, <mark style="background-color:green;">revisão</mark> das regras de **sigilo** do Cadastro de Pessoas, além de <mark style="background-color:blue;">ajustes</mark> diversos no sistema em geral.
+A **versão 4.1.0** do SIAD é uma versão que traz <mark style="background-color:yellow;">novas funcionalidades</mark> como a **Central de Encaminhamentos, Painéis dinâmicos e exclusão de duplicidades**, além de <mark style="background-color:blue;">ajustes</mark> e <mark style="background-color:green;">melhorias</mark> diversas no sistema em geral.
 
 Confira abaixo todos os detalhes dessa atualização.
 
