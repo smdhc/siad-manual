@@ -1,6 +1,6 @@
 # Versão 4
 
-A <mark style="background-color:blue;">**Versão 4**</mark> do SIAD traz um grande conjunto de melhorias, bem como o <mark style="background-color:orange;">**Acompanhamento do Transcidadania**</mark> e <mark style="background-color:purple;">**Revisão de Sigilo**</mark> dos cadastros e atendimentos.
+A <mark style="background-color:blue;">**Versão 4**</mark> do SIAD traz um grande conjunto de melhorias, bem como o <mark style="background-color:orange;">**Acompanhamento do Transcidadania**</mark>, <mark style="background-color:purple;">**Revisão de Sigilo**</mark> e <mark style="background-color:green;">**Central de Encaminhamentos**</mark>.
 
 Confira abaixo os detalhes que cada versão menor que compôs essa versão:
 
