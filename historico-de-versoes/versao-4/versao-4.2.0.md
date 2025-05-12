@@ -4,7 +4,7 @@ description: 'Data de lançamento: TBD'
 
 # Versão 4.2.0
 
-A **versão 4.2.0** do SIAD é uma versão que traz <mark style="background-color:yellow;">novas funcionalidades</mark> como o **RCC**, além de <mark style="background-color:blue;">ajustes</mark> e <mark style="background-color:green;">melhorias</mark> diversas no sistema em geral.
+A **versão 4.2.0** do SIAD é uma versão que traz <mark style="background-color:yellow;">novas funcionalidades</mark> como o **RCC e preenchimento automático de Distrito**, além de <mark style="background-color:blue;">ajustes</mark> e <mark style="background-color:green;">melhorias</mark> diversas no sistema em geral.
 
 Confira abaixo todos os detalhes dessa atualização.
 
