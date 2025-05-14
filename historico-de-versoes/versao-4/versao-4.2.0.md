@@ -64,6 +64,10 @@ Assim que a nova versão for disponibilizada no ambiente de Produção, será ex
 
 A versão do PHP — linguagem de programação utilizada no desenvolvimento do sistema — foi atualizada para a 8.3, trazendo melhorias de desempenho e maior compatibilidade com determinadas bibliotecas.
 
+### Transcidadania - Mês padrão na tela de acompanhamento
+
+A tela de acompanhamento do Transcidadania foi alterada de forma a exibir as frequências do mês anterior por padrão, ao invés do mês atual.
+
 ## Ajustes
 
 ### Atendimentos - Erro ao excluir atributo
