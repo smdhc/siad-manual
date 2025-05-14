@@ -4,7 +4,7 @@ description: 'Data de lançamento: TBD'
 
 # Versão 4.2.0
 
-A **versão 4.2.0** do SIAD é uma versão que traz <mark style="background-color:yellow;">novas funcionalidades</mark> como o **RCC e preenchimento automático de Distrito**, além de <mark style="background-color:blue;">ajustes</mark> e <mark style="background-color:green;">melhorias</mark> diversas no sistema em geral.
+A **versão 4.2.0** do SIAD é uma versão que traz <mark style="background-color:yellow;">novas funcionalidades</mark> como o **RCC, Programa de Geração de Renda e preenchimento automático de Distrito**, além de <mark style="background-color:blue;">ajustes</mark> e <mark style="background-color:green;">melhorias</mark> diversas no sistema em geral.
 
 Confira abaixo todos os detalhes dessa atualização.
 
@@ -15,6 +15,12 @@ Confira abaixo todos os detalhes dessa atualização.
 Foi disponibilizado um novo formulário para prestação de contas do Programa Cidade Solidária, restrita à equipe da SESANA.
 
 Trata-se de uma versão preliminar, que ainda passará por ajustes e melhorias.
+
+### Programa de Geração de Renda
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Foi adicionada uma nova seção "<mark style="background-color:purple;">Programa de Geração de Renda</mark>", no Cadastro de Pessoas, de uso exclusivo dos equipamentos Recifran e Reviravolta, para fins de registro de informações dos participantes cadastrados no programa.
 
 ### RCC (Versão preliminar)
 
