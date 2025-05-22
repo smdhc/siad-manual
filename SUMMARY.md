@@ -92,6 +92,7 @@
   * [Versão 4.1.0](historico-de-versoes/versao-4/versao-4.1.0.md)
   * [Versão 4.1.1](historico-de-versoes/versao-4/versao-4.1.1.md)
   * [Versão 4.2.0](historico-de-versoes/versao-4/versao-4.2.0.md)
+  * [Versão 4.3.0](historico-de-versoes/versao-4/versao-4.3.0.md)
 * [Versão 3](historico-de-versoes/versao-3/README.md)
   * [Versão 3.0.0](historico-de-versoes/versao-3/versao-3.0.0.md)
   * [Versão 3.0.1](historico-de-versoes/versao-3/versao-3.0.1.md)
