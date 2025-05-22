@@ -35,3 +35,19 @@ Foram adicionadas novas configurações de validação em campos numéricos (mai
 ### Cadastro de Pessoas - Novas opções de escolaridade
 
 Foram adicionadas as opções "<mark style="background-color:purple;">Mestrado</mark>" e "<mark style="background-color:blue;">Doutorado</mark>" no rol de opções de Escolaridade, do Cadastro de Pessoas.
+
+### Módulo Admin - Modo noturno
+
+Habilitada a possibilidade de configurar o tema noturno do SIAD no módulo Admin.
+
+Até a próxima versão será avaliado o impacto no sistema para que possamos habilitar nos demais módulos.
+
+## Ajustes
+
+### Cadastro de Pessoas - Correção de CEP sem endereço
+
+Aplicada correção para não armazenar mais em cache CEPs que não retornaram nenhum endereço.
+
+### RCC - Correção de erro ao cadastrar restaurantes e pontos de entrega
+
+Aplicada correção no cadastro de restaurantes e pontos de entrega por problema ocasionado na implementação do preenchimento de CEP/Distrito automático da versão 4.2.0.
