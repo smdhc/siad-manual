@@ -4,7 +4,7 @@ description: 'Data de lançamento: 21/05/2025'
 
 # Versão 4.3.0
 
-A **versão 4.3.0** do SIAD é uma versão que traz <mark style="background-color:yellow;">novas funcionalidades</mark> como o **RCC, Programa de Geração de Renda e preenchimento automático de Distrito**, além de <mark style="background-color:blue;">ajustes</mark> e <mark style="background-color:green;">melhorias</mark> diversas no sistema em geral.
+A **versão 4.3.0** do SIAD é uma versão que traz <mark style="background-color:yellow;">novas funcionalidades</mark> como o **Selo de Igualdade Racial 2025 (prévia) e Virada Cultural 2025**, além de <mark style="background-color:blue;">ajustes</mark> e <mark style="background-color:green;">melhorias</mark> diversas no sistema em geral.
 
 Confira abaixo todos os detalhes dessa atualização.
 
