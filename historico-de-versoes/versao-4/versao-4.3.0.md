@@ -1,5 +1,5 @@
 ---
-description: 'Data de lançamento: 21/05/2025'
+description: 'Data de lançamento: 22/05/2025'
 ---
 
 # Versão 4.3.0
