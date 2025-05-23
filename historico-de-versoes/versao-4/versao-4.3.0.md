@@ -48,6 +48,10 @@ Até a próxima versão será avaliado o impacto no sistema para que possamos ha
 
 Aplicada correção para não armazenar mais em cache CEPs que não retornaram nenhum endereço.
 
+### Cadastro de Pessoas - Correção de edição com RNE (Versão 4.3.1)
+
+Corrigida a validação que impedia alterar um cadastro com RNE, acusando que o mesmo já estava em uso.
+
 ### RCC - Correção de erro ao cadastrar restaurantes e pontos de entrega
 
 Aplicada correção no cadastro de restaurantes e pontos de entrega por problema ocasionado na implementação do preenchimento de CEP/Distrito automático da versão 4.2.0.
