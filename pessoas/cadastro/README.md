@@ -18,7 +18,7 @@ Em caso de dúvida, você encontrará por todo o cadastro ícones de ajuda ao la
 Além das informações presentes nessa página, você pode consultar também um vídeo explicativo que exemplifica esse processo:
 
 {% hint style="info" %}
-[🎬 Vídeo: SIAD - Fluxo de Cadastro de Pessoas](https://shorturl.at/9O5cT)
+[🎬 Vídeo: SIAD - Fluxo de Cadastro de Pessoas](https://cloudprodamazhotmail-my.sharepoint.com/:v:/g/personal/siad_prefeitura_sp_gov_br/EYCvZGvttX5Ku-Fa_GkFt2EBrLJZQE4FYLDBkIXc9bUyPQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0\&e=10cENL)
 {% endhint %}
 
 ## Iniciando o fluxo de cadastro

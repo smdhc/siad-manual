@@ -17,7 +17,7 @@ A seguir iremos abordar as diversas formas de realizar essa pesquisa.
 Confira também o vídeo explicativo desta funcionalidade:
 
 {% hint style="info" %}
-[🎬 Vídeo: SIAD - Pesquisa de Pessoas](https://shorturl.at/r2ctx)
+[🎬 Vídeo: SIAD - Pesquisa de Pessoas](https://cloudprodamazhotmail-my.sharepoint.com/:v:/g/personal/siad_prefeitura_sp_gov_br/ERsVJRPWLkZIkB0mSO69s0sBoFM1tng0FVJNjZxtsWaicw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0\&e=nYKt3t)
 {% endhint %}
 
 ## Cadastro de Pessoas

@@ -15,5 +15,5 @@ Além disso, os dados coletados auxiliam num processo de **tomada de decisão** 
 Confira também o vídeo explicativo desta funcionalidade:
 
 {% hint style="info" %}
-[🎬](https://emojiterra.com/pt/claquete/)[Vídeo: Apresentação do SIAD](https://shorturl.at/Kf459)
+[🎬](https://emojiterra.com/pt/claquete/)[Vídeo: Apresentação do SIAD](https://cloudprodamazhotmail-my.sharepoint.com/:v:/g/personal/siad_prefeitura_sp_gov_br/EcKT_b8LzYFAo9MMg2lFXGwBqiF9EfdB313fhZe-dTp3Aw?e=vF37Pf\&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 {% endhint %}
