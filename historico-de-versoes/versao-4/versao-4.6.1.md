@@ -10,6 +10,8 @@ Confira abaixo todos os detalhes dessa atualização.
 
 ## Ajustes
 
+### Atendimentos - Ajustes de performance
+
 Esta versão corrige problemas de desempenho identificados ao visualizar atendimentos que possuem profissionais cadastrados, mas não têm uma pessoa principal associada — como ocorre em atendimentos consolidados ou coletivos.
 
 {% hint style="warning" %}
