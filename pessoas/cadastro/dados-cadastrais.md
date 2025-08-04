@@ -25,27 +25,31 @@ Atualmente são coletados os seguintes campos:
 
 ## Sigilo de Cadastro
 
-Logo no início da tela, existe a opção <mark style="background-color:purple;">Sigilo do Cadastro</mark>, que, ao ser ativada, indicará para o sistema que as informações ali registradas serão sigilosas e ficarão **ocultas** para outros equipamentos da Rede de Direitos Humanos que não atuem na mesma temática que o seu.
+Ao marcar um registro como sigiloso, é necessário <mark style="background-color:$danger;">**redobrar a atenção**</mark> quanto ao tratamento das informações. Isso inclui cuidado especial com o conteúdo compartilhado e com o acesso aos dados, principalmente os relacionados a **endereço e contato**, que ficam automaticamente <mark style="color:red;">ocultos</mark> para todos os usuários.
+
+Esses dados só podem ser visualizados mediante **justificativa**, respeitando as normas de proteção de informações sensíveis.
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sigilo do Cadastro</p></figcaption></figure>
-
-Dessa forma, apenas equipamentos da mesma temática terão acesso aos dados cadastrais completos, enquanto equipamentos de outras temáticas poderão visualizar apenas o <mark style="background-color:purple;">Nome Civil</mark>, <mark style="background-color:purple;">Nome Social</mark>, <mark style="background-color:purple;">Data de Nascimento</mark> e <mark style="background-color:purple;">Nome da Mãe</mark>. Exemplos de temáticas incluem Igualdade Racial, Imigrantes, Criança e Adolescente, entre outras.
 
 {% hint style="warning" %}
 Uma vez ativada, essa opção só poderá ser desativada pelo próprio usuário que a acionou ou pela supervisão técnica da área temática correspondente.
 {% endhint %}
 
-Ao acessar um cadastro sigiloso de um outro equipamento da **mesma temática**, o sistema exibirá todas as informações normalmente, mas indicará através de um alerta:
+Ao acessar um cadastro sigiloso por meio de um outro equipamento, o sistema exibirá todas as informações normalmente, mas indicará através de um alerta:
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Aviso de cadastro sigiloso - mesma temática</p></figcaption></figure>
 
-Ao acessar um cadastro sigiloso de um outro equipamento de **outra temática**, somente as> informações básicas ficarão disponíveis. Todos os demais menus e seções serão ocultados.
+Além disso, os dados de Endereço e Contato ficam ocultos por padrão, e somente são liberados mediante justificativa:
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Cadastro sigiloso - outra temática</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
 
-Nas próximas versões, serão implementados mecanismos que permitirão compartilhar os dados de um cadastro sigiloso com equipamentos de outras temáticas em situações específicas.
+{% hint style="info" %}
+Ao registrar uma justificativa de acesso, o sistema exibirá automaticamente os dados solicitados. No entanto, tanto a identificação do usuário quanto a justificativa informada serão registradas na trilha de auditoria, podendo ser consultadas a qualquer momento para fins de controle e transparência.
+{% endhint %}
 
-Nesse momento, havendo a necessidade de consultar dados de um cadastro sigiloso, entre em contato com a Coordenação temática responsável pelo seu equipamento.
+{% hint style="danger" %}
+⚠️ O uso indevido dessas informações está sujeito a **sanções administrativas e/ou legais**, conforme as normas internas e a legislação vigente sobre proteção de dados.
+{% endhint %}
 
 ## Obrigatoriedade dos campos
 

@@ -10,9 +10,9 @@ Após efetuar o login e concordar com os termos de uso, você será direcionado 
 * Botão para ir direto ao cadastro de pessoas;
 * Indicadores diversos.
 
-<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption><p>Painel de Controle</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
 
-No canto superior direito você encontrará a <mark style="color:purple;">Barra de Pesquisa</mark> (detalhada mais à frente) e o menu de usuário, onde você pode alterar sua senha ou sair do sistema.
+No canto superior direito você encontrará a [<mark style="color:purple;">Barra de Pesquisa Global</mark>](../pessoas/pesquisa/pesquisa-global.md) (detalhada mais à frente) e o menu de usuário, onde você pode alterar sua senha ou sair do sistema.
 
 Por fim, na barra lateral à esquerda você encontrará o **menu do sistema**, que dará acesso às principais funcionalidades.
 

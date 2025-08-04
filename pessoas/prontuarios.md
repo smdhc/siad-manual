@@ -7,7 +7,7 @@ O SIAD permite aproveitar os diversos números de prontuários (físicos ou elet
 A vantagem dessa funcionalidade é permitir localizar cadastros do SIAD através de seus números de prontuários antigos ou vice-versa, ou seja, localizar os números de prontuário antigos através do cadastro do SIAD.
 
 {% hint style="warning" %}
-A funcionalidade de Associar Prontuários coleta apenas informações básicas e não sigilosas como o número do prontuário em si e a sua data de abertura. Essa funcionalidade não deve ser utilizada para registrar informações confidenciais e sigilosas do prontuário físico da pessoa. Futuramente o sistema permitirá o registro dessas informações em um local mais apropriado.
+A funcionalidade de Associar Prontuários coleta apenas informações básicas e não sigilosas como o número do prontuário em si e a sua data de abertura. Essa funcionalidade <mark style="background-color:$danger;">**não deve ser utilizada para registrar informações confidenciais e sigilosas do prontuário físico da pessoa**</mark>. Futuramente o sistema permitirá o registro dessas informações em um local mais apropriado.
 {% endhint %}
 
 ## Associação de Prontuários
