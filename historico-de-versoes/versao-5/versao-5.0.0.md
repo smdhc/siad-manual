@@ -4,7 +4,7 @@ description: 'Data de lançamento: 30/09/2025'
 
 # Versão 5.0.0
 
-A **versão 5.0.0** do SIAD é uma versão que traz a <mark style="background-color:yellow;">nova funcionalidade</mark> do **Programa Cidade Solidária**, além de <mark style="background-color:blue;">melhorias e ajustes</mark> diversos no sistema em geral.
+A **versão 5.0.0** do SIAD é uma versão que traz a <mark style="background-color:yellow;">nova funcionalidade</mark> do **Programa Cidade Solidária e a integração com CadÚnico**, além de <mark style="background-color:blue;">melhorias e ajustes</mark> diversos no sistema em geral.
 
 Confira abaixo todos os detalhes dessa atualização.
 
@@ -102,11 +102,15 @@ Até então, o cadastro de novos encaminhamentos era obrigatoriamente feito atra
 
 ### Segurança - Bloqueio de acesso em múltiplos dispositivos
 
-Por questões de segurança, a partir desta versão não será mais possível utilizar a mesma conta em dois dispositivos simultaneamente.
+~~Por questões de segurança, a partir desta versão não será mais possível utilizar a mesma conta em dois dispositivos simultaneamente.~~
 
-Sempre que for realizado um novo login, o sistema invalidará automaticamente todas as demais sessões abertas do usuário, independentemente do equipamento utilizado.
+~~Sempre que for realizado um novo login, o sistema invalidará automaticamente todas as demais sessões abertas do usuário, independentemente do equipamento utilizado.~~
 
-Essa medida tem como objetivo prevenir o compartilhamento de senhas.
+~~Essa medida tem como objetivo prevenir o compartilhamento de senhas.~~
+
+{% hint style="warning" %}
+A melhoria acima foi desabilitada na versão 5.0.3 devido a instabilidade no mecanismo.
+{% endhint %}
 
 ### Transcidadania - Data da suspensão
 
@@ -149,3 +153,10 @@ Corrigida a forma de armazenamento dos IPs de usuários no log de acessos do sis
 ### Transcidadania - Sincronização de frequências históricas
 
 Foi desativada a sincronização da frequência com o cadastro ao lançar frequências históricas.
+
+### Hotfixes
+
+Após a publicação da versão, foi necessário realizar alguns ajustes, conforme abaixo:
+
+* v5.0.1 e v5.0.2: correção de erro ao abrir atendimento de imigrantes, por conta de um problema relacionado à checagem no campo de Situação Migratória;
+* v5.0.3: remoção temporária do mecanismo de bloqueio de sessões do usuário abertas em outros dispositivos.
