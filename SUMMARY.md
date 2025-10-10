@@ -89,11 +89,12 @@
 * [Objetivos Gerais](cidade-solidaria/objetivos-gerais.md)
 * [Escopo do sistema](cidade-solidaria/escopo-do-sistema.md)
 * [Definições](cidade-solidaria/definicoes.md)
-* [Configuração / Administração](cidade-solidaria/configuracao-administracao/README.md)
-  * [Configurações gerais](cidade-solidaria/configuracao-administracao/configuracoes-gerais.md)
-  * [Cadastrar Entidades](cidade-solidaria/configuracao-administracao/cadastrar-entidades.md)
-  * [Ciclos](cidade-solidaria/configuracao-administracao/ciclos.md)
-  * [Lotes](cidade-solidaria/configuracao-administracao/lotes.md)
+* [Configuração](cidade-solidaria/configuracao/README.md)
+  * [Configurações gerais](cidade-solidaria/configuracao/configuracoes-gerais.md)
+  * [Cadastrar Entidades](cidade-solidaria/configuracao/cadastrar-entidades.md)
+  * [Ciclos](cidade-solidaria/configuracao/ciclos.md)
+  * [Lotes](cidade-solidaria/configuracao/lotes.md)
+* [Cadastro de Remessas/Beneficiários](cidade-solidaria/cadastro-de-remessas-beneficiarios.md)
 
 ## Histórico de Versões
 
