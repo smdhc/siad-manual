@@ -92,6 +92,8 @@
 * [Configuração / Administração](cidade-solidaria/configuracao-administracao/README.md)
   * [Configurações gerais](cidade-solidaria/configuracao-administracao/configuracoes-gerais.md)
   * [Cadastrar Entidades](cidade-solidaria/configuracao-administracao/cadastrar-entidades.md)
+  * [Ciclos](cidade-solidaria/configuracao-administracao/ciclos.md)
+  * [Lotes](cidade-solidaria/configuracao-administracao/lotes.md)
 
 ## Histórico de Versões
 

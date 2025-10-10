@@ -37,11 +37,11 @@ Essa etapa de consulta, embora seja <mark style="color:purple;">opcional</mark>,
 
 Para consultar, basta informar o <mark style="color:purple;">CPF</mark> e <mark style="color:purple;">clicar na lupa</mark> ao lado do campo.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Janela de consulta de cadastro já existente</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Janela de consulta de cadastro já existente</p></figcaption></figure>
 
 Caso o CPF informado já esteja cadastrado na base de dados, uma mensagem em <mark style="color:red;">vermelho</mark> aparecerá, conforme imagem abaixo. Será exibido o Código SIAD e o nome da pessoa cadastrada para aquele CPF. Caso queira acessar esse cadastro, basta clicar no link para ser redirecionado para a ficha da pessoa.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Exemplo de CPF já cadastrado</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Exemplo de CPF já cadastrado</p></figcaption></figure>
 
 Caso o CPF informado não esteja na base de dados do SIAD, uma mensagem <mark style="color:green;">verde</mark> em destaque informará isso. Nesse caso, basta prosseguir para o cadastro, através do botão <mark style="color:purple;">Continuar Cadastro</mark>, que o redirecionará para a tela de cadastro de pessoas.
 

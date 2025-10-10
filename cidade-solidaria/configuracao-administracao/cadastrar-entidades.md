@@ -38,6 +38,8 @@ _<mark style="color:$warning;">\*obs: obrigatório para habilitar a entidade no 
 
 ## Credenciais de Acesso
 
+### Cadastrar nova senha
+
 Para criar uma senha de acesso ao SIAD para a entidade, clique no menu "**Credenciais de Acesso**" e no botão "<mark style="background-color:$primary;">**Cadastrar Credencial de Acesso**</mark>".
 
 Essa etapa é fundamental para que a entidade consiga acessar o sistema.
@@ -55,7 +57,7 @@ Será aberta uma janela que permitirá definir:
 Selecione o módulo "Programa Cidade Solidária", <mark style="background-color:$warning;">**copie a senha**</mark> e clique em "<mark style="background-color:$primary;">**Salvar**</mark>".
 
 {% hint style="danger" %}
-Após o salvamento, não será mais possível recuperar a senha criada para a entidade. Em caso de perda, será necessário reiniciar ou gerar uma nova credencial de acesso.
+Após o salvamento, não será mais possível recuperar a senha criada para a entidade. Nesse momento, o sistema ainda não envia automaticamente e-mails de acesso. Em caso de perda, será necessário reiniciar ou gerar uma nova credencial de acesso.
 {% endhint %}
 
 {% hint style="info" %}
@@ -104,4 +106,8 @@ Não esqueça de clicar em "<mark style="background-color:$primary;">**Gravar**<
 
 {% hint style="warning" %}
 As configurações terão efeito apenas para as novas remessas e beneficiários cadastrados após o salvamento das alterações.
+{% endhint %}
+
+{% hint style="info" %}
+Ao concluir as etapas acima, a entidade poderá acessar o sistema com a senha fornecida; entretanto, ainda não terá permissão para cadastrar novas remessas, pois depende das configurações de ciclos e lotes descritas a seguir.
 {% endhint %}

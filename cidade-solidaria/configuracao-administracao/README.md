@@ -6,11 +6,8 @@ As etapas necessárias para liberação dos formulários são:
 
 * [Configurações gerais do Programa;](configuracoes-gerais.md)
 * [Cadastrar entidades;](cadastrar-entidades.md)
-  * Cadastrar dados de entrega;
-  * Manter credenciais de acesso.
-* Cadastrar ciclos;
-* Cadastrar lotes;
-* Cadastrar entidades nos lotes.
+* [Cadastrar ciclos;](ciclos.md)
+* [Cadastrar lotes](lotes.md).
 
 Demais funcionalidades previstas:
 
