@@ -83,6 +83,16 @@
     * [Alteração de ordem das etapas](planejamento/siad-projetos/cronograma/alteracao-de-ordem-das-etapas.md)
   * [Anexos](planejamento/siad-projetos/anexos.md)
 
+## Cidade Solidária
+
+* [Introdução](cidade-solidaria/introducao.md)
+* [Objetivos Gerais](cidade-solidaria/objetivos-gerais.md)
+* [Escopo do sistema](cidade-solidaria/escopo-do-sistema.md)
+* [Definições](cidade-solidaria/definicoes.md)
+* [Configuração / Administração](cidade-solidaria/configuracao-administracao/README.md)
+  * [Configurações gerais](cidade-solidaria/configuracao-administracao/configuracoes-gerais.md)
+  * [Cadastrar Entidades](cidade-solidaria/configuracao-administracao/cadastrar-entidades.md)
+
 ## Histórico de Versões
 
 * [Versão 5](historico-de-versoes/versao-5/README.md)
