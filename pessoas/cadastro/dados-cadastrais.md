@@ -8,7 +8,7 @@ Ao continuar para a tela de cadastro, você será apresentado à primeira aba de
 Apesar do cadastro estar separado em 5 seções/abas, é possível terminar o preenchimento a qualquer momento, estando em qualquer seção, desde que todos os campos de preenchimento obrigatório estejam devidamente preenchidos.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Tela de cadastro - aba "Dados Cadastrais"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Tela de cadastro - aba "Dados Cadastrais"</p></figcaption></figure>
 
 Atualmente são coletados os seguintes campos:
 
@@ -29,7 +29,7 @@ Ao marcar um registro como sigiloso, é necessário <mark style="background-colo
 
 Esses dados só podem ser visualizados mediante **justificativa**, respeitando as normas de proteção de informações sensíveis.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sigilo do Cadastro</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sigilo do Cadastro</p></figcaption></figure>
 
 {% hint style="warning" %}
 Uma vez ativada, essa opção só poderá ser desativada pelo próprio usuário que a acionou ou pela supervisão técnica da área temática correspondente.
@@ -37,7 +37,7 @@ Uma vez ativada, essa opção só poderá ser desativada pelo próprio usuário 
 
 Ao acessar um cadastro sigiloso por meio de um outro equipamento, o sistema exibirá todas as informações normalmente, mas indicará através de um alerta:
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Aviso de cadastro sigiloso - mesma temática</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Aviso de cadastro sigiloso - mesma temática</p></figcaption></figure>
 
 Além disso, os dados de Endereço e Contato ficam ocultos por padrão, e somente são liberados mediante justificativa:
 
@@ -87,7 +87,7 @@ O preenchimento da data de nascimento ou idade aproximada é obrigatório, deven
 Apesar dessa possibilidade, sempre recomendamos que a data de nascimento seja informada, mesmo que em momento posterior, pois essa é uma informação essencial para análise e estudos da população atendida.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Exemplo de preenchimento do campo "idade aproximada"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Exemplo de preenchimento do campo "idade aproximada"</p></figcaption></figure>
 
 ## País de nascimento
 
@@ -115,7 +115,7 @@ Todos os documentos cadastrados, independentemente do tipo, poderão ser pesquis
 
 Caso queira <mark style="color:red;">excluir</mark> algum documento, basta clicar no <mark style="background-color:red;">ícone de lixeira</mark> (vermelho) localizado à direita do documento desejado.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Seção de "Documentos"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Seção de "Documentos"</p></figcaption></figure>
 
 {% hint style="info" %}
 As realidades de cada pessoa atendida podem variar muito e, desse modo, deve haver flexibilidade nos documentos aceitos para cadastro e/ou atendimento. É, portanto, importante registrar algum tipo de documento de identificação apresentado, ainda que pouco comum ou desgastado pelo tempo, se for o único que a pessoa tenha no momento. Se o documento apresentar nome do usuário e número, deve ser registrado.

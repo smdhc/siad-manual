@@ -24,7 +24,7 @@ Para conferir todos os detalhes sobre essa nova funcionalidade, recomenda-se ace
 
 ### Dados de Imigração
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Nova seção de dados de imigração</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Nova seção de dados de imigração</p></figcaption></figure>
 
 Foram adicionados novos campos no <mark style="background-color:purple;">Cadastro de Pessoas</mark> para coletar dados de imigração. Nesse primeiro momento, esses dados ficarão visíveis somente para equipamentos com a temática de Imigrantes.
 
@@ -36,13 +36,13 @@ Para maiores detalhes sobre os novos campos, consulte a seção de [Dados Cadast
 
 ### Novo tipo de contato internacional
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Novo tipo de contato - Telefone Internacional</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Novo tipo de contato - Telefone Internacional</p></figcaption></figure>
 
 No <mark style="background-color:purple;">Cadastro de Pessoas</mark>, foi adicionado um novo tipo de contato "<mark style="color:purple;">Telefone internacional</mark>".
 
 ### Novas opções de Condição de Moradia
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Novas opções de condição de moradia</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Novas opções de condição de moradia</p></figcaption></figure>
 
 Foram adicionadas as seguintes opções à lista de <mark style="color:purple;">Condição de Moradia</mark>, no <mark style="background-color:purple;">Cadastro de Pessoas</mark>:
 
@@ -118,7 +118,7 @@ Recomendamos sempre aguardar o término do carregamento antes de proceder com as
 
 ### Consulta de Endereço e Distrito
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption><p>Ajustes na consulta de endereço</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption><p>Ajustes na consulta de endereço</p></figcaption></figure>
 
 Quando selecionado um CEP fora de São Paulo, o sistema ocultará automaticamente o campo <mark style="color:purple;">Distrito</mark>, e passará a exibir o campo <mark style="color:green;">Cidade</mark>.
 
@@ -136,7 +136,7 @@ Agora o sistema passa a localizar números de prontuários independentemente do 
 
 ### Opção "Outra" na Ligação e Relação Familiar
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Opção Outra na ligação e relação familiar</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption><p>Opção Outra na ligação e relação familiar</p></figcaption></figure>
 
 Foi adicionada a opção <mark style="color:purple;">Outra</mark> nos campos <mark style="background-color:blue;">Ligação Familiar</mark> e <mark style="background-color:blue;">Relação Familiar</mark>.
 

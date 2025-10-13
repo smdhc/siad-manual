@@ -24,7 +24,7 @@ Nesse primeiro momento, a base será primordialmente utilizada no cadastro de fa
 
 Além disso, conforme imagem abaixo, a ficha de cadastro da pessoa já passará a exibir a informação se um cadastro do SIAD está na base do CadÚnico e sua respectiva data da última atualização.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 A base do CadÚnico é atualizada mensalmente e depende da disponibilização periódica por parte da SMADS, podendo assim não exibir a informação de pessoas que foram cadastradas recentemente. Para saber a data da atualização da base, basta passar o mouse por cima do campo "Cadastrada(o) no CadÚnico?".
@@ -38,7 +38,7 @@ Nas próximas versões, a base do CadÚnico poderá ser utilizada para facilitar
 
 ### Atendimentos - Colunas de protocolo e pessoas
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Na funcionalidade de Atendimentos, a coluna "Pessoas" foi reinserida na tabela, acrescida da coluna "Protocolo", que pode ser habilitada através do ícone ao lado do filtro.
 
@@ -71,7 +71,7 @@ Essa configuração ocorrerá conforme o cadastro dos profissionais forem atuali
 
 ### Cadastro de Organizações - Ficha de Cadastro
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Nova ficha de cadastro da organização</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Nova ficha de cadastro da organização</p></figcaption></figure>
 
 O Cadastro de Organizações foi repaginado de forma a seguir o mesmo padrão do Cadastro de Pessoas, o que permitirá visualizar de uma forma mais fácil os seus relacionamentos com equipamentos, programas entre outros.
 
@@ -94,7 +94,7 @@ Os principais fundamentos para essa mudança são:
 
 ### Encaminhamentos - Botão para cadastrar novo
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Adicionado novo botão para permitir cadastrar novos encaminhamentos a partir da Central de Encaminhamentos.
 
@@ -114,13 +114,13 @@ A melhoria acima foi desabilitada na versão 5.0.3 devido a instabilidade no mec
 
 ### Transcidadania - Data da suspensão
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Adicionado novo campo para informar a "Data de início da Suspensão", quando o status for "Suspenso".
 
 Com base nesse campo, os cadastros ficarão automaticamente inconsistentes caso o período de suspensão ultrapasse 90 dias.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 O sistema também passará a exibir o tipo de inconsistência no próprio registro.
 

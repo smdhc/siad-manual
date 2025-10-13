@@ -6,11 +6,13 @@ Para acessar o sistema, a entidade deverá acessar o endereço abaixo:
 
 > [https://siad.prefeitura.sp.gov.br/osc](https://siad.prefeitura.sp.gov.br/osc)
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 O acesso ao sistema é autenticado por meio do **CNPJ** e da **senha** disponibilizada pela SESANA.
 
 ## Termo de Uso
+
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ao acessar o sistema pela primeira vez, você será apresentado ao termo de uso em vigor do sistema. É essencial ler e concordar com esses termos antes de prosseguir.
 
@@ -27,8 +29,6 @@ Os termos de uso do sistema explicarão alguns tópicos como:
 * Direitos do titular dos dados.
 
 Vale ressaltar que essa tela também será exibida sempre que houver alguma atualização nos termos.
-
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Ao aceitar os termos, a tela será redirecionada para a página inicial do SIAD.
 

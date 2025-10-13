@@ -19,7 +19,7 @@ Após acessar a <mark style="color:purple;">Ficha Cadastral</mark> da pessoa, é
 
 O ícone/contador exibido ao lado do menu indica a quantidade de encaminhamentos registrados para a pessoa selecionada.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Acessando o menu de Encaminhamentos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Acessando o menu de Encaminhamentos</p></figcaption></figure>
 
 ## Listagem de encaminhamentos
 

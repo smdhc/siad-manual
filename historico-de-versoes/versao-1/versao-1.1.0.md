@@ -10,7 +10,7 @@ A versão 1.1.0 do SIAD traz uma série de melhorias e novas funcionalidades com
 
 ### Relatórios
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Nova funcionalidade de relatórios</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption><p>Nova funcionalidade de relatórios</p></figcaption></figure>
 
 Foi implementada uma nova funcionalidade de Relatórios, disponível como nova opção no menu lateral do sistema, que servirá como principal forma de exportar relatórios e planilhas diversos do sistema.
 
@@ -27,13 +27,13 @@ Nessa versão foram disponibilizados dois novos relatórios:
 
 Foram adicionadas novas opções de formatação nos encaminhamentos, permitindo assim controlar o tamanho do texto e demais opções de formatação de texto.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Formatação dos encaminhamentos</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Formatação dos encaminhamentos</p></figcaption></figure>
 
 ### Novo indicador de pessoas cadastradas na rede
 
 No Painel de Controle, foi adicionado um novo indicador contendo o total de pessoas cadastradas em todos os equipamentos da rede de atendimento da SMDHC.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Indicador de pessoas cadastradas na rede</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Indicador de pessoas cadastradas na rede</p></figcaption></figure>
 
 ### Novos filtros de pesquisa de pessoas
 
@@ -65,13 +65,13 @@ Foram adicionados dois novos campos de vigência no Cadastro de Equipamentos, pe
 
 O acesso à edição desses campos está restrito aos administradores do sistema.
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption><p>Campos de vigência do equipamento</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt=""><figcaption><p>Campos de vigência do equipamento</p></figcaption></figure>
 
 ### Filtros no cadastro de usuários
 
 Foram adicionados novos filtros de pesquisa ao cadastro de usuários. O acesso à essa funcionalidade está restrita aos administradores do sistema.
 
-<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption><p>Filtros de pesquisa de usuários</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption><p>Filtros de pesquisa de usuários</p></figcaption></figure>
 
 ## Correções
 
@@ -79,16 +79,16 @@ Foram adicionados novos filtros de pesquisa ao cadastro de usuários. O acesso �
 
 Foi corrigido o filtro de pesquisa de equipamentos "Realiza atendimentos", que não estava funcionando corretamente, no Cadastro de Equipamentos.
 
-<figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption><p>Filtro "Realiza Atendimentos?"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption><p>Filtro "Realiza Atendimentos?"</p></figcaption></figure>
 
 ### Correção da exibição do Nome Social
 
 Foi corrigida a exibição do <mark style="background-color:purple;">Nome Social</mark> no menu lateral da Ficha de Cadastro da Pessoa, que anteriormente estava exibindo erroneamente o <mark style="background-color:purple;">Nome Civil</mark>.
 
-<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Exibição do nome social na ficha de cadastro</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption><p>Exibição do nome social na ficha de cadastro</p></figcaption></figure>
 
 ### Correção no cadastro de prontuários
 
 Foi corrigido um bug na associação de prontuários que, ao excluir um prontuário, o número em questão não poderia ser utilizado novamente.
 
-<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Associação de prontuários</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption><p>Associação de prontuários</p></figcaption></figure>

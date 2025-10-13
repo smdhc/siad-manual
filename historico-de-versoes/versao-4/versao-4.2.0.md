@@ -18,7 +18,7 @@ Trata-se de uma versão preliminar, que ainda passará por ajustes e melhorias.
 
 ### Programa de Geração de Renda
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Foi adicionada uma nova seção "<mark style="background-color:purple;">Programa de Geração de Renda</mark>", no Cadastro de Pessoas, de uso exclusivo dos equipamentos Recifran e Reviravolta, para fins de registro de informações dos participantes cadastrados no programa.
 

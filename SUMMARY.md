@@ -96,6 +96,11 @@
   * [Lotes](cidade-solidaria/configuracao/lotes.md)
 * [Cadastro de Remessas (Entidade)](cidade-solidaria/cadastro-de-remessas-entidade/README.md)
   * [Acesso ao sistema](cidade-solidaria/cadastro-de-remessas-entidade/acesso-ao-sistema.md)
+  * [Nova remessa](cidade-solidaria/cadastro-de-remessas-entidade/nova-remessa.md)
+  * [Acompanhamento](cidade-solidaria/cadastro-de-remessas-entidade/acompanhamento.md)
+  * [Status das Remessas](cidade-solidaria/cadastro-de-remessas-entidade/status-das-remessas.md)
+  * [Recebimento](cidade-solidaria/cadastro-de-remessas-entidade/recebimento.md)
+  * [Prestação de Contas](cidade-solidaria/cadastro-de-remessas-entidade/prestacao-de-contas.md)
 
 ## Histórico de Versões
 
