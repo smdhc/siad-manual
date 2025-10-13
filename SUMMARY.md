@@ -94,7 +94,8 @@
   * [Cadastrar Entidades](cidade-solidaria/configuracao/cadastrar-entidades.md)
   * [Ciclos](cidade-solidaria/configuracao/ciclos.md)
   * [Lotes](cidade-solidaria/configuracao/lotes.md)
-* [Cadastro de Remessas/Beneficiários](cidade-solidaria/cadastro-de-remessas-beneficiarios.md)
+* [Cadastro de Remessas (Entidade)](cidade-solidaria/cadastro-de-remessas-entidade/README.md)
+  * [Acesso ao sistema](cidade-solidaria/cadastro-de-remessas-entidade/acesso-ao-sistema.md)
 
 ## Histórico de Versões
 
