@@ -115,6 +115,7 @@
 * [Versão 5](historico-de-versoes/versao-5/README.md)
   * [Versão 5.0.0](historico-de-versoes/versao-5/versao-5.0.0.md)
   * [Versão 5.1.0](historico-de-versoes/versao-5/versao-5.1.0.md)
+  * [Versão 5.2.0](historico-de-versoes/versao-5/versao-5.2.0.md)
 * [Versão 4](historico-de-versoes/versao-4/README.md)
   * [Versão 4.0.0](historico-de-versoes/versao-4/versao-4.0.0.md)
   * [Versão 4.0.1](historico-de-versoes/versao-4/versao-4.0.1.md)
