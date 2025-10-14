@@ -101,6 +101,14 @@
   * [Status das Remessas](cidade-solidaria/cadastro-de-remessas-entidade/status-das-remessas.md)
   * [Recebimento](cidade-solidaria/cadastro-de-remessas-entidade/recebimento.md)
   * [Prestação de Contas](cidade-solidaria/cadastro-de-remessas-entidade/prestacao-de-contas.md)
+* [Cadastro de Remessas (SESANA)](cidade-solidaria/cadastro-de-remessas-sesana/README.md)
+  * [Acompanhamento](cidade-solidaria/cadastro-de-remessas-sesana/acompanhamento.md)
+  * [Análise de Remessas](cidade-solidaria/cadastro-de-remessas-sesana/analise-de-remessas.md)
+  * [Exportação de Remessas](cidade-solidaria/cadastro-de-remessas-sesana/exportacao-de-remessas.md)
+  * [Remessas Emergenciais](cidade-solidaria/cadastro-de-remessas-sesana/remessas-emergenciais.md)
+  * [CadÚnico](cidade-solidaria/cadastro-de-remessas-sesana/cadunico.md)
+  * [Histórico de Remessas](cidade-solidaria/cadastro-de-remessas-sesana/historico-de-remessas.md)
+  * [Pesquisa de Remessas](cidade-solidaria/cadastro-de-remessas-sesana/pesquisa-de-remessas.md)
 
 ## Histórico de Versões
 

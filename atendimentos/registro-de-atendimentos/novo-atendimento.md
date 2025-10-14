@@ -4,7 +4,7 @@
 
 Ao iniciar um novo atendimento (conforme visto em "[Como acessar?](como-acessar.md)"), será aberta uma janela com uma única opção para selecionar o <mark style="color:purple;">Grupo de atendimento</mark>. Essa seleção é necessária para que seja exibida uma lista contendo somente os tipos de atendimentos pertinentes à ação desejada.
 
-<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>Seleção do grupo de atendimento</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption><p>Seleção do grupo de atendimento</p></figcaption></figure>
 
 Após selecionar o grupo desejado, será aberta a lista de opções contendo os **Tipos de Atendimentos** configurados para o seu equipamento.
 
@@ -12,7 +12,7 @@ Após selecionar o grupo desejado, será aberta a lista de opções contendo os 
 A lista de tipos de atendimento pode variar de acordo com a <mark style="color:blue;">temática</mark> do seu equipamento e as <mark style="color:blue;">regras estabelecidas pela SMDHC</mark>.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Seleção do tipo de atendimento</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption><p>Seleção do tipo de atendimento</p></figcaption></figure>
 
 Após selecionado o tipo de atendimento desejado, serão habilitado o restante do formulário contendo as informações complementares configuradas para o tipo selecionado.
 
@@ -20,7 +20,7 @@ Após selecionado o tipo de atendimento desejado, serão habilitado o restante d
 Como mencionado anteriormente, o formulário será <mark style="color:blue;">adaptado conforme o tipo de atendimento selecionado</mark>, não havendo um padrão fixo de campos, exceto pelo conjunto mínimo de dados.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>Formulário completo de atendimento</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption><p>Formulário completo de atendimento</p></figcaption></figure>
 
 Ao terminar de preencher, clique no botão <mark style="background-color:orange;">Gravar</mark> para encerrar o registro do atendimento.
 
@@ -32,7 +32,7 @@ Caso queira registrar um novo atendimento sem fechar a janela, basta clicar no b
 
 Observe que, ao selecionar um tipo de atendimento, o sistema irá desativar o campo, como forma de prevenir a ocorrência de alguns erros. Caso você tenha selecionado um <mark style="color:blue;">Tipo de Atendimento</mark> errado e queira mudar, basta mudar o <mark style="color:purple;">grupo de atendimento</mark> ou <mark style="color:purple;">fechar e abrir novamente a janela</mark> de atendimento.
 
-<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Altere o grupo ou reabra a janela caso tenha selecionado um tipo de atendimento errado</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption><p>Altere o grupo ou reabra a janela caso tenha selecionado um tipo de atendimento errado</p></figcaption></figure>
 
 ## Data/hora do atendimento
 

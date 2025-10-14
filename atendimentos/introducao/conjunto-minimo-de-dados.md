@@ -1,6 +1,6 @@
 # Conjunto Mínimo de Dados
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para que um registro seja considerado um atendimento, é necessário que responda <mark style="color:red;">**obrigatoriamente**</mark> às seguintes perguntas:
 
@@ -42,7 +42,7 @@ Cada tipo de atendimento poderá ter um formulário distinto, mas todos comparti
 
 ### Dados históricos
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Uma das grandes vantagens desse modelo é a possibilidade de <mark style="background-color:green;">aproveitar e importar dados históricos</mark>.
 

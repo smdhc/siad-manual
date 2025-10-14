@@ -14,11 +14,11 @@ Após o cumprimento de todos os requisitos mencionados acima, o acesso à funcio
 
 ### Tela inicial
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption><p>Novo botão de atendimento na tela inicial do sistema</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption><p>Novo botão de atendimento na tela inicial do sistema</p></figcaption></figure>
 
 A primeira forma de acessar o módulo de atendimentos é através do botão Registrar Atendimento, localizado na tela inicial do sistema, conforme imagem acima.
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Janela para registro de um novo atendimento</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption><p>Janela para registro de um novo atendimento</p></figcaption></figure>
 
 Ao clicar no botão, será exibida a janela para registro de um novo atendimento.
 
@@ -26,19 +26,19 @@ Essa forma permite registrar qualquer tipo de atendimento (individual ou consoli
 
 ### Listagem de atendimentos
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Novo menu de Atendimentos</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption><p>Novo menu de Atendimentos</p></figcaption></figure>
 
 A segunda forma é através da nova opção de Atendimentos no menu lateral do sistema.
 
 Ao clicar nessa opção, o sistema abrirá uma tela contendo a listagem dos últimos atendimentos registrados no equipamento, bem como o botão para registrar um novo atendimento.
 
-<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Tela de listagem dos atendimentos</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption><p>Tela de listagem dos atendimentos</p></figcaption></figure>
 
 Semelhantemente à forma anterior, através desse botão, será possível registrar qualquer tipo de atendimento configurado para o seu equipamento.
 
 ### Cadastro da Pessoa
 
-<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Histórico de atendimentos no cadastro de pessoas</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption><p>Histórico de atendimentos no cadastro de pessoas</p></figcaption></figure>
 
 Por fim, a terceira forma de registrar um atendimento é através do novo menu de Atendimentos dentro do cadastro da pessoa.&#x20;
 

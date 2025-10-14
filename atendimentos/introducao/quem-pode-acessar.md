@@ -1,6 +1,6 @@
 # Quem pode acessar?
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A nova funcionalidade de atendimentos foi disponibilizada em **22/12/2024**.
 

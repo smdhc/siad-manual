@@ -1,6 +1,6 @@
 # Projeto Piloto
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Lançado em **julho de 2024**, o SIAD teve como sua primeira funcionalidade o módulo de **Cadastro de Pessoas**, que foi implantada em caráter piloto nos seguintes equipamentos:
 

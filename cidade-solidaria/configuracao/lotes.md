@@ -112,3 +112,19 @@ Uma vez que a entidade esteja cadastrada no lote vigente, o cadastro de remessas
 Através da lista de entidades também é possível acompanhar o andamento, através das colunas "**Status da Remessa**" e "**# Cestas**".
 
 <figure><img src="../../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
+
+## Encerramento
+
+As remessas permanecerão com o status **“Em elaboração”** mesmo após o encerramento do prazo definido no lote. Isso garante tempo para que a equipe do Programa Cidade Solidária analise as remessas e realize eventuais ajustes. Após a conclusão dessas atividades, o status do lote deverá ser alterado para **“Encerrado”**, o que atualizará todas as remessas associadas para o status **“Aguardando entrega”**.
+
+Para realizar essa alteração, acesse o ciclo do lote desejado, abra a listagem de lotes, clique no menu de opções do lote e selecione **“Editar”**.
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Tela de listagem dos lotes para edição</p></figcaption></figure>
+
+Na janela que será aberta, altere o status para "**Encerrado**" e clique em "<mark style="background-color:blue;">**Salvar alterações**</mark>".
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+Ao encerrar o lote, todas as remessas terão seu status alterado para "**Aguardando entrega**", e não será mais possível realizar nenhum tipo de alteração no lote.
+{% endhint %}
