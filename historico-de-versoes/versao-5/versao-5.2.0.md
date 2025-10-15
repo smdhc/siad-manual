@@ -10,6 +10,29 @@ Confira abaixo todos os detalhes dessa atualização.
 
 ## Melhorias
 
+### Cadastro de Pessoas - Integração com CadÚnico
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Na tela de cadastro/alteração de pessoas, após o preenchimento do CPF, caso a pessoa esteja cadastrada no CadÚnico, o sistema passará a exibir um botão para a importação dos dados do CadÚnico. Essa funcionalidade permitirá preencher automaticamente os seguintes campos de cadastro:
+
+* Nome civil
+* Data de Nascimento
+* Nome da mãe
+* Raça/Cor
+* NIS
+* Endereço e Contato
+
+{% hint style="warning" %}
+No momento, essa funcionalidade encontra-se em **fase de testes** e estará restrita aos Administradores do sistema, sendo gradualmente liberada para toda a rede.
+{% endhint %}
+
+Além dessa funcionalidade, foram aplicadas as seguintes melhorias:
+
+* Opção para cadastrar pessoa no SIAD a partir da base do CadÚnico.
+* Exibição de erro ao informar CPF já cadastrado no sistema.
+* Sincronização do cadastro de pessoas com CadÚnico em campos que não foram preenchidos.
+
 ### Laravel 11
 
 O framework utilizado para o desenvolver o SIAD foi atualizado da versão 10 para a versão 11, trazendo melhorias importantes em desempenho, segurança e estabilidade. Essa nova versão torna o ambiente mais moderno e eficiente e representa um primeiro passo para atualizar os demais componentes do sistemas. Nenhuma mudança visual foi feita — tudo continua funcionando como antes, mas com uma base mais leve, segura e preparada para futuras evoluções.
