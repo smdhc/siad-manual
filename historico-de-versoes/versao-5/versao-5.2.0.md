@@ -54,6 +54,14 @@ Foram realizados os seguintes ajustes no módulo do Programa Cidade Solidária:
 
 O formulário do Edital Rango Responsa 2025 foi ajustado para impedir a submissão ao pressionar a tecla **Enter**, evitando, assim, erros que vinham ocorrendo anteriormente.
 
+### Organizações - Correção de adapter
+
+Corrigido o processamento de dados de CNPJ provenientes da fonte ReceitaWS.
+
 ### Transcidadania - Correção na exibição do nome da escola
 
 Corrigido cenário em que houve alteração de rede escolar (particular para municipal, por exemplo) e o nome da escola não estava sendo atualizado.
+
+### Usuários - Correção de usuário excluído
+
+Corrigida a exibição do usuário de inclusão de um login, que não era exibido caso o mesmo tivesse sido excluído.
