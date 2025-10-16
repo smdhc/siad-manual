@@ -37,6 +37,10 @@ Além dessa funcionalidade, foram aplicadas as seguintes melhorias:
 
 O framework utilizado para o desenvolver o SIAD foi atualizado da versão 10 para a versão 11, trazendo melhorias importantes em desempenho, segurança e estabilidade. Essa nova versão torna o ambiente mais moderno e eficiente e representa um primeiro passo para atualizar os demais componentes do sistemas. Nenhuma mudança visual foi feita — tudo continua funcionando como antes, mas com uma base mais leve, segura e preparada para futuras evoluções.
 
+### Transcidadania - Frequências de anos anteriores
+
+Foram disponibilizados novos campo de "Frequência de Atividades Práticas" e "Frequência de Atividades Teóricas" para os registros anteriores a 2024 (regra antiga).
+
 ## Ajustes
 
 ### Cidade Solidária - Melhorias e ajustes
