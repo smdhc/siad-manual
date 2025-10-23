@@ -10,7 +10,9 @@ description: 'Data de lançamento: 23/10/2025'
 
 Implementado novo dashboard de monitoramento em tempo real da performance do SIAD, utilizando o Laravel Pulse.
 
+{% hint style="warning" %}
 O acesso é restrito aos Administradores do sistema.
+{% endhint %}
 
 ## Ajustes
 
