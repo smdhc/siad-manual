@@ -1,6 +1,6 @@
 # Conjunto Mínimo de Dados
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para que um registro seja considerado um atendimento, é necessário que responda <mark style="color:red;">**obrigatoriamente**</mark> às seguintes perguntas:
 

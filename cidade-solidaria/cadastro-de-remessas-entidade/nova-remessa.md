@@ -17,7 +17,7 @@ Para que o cadastro seja liberado, as seguintes condições precisam ser atendid
 
 Caso alguma dessas condições não seja atendida, será exibida uma <mark style="background-color:$danger;">tela de erro</mark>, conforme abaixo:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Exemplo de erros que podem ser exibidos ao acessar a tela de cadastro.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Exemplo de erros que podem ser exibidos ao acessar a tela de cadastro.</p></figcaption></figure>
 
 Caso a situação dependa de validação ou ação da SESANA, será necessário entrar em contato com a equipe gestora do Programa Cidade Solidária.
 

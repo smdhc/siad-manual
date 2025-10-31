@@ -12,7 +12,7 @@ O acesso ao sistema é autenticado por meio do **CNPJ** e da **senha** disponibi
 
 ## Termo de Uso
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ao acessar o sistema pela primeira vez, você será apresentado ao termo de uso em vigor do sistema. É essencial ler e concordar com esses termos antes de prosseguir.
 
