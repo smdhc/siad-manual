@@ -38,6 +38,10 @@ O campo de formatação do conteúdo do encaminhamento ganhou novas opções de 
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+### Infraestrutura
+
+Disponibilização de novo menu/link no módulo Admin (requer nova permissão) para abrir o dashboard de monitoramento (Pulse).
+
 ### Projetos - Melhorias e Ajustes Diversos
 
 Foram realizados os seguintes ajustes no módulo de Projetos do SIAD:
@@ -46,6 +50,10 @@ Foram realizados os seguintes ajustes no módulo de Projetos do SIAD:
 * Mais opções de formatação na descrição da etapa;
 * Instruções configuráveis na página de cadastro;
 * (todo)
+
+### Transcidadania - Inclusão da coluna Status
+
+Inclusão da coluna "Status" na lista de frequências pendentes, possibilitando exibir o motivo da inconsistência, se houver.
 
 ## Ajustes
 
