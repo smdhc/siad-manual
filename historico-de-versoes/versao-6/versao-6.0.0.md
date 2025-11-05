@@ -46,7 +46,7 @@ O campo de formatação do conteúdo do encaminhamento ganhou novas opções de 
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-### Infraestrutura
+### Infraestrutura - Link para Painel de Monitoramento
 
 Disponibilização de novo menu/link no módulo Admin (requer nova permissão) para abrir o dashboard de monitoramento (Pulse).
 
