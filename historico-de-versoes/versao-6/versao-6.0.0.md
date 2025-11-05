@@ -1,5 +1,5 @@
 ---
-description: 'Data de lançamento: TBD'
+description: 'Data de lançamento: 05/11/2025'
 ---
 
 # Versão 6.0.0
@@ -32,6 +32,14 @@ Melhoria no filtros da tela de configurações dos atributos de atendimentos.
 
 Foi adicionada a coluna "Data de cadastro" no arquivo de exportação das remessas.
 
+### Encaminhamentos - Exclusão
+
+Foi adicionada uma nova regra que permite aos Administradores do SIAD excluírem encaminhamentos, além dos próprios usuários que cadastraram.
+
+### Encaminhamentos - Filtro de profissionais
+
+Inclusão de novas opções de filtro de profissionais na lisstagem de encaminhamentos.
+
 ### Encaminhamentos - Formatação de Conteúdo
 
 O campo de formatação do conteúdo do encaminhamento ganhou novas opções de formatação, como possibilidade de adicionar **cores** e **tabelas**.
@@ -49,7 +57,12 @@ Foram realizados os seguintes ajustes no módulo de Projetos do SIAD:
 * Pesquisa por palavras-chave;
 * Mais opções de formatação na descrição da etapa;
 * Instruções configuráveis na página de cadastro;
-* (todo)
+* Projetos e etapas destacados quando houver etapas em atraso;
+* Correção das opções de impacto no caso de não realização do projeto;
+* Nova funcionalidade para manter os Objetivos Estratégicos e Resultados-Chave;
+* Ordenação alfabética das listas de objetivos estratégicos e resultados-chave;
+* Correção de campos gravados no histórico sem alteração;
+* Novos campos de "Área responsável", "Responsável Principal" e "Anexos" no cadastro das etapas.
 
 ### Transcidadania - Inclusão da coluna Status
 
