@@ -24,7 +24,7 @@ Essa atualização garante uma base mais moderna, segura e eficiente, permitindo
 * **Experiência de uso aprimorada:** formulários, listas e painéis agora funcionam de forma mais fluida e consistente.
 * **Compatibilidade com tecnologias mais recentes:** garante que o SIAD continue atualizado e compatível com o ecossistema moderno de desenvolvimento.
 
-### Atendimentos
+### Atendimentos - Melhoria nos filtros de atributos
 
 Melhoria no filtros da tela de configurações dos atributos de atendimentos.
 
