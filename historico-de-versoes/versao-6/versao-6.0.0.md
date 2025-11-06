@@ -73,3 +73,18 @@ Inclusão da coluna "Status" na lista de frequências pendentes, possibilitando 
 ### Transcidadania - Correção do cálculo de frequência escolar
 
 Foi corrigida a forma de calcular a frequência escolar quando o campo de frequência era editado após primeiro cálculo.
+
+### Hotfixes
+
+Após a publicação da versão, foi necessário realizar alguns ajustes, conforme abaixo:
+
+* v6.0.1: Correção de erro que impedia cadastrar pessoa imigrante.
+* v6.0.2: Correção de erro ao submeter formulário do Rango Responsa.
+* v6.0.3:&#x20;
+  * Correção de erro ao pesquisar na tela de cadastros do Transcidadania.
+  * Correção de erro grave que impedia registrar atendimento individuais.
+  * Correção da exibição dos campos de texto nos critérios de planejamento.
+* v6.0.4: Correção de erro ao pesquisar na tela de atendimentos.
+* v6.0.5: Correção de erro ao tentar cadastrar formulário do Rango Responsa com todos os anexos.
+* v6.0.6: Correção de erro ao pesquisar na tela de acompanhamento do Transcidadania.
+
