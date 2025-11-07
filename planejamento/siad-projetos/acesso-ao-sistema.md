@@ -14,7 +14,7 @@ Para acessar ao SIAD-Projetos, siga os passos a seguir
 {% step %}
 #### Entre no link da página do SIAD-Projetos
 
-<mark style="color:yellow;">Link:</mark>
+<mark style="color:blue;">Link:</mark> [<mark style="color:blue;">https://siad.prefeitura.sp.gov.br/planejamento</mark>](https://siad.prefeitura.sp.gov.br/planejamento)
 {% endstep %}
 
 {% step %}
