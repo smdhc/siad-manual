@@ -88,4 +88,5 @@ Após a publicação da versão, foi necessário realizar alguns ajustes, confor
 * v6.0.5: Correção de erro ao tentar cadastrar formulário do Rango Responsa com todos os anexos.
 * v6.0.6: Correção de erro ao pesquisar na tela de acompanhamento do Transcidadania.
 * v6.0.7: Correção do botão de cadastro do Transcidadania, que redirecionava para o Cadastro de Pessoas.
+* v6.0.8: Correção da exibição do ícone de anexos na lista de etapas do SIAD Projetos.
 
