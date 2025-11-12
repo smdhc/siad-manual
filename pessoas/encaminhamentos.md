@@ -65,5 +65,5 @@ Para criar um encaminhamento, clique no botão <mark style="color:purple;">Cadas
 O encaminhamento adequado garantirá que cada caso receba o suporte especializado necessário.
 
 {% hint style="info" %}
-Alguns campos terão indicadores ' <mark style="color:red;">\*</mark> ' vermelhos logo acima, indicando que é de preenchimento obrigatório, tendo como exemplo os campos de '<mark style="color:purple;">Data do Encaminhamento'</mark> e '<mark style="color:purple;">Indicar outro profissional?</mark>'
+Alguns campos terão indicadores vermelhos logo acima ( <mark style="color:red;">\*</mark> ), indicando que é de preenchimento obrigatório, tendo como exemplo os campos de '<mark style="color:purple;">Data do Encaminhamento'</mark> e '<mark style="color:purple;">Indicar outro profissional?</mark>'
 {% endhint %}
