@@ -6,7 +6,7 @@ Para utilizá-la, basta preencher o campo <mark style="color:purple;">Pesquisar<
 
 <figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption><p>Pesquisa global</p></figcaption></figure>
 
-Por meio deste campo, é possível pesquisar uma pessoa de diversas formas, como através do:
+Por meio deste campo, é possível pesquisar uma pessoa de diversas formas, como por meio de:
 
 * Nome civil
 * Nome social
@@ -24,10 +24,10 @@ Código SIAD é o código de identificação único de uma pessoa no SIAD.
 
 <figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption><p>Resultado da pesquisa global</p></figcaption></figure>
 
-Se o termo utilizado na pesquisa for pouco específico, pode resultar em mais de um resultado, como ilustrado na imagem abaixo. Portanto, é recomendável utilizar termos e informações o mais específicos possível para facilitar a localização da pessoa cadastrada.
+Se o termo utilizado na pesquisa for pouco específico, pode resultar em mais de um resultado, como ilustrado na imagem abaixo. Portanto, é recomendável utilizar os termos e informações mais específicos possíveis para facilitar a localização da pessoa cadastrada.
 
 <figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption><p>Pesquisa global com múltiplas pessoas encontradas</p></figcaption></figure>
 
 Se a pessoa não for localizada, siga para o [Fluxo de Cadastro](../cadastro/), para cadastrá-la no sistema.
 
-Caso tenha sido encontrada, basta clicar no resultado para ir até sua [Ficha de Cadastro](../ficha.md).
+Caso a pessoa tenha sido encontrada, basta clicar no resultado para ir até sua [Ficha de Cadastro](../ficha.md).

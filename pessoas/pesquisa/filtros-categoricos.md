@@ -2,7 +2,7 @@
 
 ### Filtros categóricos
 
-O sistema também permite buscar por cadastros que correspondam a uma ou mais categorias de perfil, como por exemplo, faixa etária, identidade de gênero e condição de moradia.
+O sistema também permite buscar por cadastros que correspondam a uma ou mais categorias de perfil, como, por exemplo, faixa etária, identidade de gênero e condição de moradia.
 
 Essa forma de pesquisa possibilita, inclusive, realizar análises quantitativas de públicos-alvos específicos cadastrados no equipamento.
 
@@ -16,7 +16,7 @@ Para realizar esse tipo de filtro, basta clicar no botão <mark style="color:pur
 
 <figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption><p>Botão "filtrar"</p></figcaption></figure>
 
-Ao clicar nesse botão, serão abertas diversas opções de filtros, por meio das quais você poderá pesquisar pelas categorias do cadastro de pessoas, como por exemplo, condição de moradia, identidade de gênero e raça/cor:
+Ao clicar nesse botão, serão abertas diversas opções de filtros, por meio das quais você poderá pesquisar pelas categorias do cadastro de pessoas, como, por exemplo, condição de moradia, identidade de gênero e raça/cor:
 
 <figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption><p>Filtros do cadastro de pessoas</p></figcaption></figure>
 
@@ -25,7 +25,7 @@ Atenção: ao selecionar mais de uma opção de filtro, o sistema irá buscar po
 Vale ressaltar, também, que alguns campos são aplicados em contextos específicos e, por isso, **podem não representar o total de pessoas** cadastradas na base (_ex: o campo <mark style="color:purple;">Sexo Biológico</mark> é exibido somente para menores de 18 anos)_.
 {% endhint %}
 
-Uma vez selecionadas as opções de filtro desejadas, não esqueça de clicar em <mark style="color:purple;">Aplicar filtros</mark>, localizado no final dessa seção:
+Uma vez selecionadas as opções de filtro desejadas, não esqueça de clicar em <mark style="color:purple;">Aplicar filtros</mark>, no final dessa seção:
 
 <figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption><p>Botão para aplicar os filtros</p></figcaption></figure>
 
@@ -53,7 +53,7 @@ Para remover apenas um dos filtros utilizados, basta clicar no ícone "X" locali
 
 <figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption><p>Ícone de remoção de filtro</p></figcaption></figure>
 
-Para remover **todos** os filtros ativos, basta clicar no ícone "X" localizar no canto direito da barra de filtros ativos:
+Para remover **todos** os filtros ativos, basta clicar no ícone "X" localizado no canto direito da barra de filtros ativos:
 
 <figure><img src="../../.gitbook/assets/image (71).png" alt=""><figcaption><p>Ícone de remoção de todos os filtros ativos</p></figcaption></figure>
 

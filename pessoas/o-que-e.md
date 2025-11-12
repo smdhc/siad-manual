@@ -10,7 +10,7 @@ A importância do cadastro de pessoas reside na sua capacidade de assegurar que 
 
 ### Como acessar?
 
-Para acessar o cadastro de pessoas, basta clicar no menu lateral <mark style="color:purple;">Pessoas</mark>, e você será redirecionado para a tela de listagem inicial, que permite realizar diversos tipos de pesquisa, alterar ou incluir cadastros.
+Para acessar o cadastro de pessoas, basta clicar no menu lateral <mark style="color:purple;">Pessoas</mark> e você será redirecionado para a tela de listagem inicial, que permite realizar diversos tipos de pesquisa, alterar ou incluir cadastros.
 
 {% hint style="info" %}
 Todos os dados utilizados neste manual são fictícios.
