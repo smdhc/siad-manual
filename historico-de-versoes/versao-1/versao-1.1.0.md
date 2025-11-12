@@ -27,7 +27,7 @@ Nessa versão foram disponibilizados dois novos relatórios:
 
 Foram adicionadas novas opções de formatação nos encaminhamentos, permitindo assim controlar o tamanho do texto e demais opções de formatação de texto.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Formatação dos encaminhamentos</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Formatação dos encaminhamentos</p></figcaption></figure>
 
 ### Novo indicador de pessoas cadastradas na rede
 

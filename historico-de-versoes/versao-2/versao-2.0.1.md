@@ -20,7 +20,7 @@ Foi aplicada a correção, bem como foi aplicado um <mark style="color:red;">blo
 
 ## Nova área de encaminhamento (IML)
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Na tela de registro de **Encaminhamentos**, foi adicionada a nova área "<mark style="color:purple;">**Instituto Médico Legal**</mark>".
 

@@ -4,7 +4,7 @@
 
 Para acompanhar o andamento das remessas cadastradas pelas entidades ou consultar o histórico de remessas, acesse o menu lateral **“Remessas”**.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Tela de acompanhamento das remessas</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Tela de acompanhamento das remessas</p></figcaption></figure>
 
 Serão listadas todas as remessas cadastradas por todas as entidades e todas as remessas emergenciais em aberto.
 
@@ -22,13 +22,13 @@ Por padrão são listadas somente as remessas em aberto, mas é possível visual
 
 Além disso, também é possível exibir/ocultar colunas diversas na tabela, através do ícone indicado abaixo:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Opção para exibir/ocultas colunas</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Opção para exibir/ocultas colunas</p></figcaption></figure>
 
 ### Consultar remessa
 
 Para consultar os dados de uma remessa, clique na remessa desejada. O sistema redirecionará para a ficha da remessa, onde serão exibidos os dados cadastrais da entidade e o cadastro de beneficiários.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Ficha de cadastro da remessa</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Ficha de cadastro da remessa</p></figcaption></figure>
 
 ### Alteração de status em lote
 

@@ -12,7 +12,7 @@ Confira abaixo todos os detalhes dessa atualização.
 
 ### Cadastro de Pessoas - Integração com CadÚnico
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Na tela de cadastro/alteração de pessoas, após o preenchimento do CPF, caso a pessoa esteja cadastrada no CadÚnico, o sistema passará a exibir um botão para a importação dos dados do CadÚnico. Essa funcionalidade permitirá preencher automaticamente os seguintes campos de cadastro:
 

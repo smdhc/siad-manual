@@ -20,11 +20,15 @@ Para acessar ao SIAD-Projetos, siga os passos a seguir
 {% step %}
 #### Insira o login e senha enviados por CPI
 
-<mark style="color:yellow;">Imagem da página de cadastro</mark>
+<figure><img src="../../.gitbook/assets/Captura de tela 2025-11-12 161741.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 #### Caso esqueça a senha, solicite o reenvio pela mesma página
+
+<figure><img src="../../.gitbook/assets/x1 (1).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">Imagem da página de cadastro com o botão para reenvio</mark>
 
@@ -38,7 +42,7 @@ Essa página conterá todas as funcionalidades do SIAD-Planejamento.&#x20;
 
 Por enquanto somente o SIAD-Projetos está disponível.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

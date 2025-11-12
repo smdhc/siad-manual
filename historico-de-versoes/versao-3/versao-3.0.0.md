@@ -12,9 +12,9 @@ Confira abaixo todos os detalhes dessa atualização.
 
 ### Transcidadania
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Tela de cadastro das pessoas beneficiárias do Programa Transcidadania</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Tela de cadastro das pessoas beneficiárias do Programa Transcidadania</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Transcidadania no Cadastro de Pessoas</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Transcidadania no Cadastro de Pessoas</p></figcaption></figure>
 
 Foi implementada uma nova tela de cadastro para as pessoas beneficiárioas do Programa Transcidadania, que facilitará o controle e acompanhamento por parte dos <mark style="color:purple;">Centros de Referência LGBTI+</mark> e da própria <mark style="color:purple;">Coordenação</mark>.
 

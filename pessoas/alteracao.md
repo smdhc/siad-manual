@@ -36,7 +36,7 @@ Nela será possível editar ou adicionar qualquer informação, <mark style="col
 
 <figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Tela de atualização cadastral</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Alteração da data de nascimento</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Alteração da data de nascimento</p></figcaption></figure>
 
 Assim que um campo for alterado, você deve rolar até o fim da página e clicar na opção salvar alterações.
 

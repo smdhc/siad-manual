@@ -8,7 +8,7 @@ Ao continuar para a tela de cadastro, você será apresentado à primeira aba de
 Apesar do cadastro estar separado em 5 seções/abas, é possível terminar o preenchimento a qualquer momento, estando em qualquer seção, desde que todos os campos de preenchimento obrigatório estejam devidamente preenchidos.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Tela de cadastro - aba "Dados Cadastrais"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Tela de cadastro - aba "Dados Cadastrais"</p></figcaption></figure>
 
 Atualmente são coletados os seguintes campos:
 
@@ -29,7 +29,7 @@ Ao marcar um registro como sigiloso, é necessário <mark style="background-colo
 
 Esses dados só podem ser visualizados mediante **justificativa**, respeitando as normas de proteção de informações sensíveis.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sigilo do Cadastro</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sigilo do Cadastro</p></figcaption></figure>
 
 {% hint style="warning" %}
 Uma vez ativada, essa opção só poderá ser desativada pelo próprio usuário que a acionou ou pela supervisão técnica da área temática correspondente.
@@ -87,7 +87,7 @@ O preenchimento da data de nascimento ou idade aproximada é obrigatório, deven
 Apesar dessa possibilidade, sempre recomendamos que a data de nascimento seja informada, mesmo que em momento posterior, pois essa é uma informação essencial para análise e estudos da população atendida.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Exemplo de preenchimento do campo "idade aproximada"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Exemplo de preenchimento do campo "idade aproximada"</p></figcaption></figure>
 
 ## País de nascimento
 
