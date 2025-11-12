@@ -2,7 +2,7 @@
 
 ## Pesquisa geral
 
-Para pesquisar qualquer atendimento realizado no equipamento, basta acessar a tela de listagem de atendimentos através do menu <mark style="color:blue;">Atendimentos</mark>.
+Para pesquisar qualquer atendimento realizado no equipamento, basta acessar a tela de listagem de atendimentos por meio do menu <mark style="color:blue;">Atendimentos</mark>.
 
 <figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption><p>Filtros de atendimentos</p></figcaption></figure>
 
@@ -35,7 +35,7 @@ Ao final da listagem de atendimentos, é apresentado um resumo contendo a soma t
 
 <figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption><p>Resumo dos atendimentos</p></figcaption></figure>
 
-O campo **Quantidade** faz referência ao total de registros gravados, enquanto que o campo **Pessoas** contabiliza o total de pessoas informadas <mark style="color:blue;">individualmente</mark> ou <mark style="color:purple;">número de participantes</mark>, nos casos de atividades coletivas.
+O campo **Quantidade** faz referência ao total de registros gravados, enquanto o campo **Pessoas** contabiliza o total de pessoas informadas <mark style="color:blue;">individualmente</mark> ou <mark style="color:purple;">número de participantes</mark>, nos casos de atividades coletivas.
 
 {% hint style="warning" %}
 Os totais exibidos nesta tela variam conforme os filtros selecionados. Fique atento!

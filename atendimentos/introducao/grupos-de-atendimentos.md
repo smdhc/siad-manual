@@ -15,7 +15,7 @@ São exemplos de grupos:
 Para o equipamento, serão exibidos apenas os grupos relevantes à sua temática e rotina de atividades.
 
 {% hint style="info" %}
-No futuro, poderão ser criados outros níveis de categorização dos atendimentos para atender a necessidades específicas, como, por exemplo, a contabilização para o <mark style="color:purple;">programa de metas</mark> ou a <mark style="color:orange;">prestação de contas</mark>.
+No futuro, poderão ser criados outros níveis de categorização dos atendimentos para atender a necessidades específicas, como, por exemplo, a contabilização para o <mark style="color:purple;">Programa de Metas</mark> ou a <mark style="color:orange;">prestação de contas</mark>.
 {% endhint %}
 
 {% hint style="warning" %}

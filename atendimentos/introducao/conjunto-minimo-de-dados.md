@@ -28,7 +28,7 @@ A definição de um conjunto mínimo de dados não impede a coleta de informaç�
 
 ### Tipo de Atendimento
 
-Como mencionado anteriormente, um dos atributos fundamentais que compõem o registro de atendimento é o **Tipo de Atendimento**, que <mark style="color:purple;">caracteriza</mark> o atendimento e, com base nele, define quais outras informações serão coletadas em cada registro.
+Como mencionado anteriormente, um dos atributos fundamentais que compõem o registro de atendimento é o **Tipo de Atendimento**, que <mark style="color:purple;">caracteriza</mark> o atendimento e define quais outras informações serão coletadas em cada registro.
 
 São exemplos de tipo de atendimento:
 
@@ -36,7 +36,7 @@ São exemplos de tipo de atendimento:
 * Atendimento Técnico Psicossocial
 * Oficina
 * Uso de Lavanderia
-* entre outros.
+* Entre outros.
 
 Cada tipo de atendimento poderá ter um formulário distinto, mas todos compartilharão o mesmo conjunto mínimo de dados.
 

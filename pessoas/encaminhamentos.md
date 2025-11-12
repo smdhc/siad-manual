@@ -31,7 +31,7 @@ Nessa tela, é possível consultar, incluir, alterar ou excluir encaminhamentos,
 
 * Os **dados básicos** de encaminhamento exibidos na tabela são visíveis para todos os equipamentos, <mark style="background-color:red;">exceto se o equipamento de origem/destino for sigiloso ou de Ouvidoria</mark>. Nesse caso, os dados básicos ficarão visíveis somente para os equipamentos envolvidos no encaminhamento.
 * O **conteúdo e os detalhes** de um encaminhamento são visíveis somente para os equipamentos da mesma temática dos equipamentos envolvidos no encaminhamento.
-* Somente o usuário que cadastrou o encaminhamento poderá alterá-lo ou exclui-lo.
+* Somente o usuário que cadastrou o encaminhamento poderá alterá-lo ou excluí-lo.
 
 ## Criando um novo encaminhamento
 

@@ -28,21 +28,21 @@ Essa forma permite registrar qualquer tipo de atendimento (individual ou consoli
 
 <figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption><p>Novo menu de Atendimentos</p></figcaption></figure>
 
-A segunda forma é através da nova opção de Atendimentos no menu lateral do sistema.
+A segunda forma é por meio da nova opção de Atendimentos no menu lateral do sistema.
 
 Ao clicar nessa opção, o sistema abrirá uma tela contendo a listagem dos últimos atendimentos registrados no equipamento, bem como o botão para registrar um novo atendimento.
 
 <figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption><p>Tela de listagem dos atendimentos</p></figcaption></figure>
 
-Semelhantemente à forma anterior, através desse botão, será possível registrar qualquer tipo de atendimento configurado para o seu equipamento.
+Semelhantemente à forma anterior, por meio desse botão será possível registrar qualquer tipo de atendimento configurado para o seu equipamento.
 
 ### Cadastro da Pessoa
 
 <figure><img src="../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption><p>Histórico de atendimentos no cadastro de pessoas</p></figcaption></figure>
 
-Por fim, a terceira forma de registrar um atendimento é através do novo menu de Atendimentos dentro do cadastro da pessoa.&#x20;
+Por fim, a terceira forma de registrar um atendimento é por meio do novo menu de Atendimentos dentro do cadastro da pessoa.&#x20;
 
-Essa tela listará todos os atendimentos registrados para aquela pessoal, bem como disponibilizará um botão para registrar um novo atendimento.
+Essa tela listará todos os atendimentos registrados para aquela pessoa, bem como disponibilizará um botão para registrar um novo atendimento.
 
 {% hint style="warning" %}
 Diferentemente das demais formas de atendimento, essa última opção permitirá selecionar apenas os tipos de atendimento **individuais** ou aqueles configurados para exigir o cadastro da pessoa. Além disso, não será possível alterar a pessoa vinculada ao atendimento por meio dessa opção.

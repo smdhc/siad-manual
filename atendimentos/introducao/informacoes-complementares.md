@@ -10,7 +10,7 @@ Dependendo do <mark style="background-color:purple;">tipo de atendimento</mark>,
 * Demanda do atendimento;
 * Relato;
 * Lista de presença;
-* entre outros.
+* Entre outros.
 
 {% hint style="info" %}
 A definição de <mark style="color:blue;">visibilidade</mark>, <mark style="color:blue;">obrigatoriedade</mark> e <mark style="color:blue;">multiplicidade</mark> é ajustada para cada uma dessas informações complementares, sendo analisada individualmente de acordo com o tipo de atendimento e com a **temática do equipamento**.

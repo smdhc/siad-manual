@@ -14,7 +14,7 @@ A lista de tipos de atendimento pode variar de acordo com a <mark style="color:b
 
 <figure><img src="../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption><p>Seleção do tipo de atendimento</p></figcaption></figure>
 
-Após selecionado o tipo de atendimento desejado, serão habilitado o restante do formulário contendo as informações complementares configuradas para o tipo selecionado.
+Após selecionar o tipo de atendimento desejado, será habilitado o restante do formulário, contendo as informações complementares configuradas para o tipo selecionado.
 
 {% hint style="info" %}
 Como mencionado anteriormente, o formulário será <mark style="color:blue;">adaptado conforme o tipo de atendimento selecionado</mark>, não havendo um padrão fixo de campos, exceto pelo conjunto mínimo de dados.
@@ -24,7 +24,7 @@ Como mencionado anteriormente, o formulário será <mark style="color:blue;">ada
 
 Ao terminar de preencher, clique no botão <mark style="background-color:orange;">Gravar</mark> para encerrar o registro do atendimento.
 
-O sistema fechará a janela e voltará para tela anterior.
+O sistema fechará a janela e voltará para a tela anterior.
 
 Caso queira registrar um novo atendimento sem fechar a janela, basta clicar no botão <mark style="background-color:orange;">Salvar e criar outro</mark>.
 
@@ -52,7 +52,7 @@ Ao selecionar um tipo de atendimento individual, será exibido um campo para inf
 * CPF
 
 {% hint style="info" %}
-Caso registre um novo atendimento através do Cadastro de Pessoas, o campo virá desabilitado e já preenchido com os dados da pessoa em questão.
+Caso registre um novo atendimento por meio do Cadastro de Pessoas, o campo virá desabilitado e já preenchido com os dados da pessoa em questão.
 {% endhint %}
 
 ## Seleção dos profissionais
@@ -60,7 +60,7 @@ Caso registre um novo atendimento através do Cadastro de Pessoas, o campo virá
 Os tipos de atendimento que exigem dados dos profissionais envolvidos exibem um campo para a sua seleção. A lista apresentada inclui todos os <mark style="color:blue;">usuários cadastrados</mark> no equipamento com login e senha. Para localizar um profissional específico, basta <mark style="color:purple;">pesquisar pelo nome</mark>.
 
 {% hint style="info" %}
-Caso o profissional não esteja cadastrado, será necessário solicitar o cadastramento do mesmo para o e-mail **siad@prefeitura.sp.gov.br**, informando o <mark style="color:blue;">nome completo</mark>, <mark style="color:blue;">CPF</mark> e <mark style="color:blue;">e-mail individual</mark>.
+Caso o profissional não esteja cadastrado, será necessário solicitar o seu cadastramento para o e-mail **siad@prefeitura.sp.gov.br**, informando o <mark style="color:blue;">nome completo</mark>, <mark style="color:blue;">CPF</mark> e <mark style="color:blue;">e-mail individual</mark>.
 {% endhint %}
 
 Futuramente disponibilizaremos a funcionalidade para que os próprios equipamentos possam cadastrar seus profissionais, sem a necessidade de enviar e-mail.
