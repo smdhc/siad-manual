@@ -16,7 +16,7 @@ Atualmente são coletados os seguintes campos:
 * Nome social
 * Data de nascimento ou idade aproximada (obrigatório);
 * Nome da mãe (obrigatório);
-* Nome do Pai
+* Nome do pai
 * País de Nascimento
 * Município de Nascimento
 * CPF (obrigatório);
@@ -25,7 +25,7 @@ Atualmente são coletados os seguintes campos:
 
 ## Sigilo de Cadastro
 
-Ao marcar um registro como sigiloso, é necessário <mark style="background-color:$danger;">**redobrar a atenção**</mark> quanto ao tratamento das informações. Isso inclui cuidado especial com o conteúdo compartilhado e com o acesso aos dados, principalmente os relacionados a **endereço e contato**, que ficam automaticamente <mark style="color:red;">ocultos</mark> para todos os usuários.
+Ao marcar um registro como sigiloso, é necessário <mark style="background-color:$danger;">**redobrar a atenção**</mark> quanto ao tratamento das informações. Isso inclui cuidado especial com o conteúdo compartilhado e com o acesso aos dados, principalmente os relacionados a **endereço** e **contato**, que ficam automaticamente <mark style="color:red;">ocultos</mark> para todos os usuários.
 
 Esses dados só podem ser visualizados mediante **justificativa**, respeitando as normas de proteção de informações sensíveis.
 
@@ -35,11 +35,11 @@ Esses dados só podem ser visualizados mediante **justificativa**, respeitando a
 Uma vez ativada, essa opção só poderá ser desativada pelo próprio usuário que a acionou ou pela supervisão técnica da área temática correspondente.
 {% endhint %}
 
-Ao acessar um cadastro sigiloso por meio de um outro equipamento, o sistema exibirá todas as informações normalmente, mas indicará através de um alerta:
+Ao acessar um cadastro sigiloso por meio de um outro equipamento, o sistema exibirá todas as informações normalmente, mas mostrará um alerta:
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Aviso de cadastro sigiloso - mesma temática</p></figcaption></figure>
 
-Além disso, os dados de Endereço e Contato ficam ocultos por padrão, e somente são liberados mediante justificativa:
+Além disso, os dados de **endereço** e **contato** ficam ocultos por padrão, e somente são liberados mediante justificativa:
 
 <figure><img src="../../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
 
@@ -63,7 +63,7 @@ Caso você tente criar o cadastro sem preencher todos os campos obrigatórios, u
 
 ## Nomes
 
-Recomendamos que para todos os campos de nomes (nome civil, social, mãe e pai) sejam cadastrados com as **primeiras iniciais em maiúsculo** e **demais letras em minúsculo**, bem como **incluir todos os acentos** existentes no nome da pessoa.
+Recomendamos que todos os campos de nomes (nome civil, social, mãe e pai) sejam cadastrados com as **primeiras iniciais em maiúsculo** e **demais letras em minúsculo**, bem como **incluir todos os acentos** existentes no nome da pessoa.
 
 {% hint style="danger" %}
 Exemplo de escrita errada: JOSE CONCEICAO DA SILVA
@@ -77,7 +77,7 @@ Independentemente da forma utilizada no cadastro, o sistema conseguirá [pesquis
 
 ## Data de nascimento desconhecida
 
-Existem situações onde não é possível coletar a data de nascimento exata da pessoa. Nesses casos, o sistema permite coletar a idade aproximada da pessoa. Para fazer isso, basta selecionar a opção <mark style="background-color:purple;">Data de nascimento desconhecida?</mark> e informar a <mark style="background-color:purple;">idade aproximada</mark> (autodeclarada) da pessoa.
+Existem situações nas quais não é possível coletar a data de nascimento exata da pessoa. Nesses casos, o sistema permite coletar a idade aproximada. Para fazer isso, basta selecionar a opção <mark style="background-color:purple;">Data de nascimento desconhecida?</mark> e informar a <mark style="background-color:purple;">idade aproximada</mark> (autodeclarada) da pessoa.
 
 {% hint style="info" %}
 O preenchimento da data de nascimento ou idade aproximada é obrigatório, devendo ser preenchido um dos dois.
@@ -113,7 +113,7 @@ No caso de outro tipo de documento não listado entre as opções existentes, ba
 Todos os documentos cadastrados, independentemente do tipo, poderão ser pesquisados através da [Pesquisa Global](../pesquisa/pesquisa-global.md).
 {% endhint %}
 
-Caso queira <mark style="color:red;">excluir</mark> algum documento, basta clicar no <mark style="background-color:red;">ícone de lixeira</mark> (vermelho) localizado à direita do documento desejado.
+Caso queira <mark style="color:red;">excluir</mark> algum documento, basta clicar no <mark style="background-color:red;">ícone de lixeira</mark> (<mark style="color:red;">vermelho</mark>) localizado à direita do documento desejado.
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Seção de "Documentos"</p></figcaption></figure>
 
@@ -129,7 +129,7 @@ O sistema impedirá gravar um cadastro caso o CPF informado já esteja cadastrad
 
 ## Pessoa sem CPF
 
-Existem situações onde, como de imigrantes ou crianças, onde a pessoa possui CPF. Nesses casos, basta habilitar a opção <mark style="background-color:purple;">Não possui CPF</mark>, e o sistema removerá a obrigatoriedade de preenchimento do mesmo.
+Existem situações, como de imigrantes ou crianças, nas quais a pessoa não possui CPF. Nesses casos, basta habilitar a opção <mark style="background-color:purple;">Não possui CPF</mark>, e o sistema removerá a obrigatoriedade de preenchimento do mesmo.
 
 <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Opção "Não possui CPF"</p></figcaption></figure>
 
@@ -148,14 +148,14 @@ Caso o cadastro de uma pessoa X tenha sido criado erroneamente com o CPF de outr
 {% endhint %}
 
 {% hint style="info" %}
-Caso tenha dúvidas sobre essa regra, entre em contato através do e-mail siad@prefeitura.sp.gov.br.
+Caso tenha dúvidas sobre essa regra, entre em contato através do e-mail <mark style="color:$info;">siad@prefeitura.sp.gov.br</mark>.
 {% endhint %}
 
 ## Atendimento Emergencial
 
-Existem situações emergenciais, como o de vulnerabilidade da vítima, onde não é possível coletar todos os dados obrigatórios, especialmente em <mark style="color:red;">casos de emergências</mark> ou <mark style="color:red;">situações extremas</mark>. Nesses casos, é possível habilitar a opção <mark style="background-color:purple;">Atendimento emergencial de vítima de violência</mark>, localizada ao final da tela, que permitirá concluir o cadastro informando somente o **Nome Civil** e a **Data de Nascimento/Idade Aproximada**.
+Existem situações emergenciais, como a de vulnerabilidade da vítima, nas quais não é possível coletar todos os dados obrigatórios, especialmente em <mark style="color:red;">casos de emergências</mark> ou <mark style="color:red;">situações extremas</mark>. Nesses casos, é possível habilitar a opção <mark style="background-color:purple;">Atendimento emergencial de vítima de violência</mark>, localizada ao final da tela, que permitirá concluir o cadastro informando somente o **Nome Civil** e a **Data de Nascimento/Idade Aproximada**.
 
-Além disso, ao selecionar esta opção, será aberta um campo de <mark style="background-color:purple;">Justificativa</mark>, de preenchimento obrigatório, onde você deverá descrever o motivo do atendimento ser emergencial.
+Além disso, ao selecionar esta opção, será aberta um campo de <mark style="background-color:purple;">Justificativa</mark>, de preenchimento obrigatório, no qual você deverá descrever o motivo do atendimento ser emergencial.
 
 {% hint style="warning" %}
 O atendimento emergencial deve ser utilizado somente em <mark style="color:red;">situações extremas</mark>! É essencial que o cadastro seja **devidamente atualizado** em momento posterior. O uso indevido dessa opção poderá ocasionar em uma série de cadastros duplicados e sem as informações necessárias para realizar o devido acompanhamento da pessoa atendida em nossa rede.

@@ -20,5 +20,5 @@ Atualmente são coletados os seguintes campos:
 * Dados de contato
 
 {% hint style="warning" %}
-O campo 'Demanda sigilo de correspondência/contato' deve ser marcado quando o tipo de correspondência com a pessoa atendida deve ser feita com cuidado. Quando o sigilo estiver ativo, cartas <mark style="color:red;">não</mark> devem ser enviadas para o da pessoa atendida. Mais informações podem ser encontradas abaixo do campo, dentro do formulário.
+O campo 'Demanda sigilo de correspondência/contato' deve ser marcado quando o tipo de correspondência com a pessoa atendida deva ser feito com cuidado. Quando o sigilo estiver ativo, cartas <mark style="color:red;">não</mark> devem ser enviadas para o endereço da pessoa atendida. Mais informações podem ser encontradas abaixo do campo, dentro do formulário.
 {% endhint %}

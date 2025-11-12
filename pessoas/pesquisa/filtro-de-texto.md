@@ -2,7 +2,7 @@
 
 ### Filtro de texto
 
-Além dos filtros apresentados anteriormente, a listagem de pessoas possui também uma pesquisa textual no campo superior direito, localizado abaixo do botão <mark style="color:purple;">Filtrar</mark>. Esse filtro funciona de forma semelhante à [Pesquisa Global](pesquisa-global.md), mas **restrito à listagem de pessoas do seu equipamento**, permitindo assim pesquisar pelos seguintes campo:
+Além dos filtros apresentados anteriormente, a listagem de pessoas possui também uma pesquisa textual no campo superior direito, localizado abaixo do botão <mark style="color:purple;">Filtrar</mark>. Esse filtro funciona de forma semelhante à [Pesquisa Global](pesquisa-global.md), mas **restrito à listagem de pessoas do seu equipamento**, permitindo assim pesquisar pelos seguintes campos:
 
 * Nome civil
 * Nome social

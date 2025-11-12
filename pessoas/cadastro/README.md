@@ -7,8 +7,8 @@ Nessa página você encontrará informações sobre como fazer para **cadastrar 
 Vale destacar que:
 
 * as novas pessoas cadastradas poderão ser consultadas (individualmente) em **toda a nossa rede** de atendimento de Direitos Humanos;
-* ao cadastrar uma nova pessoa, será gerado um <mark style="color:purple;">Código SIAD</mark>, que é um código de identificação da pessoa dentro do sistema, e que é uma informação essencial para ser utilizada em outros instrumentais;
-* antes de cadastrar uma nova pessoa, é **essencial verificar se a mesma já não está cadastrada** no sistema;
+* ao cadastrar uma nova pessoa, será gerado um <mark style="color:purple;">Código SIAD</mark>, que é um código de identificação da pessoa dentro do sistema e uma informação essencial para ser utilizada em outros instrumentais;
+* antes de cadastrar uma nova pessoa, é **essencial verificar se ela já não está cadastrada** no sistema;
 * o sistema armazenará, para fins de **auditoria**, as informações do usuário e equipamento que realizou o cadastro inicial, mesmo que este tenha sido alterado por outro usuário posteriormente. Essas informações também ficarão visíveis na [Ficha de Cadastro da Pessoa](../ficha.md).
 
 {% hint style="info" %}
@@ -23,13 +23,13 @@ Além das informações presentes nessa página, você pode consultar também um
 
 ## Iniciando o fluxo de cadastro
 
-Para criar um novo registro, basta clicar no botão <mark style="color:purple;">Cadastrar Pessoa</mark>. Ele pode ser encontrado tanto no <mark style="color:purple;">Painel de Controle</mark>, como no menu <mark style="color:purple;">Cadastros</mark> -> <mark style="color:purple;">Pessoas</mark>:
+Para criar um novo registro, basta clicar no botão <mark style="color:purple;">Cadastrar Pessoa</mark>. Ele pode ser encontrado tanto no <mark style="color:purple;">Painel de Controle</mark>, como no menu <mark style="color:purple;">Cadastros</mark> ⭢ <mark style="color:purple;">Pessoas</mark>:
 
 <figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption><p>Botão de cadastro acessível pelo Painel de Controle</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (14) (1) (1) (1).png" alt=""><figcaption><p>Botão de cadastro acessível pelo Cadastro de Pessoas</p></figcaption></figure>
 
-Ao clicar, será aberta uma caixa de consulta de cadastro existente, que permite verificar através do <mark style="color:purple;">CPF</mark> se a pessoa já está cadastrada no sistema. Caso não esteja, basta clicar no botão <mark style="color:purple;">Continuar Cadastro</mark>, e você será redirecionado(a) para a tela de cadastro.
+Ao clicar, será aberta uma caixa de consulta de cadastro existente, que permite verificar, por meio do <mark style="color:purple;">CPF</mark>, se a pessoa já está cadastrada no sistema. Caso não esteja, basta clicar no botão <mark style="color:purple;">Continuar Cadastro</mark>, e você será redirecionado(a) para a tela de cadastro.
 
 {% hint style="info" %}
 Essa etapa de consulta, embora seja <mark style="color:purple;">opcional</mark>, é essencial para **evitar a duplicidade** de cadastros.
@@ -43,10 +43,10 @@ Caso o CPF informado já esteja cadastrado na base de dados, uma mensagem em <ma
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Exemplo de CPF já cadastrado</p></figcaption></figure>
 
-Caso o CPF informado não esteja na base de dados do SIAD, uma mensagem <mark style="color:green;">verde</mark> em destaque informará isso. Nesse caso, basta prosseguir para o cadastro, através do botão <mark style="color:purple;">Continuar Cadastro</mark>, que o redirecionará para a tela de cadastro de pessoas.
+Caso o CPF informado não esteja na base de dados do SIAD, uma mensagem em <mark style="color:green;">verde</mark> em destaque informará isso. Nesse caso, basta prosseguir para o cadastro, por meio do botão <mark style="color:purple;">Continuar Cadastro</mark>, que o(a) redirecionará para a tela de cadastro de pessoas.
 
 {% hint style="info" %}
-Ao consultar por um CPF antes de continuar o cadastro, caso o mesmo ainda não esteja cadastro, não será mais necessário preenchê-lo novamente, o sistema automaticamente preencherá no campo CPF na próxima tela.
+Ao consultar por um CPF antes de continuar o cadastro, caso o mesmo ainda não esteja cadastro, não será mais necessário preenchê-lo novamente; o sistema automaticamente preencherá no campo CPF na próxima tela.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Exemplo de CPF não cadastrado</p></figcaption></figure>

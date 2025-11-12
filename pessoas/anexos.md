@@ -2,7 +2,7 @@
 
 ### Acessando a seção de Anexos
 
-Após acessar a <mark style="color:purple;">Ficha Cadastral</mark> da pessoa, é possível acessar a seção através do menu <mark style="color:purple;">'Anexos</mark>', localizado no lado esquerdo da tela:
+Após acessar a <mark style="color:purple;">Ficha Cadastral</mark> da pessoa, é possível acessar a seção por meio do menu <mark style="color:purple;">'Anexos</mark>', localizado no lado esquerdo da tela:
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Acessando a seção de Anexos do cadastro</p></figcaption></figure>
 

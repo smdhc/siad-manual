@@ -15,7 +15,7 @@ Atualmente, o registro em si do encaminhamento não produz nenhum tipo de notifi
 
 ## Acessando a seção de Encaminhamentos
 
-Após acessar a <mark style="color:purple;">Ficha Cadastral</mark> da pessoa, é possível acessar a seção através do botão <mark style="color:purple;">Encaminhamentos</mark>, localizado no menu lateral da ficha de cadastro da pessoa.
+Após acessar a <mark style="color:purple;">Ficha Cadastral</mark> da pessoa, é possível acessar a seção por meio do botão <mark style="color:purple;">Encaminhamentos</mark>, localizado no menu lateral da ficha de cadastro da pessoa.
 
 O ícone/contador exibido ao lado do menu indica a quantidade de encaminhamentos registrados para a pessoa selecionada.
 
@@ -29,13 +29,13 @@ Ao clicar no menu Encaminhamentos, será exibida uma tela contendo a listagem de
 
 Nessa tela, é possível consultar, incluir, alterar ou excluir encaminhamentos, conforme regras abaixo:
 
-* Os **dados básicos** de encaminhamento exibidos na tabela são visíveis para todos os equipamentos, <mark style="background-color:red;">exceto se o equipamento de origem/destino for sigiloso ou de ouvidoria</mark>. Nesse caso, os dados básicos ficarão visíveis somente para os equipamentos envolvidos no encaminhamento.
+* Os **dados básicos** de encaminhamento exibidos na tabela são visíveis para todos os equipamentos, <mark style="background-color:red;">exceto se o equipamento de origem/destino for sigiloso ou de Ouvidoria</mark>. Nesse caso, os dados básicos ficarão visíveis somente para os equipamentos envolvidos no encaminhamento.
 * O **conteúdo e os detalhes** de um encaminhamento são visíveis somente para os equipamentos da mesma temática dos equipamentos envolvidos no encaminhamento.
-* Somente o usuário que cadastrou o encaminhamento poderá alterar ou excluir o mesmo.
+* Somente o usuário que cadastrou o encaminhamento poderá alterá-lo ou exclui-lo.
 
 ## Criando um novo encaminhamento
 
-Para criar um encaminhamento, na tela de listagem, clique no botão <mark style="color:purple;">Cadastrar Encaminhamento</mark>. Será aberto um popup contendo o formulário para registro do encaminhamento.
+Para criar um encaminhamento, clique no botão <mark style="color:purple;">Cadastrar Encaminhamento</mark> na tela de listagem. Será aberto um _pop-up_ contendo o formulário para registro do encaminhamento.
 
 
 
@@ -46,7 +46,7 @@ Para criar um encaminhamento, na tela de listagem, clique no botão <mark style=
 ***
 
 \
-<mark style="color:purple;">Áreas Internas</mark>: Referem-se aos serviços dentro da própria rede SMDHC, incluindo:
+<mark style="color:purple;">Áreas Internas</mark> — Referem-se aos serviços dentro da própria rede SMDHC, incluindo:
 
 * Jurídico
 * Psicológico
@@ -55,7 +55,7 @@ Para criar um encaminhamento, na tela de listagem, clique no botão <mark style=
 
 ***
 
-<mark style="color:purple;">Áreas Externas</mark>: Abrangem serviços de outras secretarias e órgãos, como:
+<mark style="color:purple;">Áreas Externas</mark> — Abrangem serviços de outras secretarias e órgãos, como:
 
 * Segurança Pública
 * Assistência Social
