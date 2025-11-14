@@ -14,6 +14,10 @@ Confira abaixo todos os detalhes dessa atualização.
 
 Foi adicionada uma nova etapa de verificação no processo de importação da base do CadÚnico para o SIAD, que garantirá confiabilidade das informações, evitando erros inesperados por eventuais mudanças no formato dos dados.
 
+### Edital Rango Responsa 2025
+
+Implementada a fase de recursos do Edital.
+
 ### Projetos - Melhorias e ajustes diversos
 
 Foram realizadas as seguintes melhorias e ajustes no SIAD Projetos:
