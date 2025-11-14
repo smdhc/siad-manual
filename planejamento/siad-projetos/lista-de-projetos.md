@@ -24,7 +24,7 @@ A tabela com a lista de projetos estará sempre acompanhada das colunas:
 * Nome do projeto;
 * Responsável titular;
 * Data de conclusão do projeto;
-* Se é prioritário
+* Se é prioritário; e
 * Status indicado pela área
 
 <mark style="color:yellow;">imagem da tabela com a linha das colunas realçada</mark>
@@ -34,7 +34,7 @@ Além desses, é possível incluir as seguintes colunas clicando em botão ao la
 * Responsável Suplente;
 * Data de início;
 * Processo SEI;
-* Data de cadastro e
+* Data de cadastro; e
 * Data da última alteração.
 
 Por exemplo, quando selecionamos os itens "Responsável Auxiliar" e "Data de cadastro" a tabela de projetos ficará da seguinte forma:
@@ -58,9 +58,9 @@ Quanto mais entregas cadastradas pela área, mais importante a utilização de f
 Ao clicar no botão **"Filtrar",** terá acesso a  usuário possui à disposição os seguintes filtros:
 
 * **Status** – filtra por meio do status do projeto inserido pela área durante o cadastro do projeto. É possível selecionar mais de uma opção;&#x20;
-* **Prioritário?** - filtra apenas os projetos marcados como prioritários ou os que não, decorrente de decisão do gabinete;&#x20;
-* **Conclusão** - filtra os projetos dentro de um período de datas de conclusão do projeto, mostrando na tabela apenas os que serão concluídos dentro dessa margem;&#x20;
-* **Registros excluídos** <mark style="color:purple;">-</mark> quando um projeto é excluído, ele deixa de aparecer na tela principal de projetos, no entanto, por meio desse filtro, é possível mostrá-los selecionando “Exibir registros excluídos” ou “Somente registros excluídos”.&#x20;
+* **Prioritário?** – filtra apenas os projetos marcados como prioritários ou os que não, decorrente de decisão do gabinete;&#x20;
+* **Conclusão** – filtra os projetos dentro de um período de datas de conclusão do projeto, mostrando na tabela apenas os que serão concluídos dentro dessa margem;&#x20;
+* **Registros excluídos** – quando um projeto é excluído, ele deixa de aparecer na tela principal de projetos, no entanto, por meio desse filtro, é possível mostrá-los selecionando “Exibir registros excluídos” ou “Somente registros excluídos”.&#x20;
 
 <mark style="color:yellow;">Imagem de uso do filtro</mark>
 
