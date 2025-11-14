@@ -21,6 +21,7 @@ A critério do usuário, é possível adicionar colunas na tabela e aplicar ferr
 A tabela com a lista de projetos estará sempre acompanhada das colunas:
 
 * Código do projeto;
+* Área responsável;&#x20;
 * Nome do projeto;
 * Responsável titular;
 * Data de conclusão do projeto;
@@ -31,13 +32,20 @@ A tabela com a lista de projetos estará sempre acompanhada das colunas:
 
 Além desses, é possível incluir as seguintes colunas clicando em botão ao lado do campo de pesquisa:
 
+* Área Corresponsável (1 e 2);&#x20;
 * Responsável Suplente;
 * Data de início;
+* Possui relação com os resultados-chave do Planejamento Estratégico da SMDHC?;
+* Objetivo Estratégico;
+* Resultado-chave; &#x20;
 * Processo SEI;
-* Data de cadastro; e
-* Data da última alteração.
+* Anexos;
+* Data do cadastro;
+* Data da última alteração;
+* Número de etapas;
+*
 
-Por exemplo, quando selecionamos os itens "Responsável Auxiliar" e "Data de cadastro" a tabela de projetos ficará da seguinte forma:
+Por exemplo, quando selecionamos os itens "Responsável Suplente" e "Data de cadastro" a tabela de projetos ficará da seguinte forma:
 
 <mark style="color:yellow;">imagem com todos os itens novos realçados</mark>
 
