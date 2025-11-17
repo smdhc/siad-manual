@@ -6,11 +6,13 @@ description: Nessa seção entenderá todas as funcionalidades da página "Lista
 
 ### O que é a "Lista de Projetos"?
 
-A página "**Lista de Projetos**" reúne todos os projetos cadastrados pela área ou que tenham a área como corresponsável pelo projeto e as suas principais informações para que a área tenha uma noção global dos seus projetos.&#x20;
+A página "**Lista de Projetos**" reúne todos os projetos **cadastrados pela área** ou que tenham a área como **corresponsável** pelo projeto e as suas principais informações, para uma visão global dos seus projetos.&#x20;
 
 Os projetos e suas informações estão em formato de tabela, conforme a imagem abaixo.
 
 <figure><img src="../../.gitbook/assets/xx1.png" alt=""><figcaption></figcaption></figure>
+
+Ainda, como indicado no início da tela, os projetos destacados em <mark style="background-color:yellow;">amarelo</mark> possuem etapas em atraso. Isso facilita a visualização.&#x20;
 
 Explicaremos como acessar as informações detalhadas dos projetos em [ficha-do-projeto.md](ficha-do-projeto.md "mention").&#x20;
 
@@ -28,55 +30,57 @@ A tabela com a lista de projetos estará sempre acompanhada das colunas:
 * Se é prioritário; e
 * Status indicado pela área
 
-<mark style="color:yellow;">imagem da tabela com a linha das colunas realçada</mark>
+<figure><img src="../../.gitbook/assets/xx2.png" alt=""><figcaption></figcaption></figure>
 
-Além desses, é possível incluir as seguintes colunas clicando em botão ao lado do campo de pesquisa:
+Além dessas, é possível incluir as seguintes colunas clicando no botão ao lado do campo de pesquisa:
 
 * Área Corresponsável (1 e 2);&#x20;
 * Responsável Suplente;
-* Data de início;
+* Data de Início;
 * Possui relação com os resultados-chave do Planejamento Estratégico da SMDHC?;
 * Objetivo Estratégico;
-* Resultado-chave; &#x20;
+* Resultado-Chave; &#x20;
 * Processo SEI;
-* Anexos;
-* Data do cadastro;
-* Data da última alteração;
-* Número de etapas;
-*
+* Data do cadastro; e
+* Data da última alteração
 
-Por exemplo, quando selecionamos os itens "Responsável Suplente" e "Data de cadastro" a tabela de projetos ficará da seguinte forma:
+Por exemplo, quando selecionamos os itens "Área Corresponsável 1" e "Data do cadastro", a tabela de projetos ficará da seguinte forma:
 
-<mark style="color:yellow;">imagem com todos os itens novos realçados</mark>
+<figure><img src="../../.gitbook/assets/xx3.png" alt=""><figcaption></figcaption></figure>
 
 ### Filtro e Agrupamento dos projetos
 
 É possível pesquisar pelo projeto desejado por meio de seu nome, do nome do responsável principal ou pelo código do projeto na barra de pesquisa localizada na parte superior direita da tabela inicial.&#x20;
 
-<mark style="color:yellow;">Imagem com o botão pesquisar realçado</mark>
+<figure><img src="../../.gitbook/assets/xx4.png" alt=""><figcaption></figcaption></figure>
 
 Além da pesquisa, é possível utilizar os filtros para selecionar quais entregas aparecerão na lista de projetos.&#x20;
 
-<mark style="color:yellow;">Imagem com o botão filtro realçado</mark>
+<figure><img src="../../.gitbook/assets/xx5.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Quanto mais entregas cadastradas pela área, mais importante a utilização de filtros para que seja possível localizar as entregas relevantes para aquele momento.&#x20;
+Quanto mais projetos cadastrados pela área, mais importante a utilização de filtros para que seja possível localizar os projetos relevantes para aquele momento.&#x20;
 {% endhint %}
 
-Ao clicar no botão **"Filtrar",** terá acesso a  usuário possui à disposição os seguintes filtros:
+Ao clicar no botão **"Filtrar"**, o usuário possui à disposição os seguintes filtros:
 
 * **Status** – filtra por meio do status do projeto inserido pela área durante o cadastro do projeto. É possível selecionar mais de uma opção;&#x20;
-* **Prioritário?** – filtra apenas os projetos marcados como prioritários ou os que não, decorrente de decisão do gabinete;&#x20;
+* **Prioritário?** – filtra apenas os projetos marcados como prioritários ou não, decorrente de decisão do gabinete;&#x20;
 * **Conclusão** – filtra os projetos dentro de um período de datas de conclusão do projeto, mostrando na tabela apenas os que serão concluídos dentro dessa margem;&#x20;
-* **Registros excluídos** – quando um projeto é excluído, ele deixa de aparecer na tela principal de projetos, no entanto, por meio desse filtro, é possível mostrá-los selecionando “Exibir registros excluídos” ou “Somente registros excluídos”.&#x20;
+* **Registros excluídos** – quando um projeto é excluído, ele deixa de aparecer na tela principal de projetos, no entanto, por meio desse filtro, é possível mostrá-los selecionando “Exibir registros excluídos” ou “Somente registros excluídos”.;
+* **Possui relação com os resultados-chave do Planejamento Estratégico da SMDHC?** – filtra apenas os projetos que possuem relação direta (ou não) com o Planejamento Estratégico.
+* **Objetivo Estratégico** – filtra todos os projetos relacionados ao mesmo Objetivo Estratégico do Planejamento Estratégico. É possível selecionar mais de uma opção;
+* **Resultado-Chave** – filtra todos os projetos relacionados ao mesmo resultado-chave do Planejamento Estratégico. É possível selecionar mais de uma opção;
+
+Por exemplo, quando filtramos pelo status e selecionamos apenas os projetos com status "Travado", a tabela ficará da seguinte forma:&#x20;
 
 <mark style="color:yellow;">Imagem de uso do filtro</mark>
 
-Ainda, é possível agrupar os projetos conforme os status ou a área, tanto em ordem crescente ou decrescente. Para isso, clique no botão "Agrupar por" no canto esquerdo da tabela
+Ainda, é possível agrupar os projetos conforme os status ou a área, tanto em ordem crescente quanto decrescente. Para isso, clique no botão "Agrupar por" no canto esquerdo da tabela:
 
-<mark style="color:yellow;">Imagem de agrupamento</mark>
+<figure><img src="../../.gitbook/assets/xx7.png" alt=""><figcaption></figcaption></figure>
 
-Feito a apresentação da página **"Lista de Projetos",** agora é o momento de apresentar como se cadastra um projeto no SIAD-Projetos.&#x20;
+Feita a apresentação da página **"Lista de Projetos",** agora é o momento de apresentar como se cadastra um projeto no SIAD-Projetos.&#x20;
 
 
 
