@@ -24,13 +24,11 @@ Link: [<mark style="color:blue;">https://siad.prefeitura.sp.gov.br/planejamento<
 {% endstep %}
 
 {% step %}
-#### Caso esqueça a senha, solicite o reenvio pela mesma página
+#### E caso esqueça a senha?
 
-<figure><img src="../../.gitbook/assets/x1 (1).jpg" alt=""><figcaption></figcaption></figure>
+Caso tenha esquecido sua senha ou esteja enfrentando algum problema com acesso, entre em contato conosco pelo e-mail <mark style="color:$info;">siad@prefeitura.sp.gov.br</mark> ou com a sua Coordenação/Coordenação responsável pelo seu equipamento.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-<mark style="color:yellow;">Imagem da página de cadastro com o botão para reenvio</mark>
+Em breve, disponibilizaremos uma forma mais automatizada de permitir a recuperação de senha.&#x20;
 
 Caso seja o seu primeiro acesso, siga as instruções em [cadastro-de-usuario.md](cadastro-de-usuario.md "mention")
 {% endstep %}

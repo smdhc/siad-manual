@@ -6,11 +6,11 @@ description: Nessa seção entenderá todas as funcionalidades da página "Lista
 
 ### O que é a "Lista de Projetos"?
 
-A página "**Lista de Projetos**" reúne todos os projetos cadastrados pela área e as suas principais informações para que a área tenha uma noção global dos seus projetos.&#x20;
+A página "**Lista de Projetos**" reúne todos os projetos cadastrados pela área ou que tenham a área como corresponsável pelo projeto e as suas principais informações para que a área tenha uma noção global dos seus projetos.&#x20;
 
-Os projetos e suas informações estão em formato de tabela, conforme a imagem a abaixo.
+Os projetos e suas informações estão em formato de tabela, conforme a imagem abaixo.
 
-<mark style="color:yellow;">Imagem da página</mark>
+<figure><img src="../../.gitbook/assets/xx1.png" alt=""><figcaption></figcaption></figure>
 
 Explicaremos como acessar as informações detalhadas dos projetos em [ficha-do-projeto.md](ficha-do-projeto.md "mention").&#x20;
 
