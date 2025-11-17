@@ -33,7 +33,7 @@ Foram realizadas as seguintes melhorias e ajustes no SIAD Projetos:
 
 ## Ajustes
 
-### Atendimentos - Erro ao consultar com apótrofe
+### Atendimentos - Erro ao consultar com apóstrofe
 
 Foi corrigido um erro que era exibido ao pesquisar com apóstrofe nos termos de pesquisa.
 
