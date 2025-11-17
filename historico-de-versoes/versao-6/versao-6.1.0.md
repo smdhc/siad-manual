@@ -34,3 +34,9 @@ Foram realizadas as seguintes melhorias e ajustes no SIAD Projetos:
 ### Atendimentos - Erro ao consultar com apótrofe
 
 Foi corrigido um erro que era exibido ao pesquisar com apóstrofe nos termos de pesquisa.
+
+### Atendimentos - Bug ao gravar menor desacompanhado
+
+Foi corrigido um erro que não exibia corretamente o campo "Menor desacompanhado" nos atendimentos de imigrantes.
+
+O campo foi substituído por um novo componente que previnirá futuros erros.
