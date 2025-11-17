@@ -28,6 +28,8 @@ Foram realizadas as seguintes melhorias e ajustes no SIAD Projetos:
 * Implementado novo campo de "Periodicidade de Monitoramento" no cadastro do projeto.
 * Foi corrigido um erro que era exibido ao tentar cadastrar um novo projeto caso não houvesse instruções configuradas no SIAD Projetos.
 * Foram corrigidas as datas exibidas no histórico de edições de um projeto, que não estavam considerando o fuso horário.
+* Corrigido problema ao pesquisar com a tabela agrupada.
+* Corrigidos filtros da tela de listagem de projetos que não funcionavam com o perfil de áreas.
 
 ## Ajustes
 
