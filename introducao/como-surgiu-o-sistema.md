@@ -2,7 +2,7 @@
 
 Implantado em **2024**, o SIAD surge como solução definitiva para substituir e integrar os diversos formulários e planilhas utilizados em nossa rede.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ainda que resolvessem pontualmente algumas demandas, esses instrumentais necessitavam de um maior aprimoramento a fim de facilitar o acesso aos dados, aumentar a padronização das informações, a usabilidade, a integração e, principalmente, a segurança da informação.
 

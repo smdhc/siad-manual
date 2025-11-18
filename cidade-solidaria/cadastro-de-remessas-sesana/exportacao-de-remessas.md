@@ -4,7 +4,7 @@ A exportação de remessas é uma das principais funcionalidades do sistema. Ela
 
 Para exportar a planilha contendo as remessas desejadas, acesse a tela de acompanhamento de remessas através do menu lateral "**Remessas**".
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Tela de acompanhamento das remessas</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Tela de acompanhamento das remessas</p></figcaption></figure>
 
 Aplique os filtros desejados e clique no botão "**Exportar remessas**".
 

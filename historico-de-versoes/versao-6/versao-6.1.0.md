@@ -10,6 +10,14 @@ Confira abaixo todos os detalhes dessa atualização.
 
 ## Melhorias
 
+### Atendimentos - Impressão do atendimento
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Foi disponibilizado um novo botão na tela de visualização que permite imprimir a ficha de atendimento.
+
 ### CadUnico - Melhorias na importação
 
 Foi adicionada uma nova etapa de verificação no processo de importação da base do CadÚnico para o SIAD, que garantirá confiabilidade das informações, evitando erros inesperados por eventuais mudanças no formato dos dados.

@@ -44,7 +44,7 @@ Inclusão de novas opções de filtro de profissionais na lisstagem de encaminha
 
 O campo de formatação do conteúdo do encaminhamento ganhou novas opções de formatação, como possibilidade de adicionar **cores** e **tabelas**.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Infraestrutura - Link para Painel de Monitoramento
 

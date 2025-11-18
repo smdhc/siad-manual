@@ -1,6 +1,6 @@
 # Introdução
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 O <mark style="background-color:orange;">Registro de Atendimentos</mark> é a principal funcionalidade do SIAD. Por meio dessa ferramenta, todos os <mark style="color:purple;">atendimentos</mark> e <mark style="color:purple;">atividades</mark> realizados pelos equipamentos deverão ser registrados de forma centralizada e sistemática.
 
