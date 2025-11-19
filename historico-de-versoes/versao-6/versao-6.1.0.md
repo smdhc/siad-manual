@@ -18,26 +18,37 @@ Confira abaixo todos os detalhes dessa atualização.
 
 Foi disponibilizado um novo botão na tela de visualização que permite imprimir a ficha de atendimento.
 
-### CadUnico - Melhorias na importação
+Além disso, foi corrigido um problema que exibia uma página em branco adicional nos impressos de atendimentos e encaminhamentos, nos ambientes de testes.
 
-Foi adicionada uma nova etapa de verificação no processo de importação da base do CadÚnico para o SIAD, que garantirá confiabilidade das informações, evitando erros inesperados por eventuais mudanças no formato dos dados.
+### CadÚnico - Melhorias na importação
+
+Foi adicionada uma nova etapa de verificação no processo de importação da base do CadÚnico para o SIAD, garantindo maior confiabilidade das informações e evitando erros inesperados decorrentes de eventuais mudanças no formato dos dados.
+
+Além disso, durante a importação, as telas de cadastro de pessoas não serão mais impactadas.
 
 ### Edital Rango Responsa 2025
 
 Implementada a fase de recursos do Edital.
 
+### Encaminhamentos - Filtro de protocolo
+
+Adicionado novo filtro que permite pesquisar encaminhamentos pelo número de protocolo.
+
 ### Projetos - Melhorias e ajustes diversos
 
 Foram realizadas as seguintes melhorias e ajustes no SIAD Projetos:
 
+* Nova tela para visualizar etapas pelas quais a área do usuário logado é responsável.
+* Aumento do tamanho do nome do projeto para até 90 caracteres.
 * O histórico de edições e alterações do projeto passa a exibir agora todas as alterações realizadas no cronograma/etapas.
-* O sistema passa a solicitar uma justificativa caso algum dos seguintes campos sejam alterados, no cadastro da etapa: Status, Data Início ou Data Fim.
+* O sistema passa a solicitar uma justificativa caso algum dos seguintes campos sejam alterados, no cadastro da etapa: Status, Área Responsável, Data Início ou Data Fim.
 * Agora é possível visualizar e restaurar etapas excluídas.
 * Implementado novo campo de "Periodicidade de Monitoramento" no cadastro do projeto.
 * Foi corrigido um erro que era exibido ao tentar cadastrar um novo projeto caso não houvesse instruções configuradas no SIAD Projetos.
 * Foram corrigidas as datas exibidas no histórico de edições de um projeto, que não estavam considerando o fuso horário.
 * Corrigido problema ao pesquisar com a tabela agrupada.
 * Corrigidos filtros da tela de listagem de projetos que não funcionavam com o perfil de áreas.
+* Atualizado texto do critério 5, no cadastro do projeto.
 
 ## Ajustes
 
@@ -50,3 +61,15 @@ Foi corrigido um erro que era exibido ao pesquisar com apóstrofe nos termos de 
 Foi corrigido um erro que não exibia corretamente o campo "Menor desacompanhado" nos atendimentos de imigrantes.
 
 O campo foi substituído por um novo componente que previnirá futuros erros.
+
+### Atividades Coletivas - Correção de histórico
+
+Corrigido problema que continuava exibindo o registro da atividade no histórico da pessoa caso a mesma fosse excluída de uma atividade existente.
+
+### Cadastro de Equipamentos - Correção de erro no cadastro
+
+Corrigido erro (de redirecionamento) que era exibido ao tentar cadastrar um novo equipamento.
+
+### Cadastro de Pessoas - Correção da transferência de histórico
+
+Corrigido problema que impedia os Administradores de transferirem registros históricos (de atendimentos, encaminhamentos etc.) de cadastros duplicado, após a subida da versão 6.0.
