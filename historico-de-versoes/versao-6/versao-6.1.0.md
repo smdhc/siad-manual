@@ -4,7 +4,7 @@ description: 'Data de lançamento (estimada): 25/11/2025'
 
 # Versão 6.1.0
 
-A **versão 6.1.0** do SIAD é uma versão que traz o formulário de recursos do Edital Rango Responsa 2025, melhorias no SIAD Projetos e ajustes diversos.
+A **versão 6.1.0** do SIAD é uma versão que traz o formulário de recursos do Edital Rango Responsa 2025, impresso de atendimentos, melhorias no SIAD Projetos e ajustes diversos.
 
 Confira abaixo todos os detalhes dessa atualização.
 
