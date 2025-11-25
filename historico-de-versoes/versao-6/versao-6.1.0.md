@@ -42,6 +42,8 @@ Disponibilizada versão prévia, para testes, do formulário de inscrição das 
 
 Adicionado novo filtro que permite pesquisar encaminhamentos pelo número de protocolo.
 
+
+
 ### Projetos - Melhorias e ajustes diversos
 
 Foram realizadas as seguintes melhorias e ajustes no SIAD Projetos:
@@ -81,3 +83,11 @@ Corrigido erro (de redirecionamento) que era exibido ao tentar cadastrar um novo
 ### Cadastro de Pessoas - Correção da transferência de histórico
 
 Corrigido problema que impedia os Administradores de transferirem registros históricos (de atendimentos, encaminhamentos etc.) de cadastros duplicado, após a subida da versão 6.0.
+
+### Cidade Solidária - Correção de duplicidade na exportação
+
+O arquivo de exportação de beneficiários foi corrigido de forma a não duplicar mais o nome dos beneficiários.
+
+### Formulários - Desativação de formulários antigos
+
+Os formulários antigos que não estão mais sendo utilizados foram desativados.
