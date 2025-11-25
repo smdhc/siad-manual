@@ -84,6 +84,10 @@ Corrigido erro (de redirecionamento) que era exibido ao tentar cadastrar um novo
 
 Corrigido problema que impedia os Administradores de transferirem registros históricos (de atendimentos, encaminhamentos etc.) de cadastros duplicado, após a subida da versão 6.0.
 
+### Cadastro de Pessoas - Correção de label de filtros
+
+Corrigida label de exibição de outras opções de filtros na tela de listagem do Cadastro de Pessoas.
+
 ### Cidade Solidária - Correção de duplicidade na exportação
 
 O arquivo de exportação de beneficiários foi corrigido de forma a não duplicar mais o nome dos beneficiários.
