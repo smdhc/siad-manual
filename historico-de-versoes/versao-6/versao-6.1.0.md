@@ -20,6 +20,10 @@ Foi disponibilizado um novo botão na tela de visualização que permite imprimi
 
 Além disso, foi corrigido um problema que exibia uma página em branco adicional nos impressos de atendimentos e encaminhamentos, nos ambientes de testes.
 
+### Cadasto de Pessoas - Tem Saída
+
+Adicionada nova opção de benefício "Tem Saída", na aba Dados Socioeconômicos.
+
 ### CadÚnico - Melhorias na importação
 
 Foi adicionada uma nova etapa de verificação no processo de importação da base do CadÚnico para o SIAD, garantindo maior confiabilidade das informações e evitando erros inesperados decorrentes de eventuais mudanças no formato dos dados.
@@ -29,6 +33,10 @@ Além disso, durante a importação, as telas de cadastro de pessoas não serão
 ### Edital Rango Responsa 2025
 
 Implementada a fase de recursos do Edital.
+
+### Eleições COMPLIR 2025 (Prévia)
+
+Disponibilizada versão prévia, para testes, do formulário de inscrição das Eleições COMPLIR 2025.
 
 ### Encaminhamentos - Filtro de protocolo
 
