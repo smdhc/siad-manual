@@ -95,3 +95,9 @@ O arquivo de exportação de beneficiários foi corrigido de forma a não duplic
 ### Formulários - Desativação de formulários antigos
 
 Os formulários antigos que não estão mais sendo utilizados foram desativados.
+
+### Hotfixes
+
+Após a publicação da versão, foi necessário realizar alguns ajustes, conforme abaixo:
+
+* v6.1.1: Correção de erro ao imprimir atendimento de imigrante sem o campo Menor Desacompanhado.
