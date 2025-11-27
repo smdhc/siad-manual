@@ -14,6 +14,10 @@ Confira abaixo todos os detalhes dessa atualização.
 
 Adicionada coluna com o Nome da Mãe com possibilidade de pesquisa.
 
+### Módulo Admin - Seleção de módulos
+
+Adicionado novo botão para seleção de módulos no painel Admin.
+
 ### Projetos - Melhorias e ajustes diversos
 
 Foram realizadas as seguintes melhorias e ajustes no SIAD Projetos:
@@ -21,6 +25,8 @@ Foram realizadas as seguintes melhorias e ajustes no SIAD Projetos:
 * Inclusão das colunas "Data do Cadastro" e "Data da Última Alteração" na listagem de etapas.
 * Possibilidade de anexar arquivos PPT no cadastro de etapas.
 * Exibição dos anexos cadastrados em etapas no menu de Anexos.
+* Ordenação da lista de responsáveis suplentes no cadastro do projeto.
+* Ordenação da lista de áreas responsáveis no cadastro da etapa.
 
 ### Rango Responsa - Fase de recursos à autoridade
 
