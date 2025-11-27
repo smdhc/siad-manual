@@ -102,3 +102,4 @@ Após a publicação da versão, foi necessário realizar alguns ajustes, confor
 
 * v6.1.1: Correção de erro ao imprimir atendimento de imigrante sem o campo Menor Desacompanhado.
 * v6.1.2: Correção de erro ao editar uma frequência do Transcidadania.
+* v6.1.3: Correção da permissão de acesso ao CadÚnico e correção do log de auditoria dos campos de documentos e contatos da Pessoa.
