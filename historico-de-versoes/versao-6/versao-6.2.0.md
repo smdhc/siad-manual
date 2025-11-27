@@ -20,6 +20,7 @@ Foram realizadas as seguintes melhorias e ajustes no SIAD Projetos:
 
 * Inclusão das colunas "Data do Cadastro" e "Data da Última Alteração" na listagem de etapas.
 * Possibilidade de anexar arquivos PPT no cadastro de etapas.
+* Exibição dos anexos cadastrados em etapas no menu de Anexos.
 
 ### Rango Responsa - Fase de recursos à autoridade
 
