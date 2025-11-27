@@ -34,6 +34,10 @@ Implementada a fase de recursos à autoridade competente da SMDHC no Edital Rang
 
 ## Ajustes
 
+### Atendimentos - Revisão de formulários
+
+Realizados alguns ajustes no gerador dos formulários de atendimentos para evitar erros e atualizar componentes.
+
 ### Transcidadania - Correção de erro ao remover mês da frequência
 
 Corrigido erro que era exibido ao remover a seleção do campo "Mês" da tela de registro de frequência.
