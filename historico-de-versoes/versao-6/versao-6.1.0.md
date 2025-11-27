@@ -1,5 +1,5 @@
 ---
-description: 'Data de lançamento (estimada): 25/11/2025'
+description: 'Data de lançamento: 25/11/2025'
 ---
 
 # Versão 6.1.0
@@ -101,3 +101,4 @@ Os formulários antigos que não estão mais sendo utilizados foram desativados.
 Após a publicação da versão, foi necessário realizar alguns ajustes, conforme abaixo:
 
 * v6.1.1: Correção de erro ao imprimir atendimento de imigrante sem o campo Menor Desacompanhado.
+* v6.1.2: Correção de erro ao editar uma frequência do Transcidadania.
