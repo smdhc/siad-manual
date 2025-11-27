@@ -12,8 +12,7 @@ Após acessar o menu, você terá acesso a um texto sobre importantes elementos 
 
 Além disso, Composições Familiares já cadastradas também aparecerão aqui (vide imagem abaixo), apresentando suas relações familiares e benefícios cadastrados (caso existam).
 
-Para começar, procure o botão de '<mark style="color:purple;">Cadastrar Relação Familiar</mark>', localizado no canto superior direito da tela:\
-
+Para começar, procure o botão de '<mark style="color:purple;">Cadastrar Relação Familiar</mark>', localizado no canto superior direito da tela:<br>
 
 <figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 

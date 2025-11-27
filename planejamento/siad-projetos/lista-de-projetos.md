@@ -41,6 +41,7 @@ Além dessas, é possível incluir as seguintes colunas clicando no botão ao la
 * Objetivo Estratégico;
 * Resultado-Chave; &#x20;
 * Processo SEI;
+* Periodicidade de Monitoramento;&#x20;
 * Data do cadastro; e
 * Data da última alteração
 
@@ -54,7 +55,7 @@ Por exemplo, quando selecionamos os itens "Área Corresponsável 1" e "Data do c
 
 <figure><img src="../../.gitbook/assets/xx4.png" alt=""><figcaption></figcaption></figure>
 
-Além da pesquisa, é possível utilizar os filtros para selecionar quais entregas aparecerão na lista de projetos.&#x20;
+Além da pesquisa, é possível utilizar os filtros para selecionar quais projetos aparecerão na lista.&#x20;
 
 <figure><img src="../../.gitbook/assets/xx5.png" alt=""><figcaption></figcaption></figure>
 
@@ -67,14 +68,15 @@ Ao clicar no botão **"Filtrar"**, o usuário possui à disposição os seguinte
 * **Status** – filtra por meio do status do projeto inserido pela área durante o cadastro do projeto. É possível selecionar mais de uma opção;&#x20;
 * **Prioritário?** – filtra apenas os projetos marcados como prioritários ou não, decorrente de decisão do gabinete;&#x20;
 * **Conclusão** – filtra os projetos dentro de um período de datas de conclusão do projeto, mostrando na tabela apenas os que serão concluídos dentro dessa margem;&#x20;
-* **Registros excluídos** – quando um projeto é excluído, ele deixa de aparecer na tela principal de projetos, no entanto, por meio desse filtro, é possível mostrá-los selecionando “Exibir registros excluídos” ou “Somente registros excluídos”.;
-* **Possui relação com os resultados-chave do Planejamento Estratégico da SMDHC?** – filtra apenas os projetos que possuem relação direta (ou não) com o Planejamento Estratégico.
+* **Registros excluídos** – quando um projeto é excluído, ele deixa de aparecer na tela principal de projetos. No entanto, por meio desse filtro, é possível mostrá-los selecionando “Exibir registros excluídos” ou “Somente registros excluídos”;
+* **Possui relação com os resultados-chave do Planejamento Estratégico da SMDHC?** – filtra apenas os projetos que possuem relação direta (ou não) com o Planejamento Estratégico;
+* **Periodicidade de Monitoramento** – filtra os projetos a partir de sua periodicidade de monitoramento, para aqueles que possuem periodicidade definida;&#x20;
 * **Objetivo Estratégico** – filtra todos os projetos relacionados ao mesmo Objetivo Estratégico do Planejamento Estratégico. É possível selecionar mais de uma opção;
-* **Resultado-Chave** – filtra todos os projetos relacionados ao mesmo resultado-chave do Planejamento Estratégico. É possível selecionar mais de uma opção;
+* **Resultado-Chave** – filtra todos os projetos relacionados ao mesmo resultado-chave do Planejamento Estratégico. É possível selecionar mais de uma opção.
 
 Por exemplo, quando filtramos pelo status e selecionamos apenas os projetos com status "Travado", a tabela ficará da seguinte forma:&#x20;
 
-<mark style="color:yellow;">Imagem de uso do filtro</mark>
+<figure><img src="../../.gitbook/assets/xx8.png" alt=""><figcaption></figcaption></figure>
 
 Ainda, é possível agrupar os projetos conforme os status ou a área, tanto em ordem crescente quanto decrescente. Para isso, clique no botão "Agrupar por" no canto esquerdo da tabela:
 
