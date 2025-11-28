@@ -65,6 +65,7 @@ Foram realizados os seguintes ajustes no módulo de atendimentos:
 * Correção de erro genérico que era exibido ao tentar inserir uma data inválida no registro de atendimento.
 * Correção de erro que era exibido ao tentar imprimir a ficha de atividade coletiva.
 * Correção da obrigatoriedade dos campos na tela de configuração de visibilidade dos tipos de atendimentos.
+* Revisadas as telas de configuração dos tipos de atendimentos, para padronizar as colunas de exibição.
 
 ### Transcidadania - Correção de erro ao remover mês da frequência
 
