@@ -18,6 +18,10 @@ Adicionada coluna com o Nome da Mãe com possibilidade de pesquisa.
 
 Adicionado novo botão para seleção de módulos no painel Admin.
 
+### Organizações - Anexos
+
+Foi disponibilizada uma nova funcionalidade para permitir anexar arquivos ao Cadastro da Organização.
+
 ### Projetos - Melhorias e ajustes diversos
 
 Foram realizadas as seguintes melhorias e ajustes no SIAD Projetos:
