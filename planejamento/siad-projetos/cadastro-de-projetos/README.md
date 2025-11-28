@@ -1,7 +1,7 @@
 ---
 description: >-
-  Nessa seçãoo encontrará instruções de como cadastrar um projeto no
-  SIAD-Projetos
+  Nessa seção encontrará instruções de como cadastrar um projeto no
+  SIAD-Projetos.
 ---
 
 # Cadastro de projetos
@@ -14,8 +14,8 @@ Para começar o cadastro de um novo projeto, basta clicar no botão "**Cadastrar
 
 Ao clicar no botão, você será redirecionado para a tela **“Cadastrar Projeto”**, que contém três abas:&#x20;
 
-* Dados do projeto;&#x20;
-* Dados complementares; e
+* Dados do Projeto;&#x20;
+* Dados Complementares; e
 * Outros&#x20;
 
 <figure><img src="../../../.gitbook/assets/xx10.png" alt=""><figcaption></figcaption></figure>
