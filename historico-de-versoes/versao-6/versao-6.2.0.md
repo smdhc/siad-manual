@@ -44,6 +44,7 @@ Foram realizadas as seguintes melhorias e ajustes no SIAD Projetos:
 * Exibição dos anexos cadastrados em etapas no menu de Anexos.
 * Ordenação da lista de responsáveis suplentes no cadastro do projeto.
 * Ordenação da lista de áreas responsáveis no cadastro da etapa.
+* Correção das labels dos campos de e-mails.
 
 ### Rango Responsa - Fase de recursos à autoridade
 
