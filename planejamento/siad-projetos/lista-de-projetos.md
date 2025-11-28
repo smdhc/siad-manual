@@ -53,7 +53,7 @@ Por exemplo, quando selecionamos os itens "Área Corresponsável 1" e "Data do c
 
 É possível pesquisar pelo projeto desejado por meio de seu nome, do nome do responsável principal ou pelo código do projeto na barra de pesquisa localizada na parte superior direita da tabela inicial.&#x20;
 
-<figure><img src="../../.gitbook/assets/xx4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/xx4 (1).png" alt=""><figcaption></figcaption></figure>
 
 Além da pesquisa, é possível utilizar os filtros para selecionar quais projetos aparecerão na lista.&#x20;
 

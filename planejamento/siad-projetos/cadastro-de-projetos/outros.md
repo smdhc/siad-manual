@@ -18,4 +18,4 @@ Nessa etapa é possível visualizar os seguintes botões:&#x20;
 * <mark style="color:$info;">Cancelar</mark>: retorna para a lista de todos os projetos, sem salvar as informações preenchidas;&#x20;
 * <mark style="color:purple;">Gravar</mark>: salva o projeto, de forma que ele passa a aparecer na lista de todos os projetos.&#x20;
 
-Finalizado o preenchimento, você verá o novo projeto tanto na "Lista de Projetos" quanto na Ficha do Projeto. Essa última página, criada automaticamente após gravar o cadastro, reunirá todas as informações cadastradas. Siga para a próxima página para entendê-la melhor!
+Finalizado o preenchimento, você verá o novo projeto tanto na "Lista de Projetos" quanto na [Ficha do projeto](../ficha-do-projeto.md). Essa última página, criada automaticamente após gravar o cadastro, reunirá todas as informações cadastradas. Siga para a próxima página para entendê-la melhor!
