@@ -32,10 +32,6 @@ Adicionada coluna com o Nome da Mãe com possibilidade de pesquisa.
 
 Foi adicionada uma nova coluna na tela de comunicados para permitir aos Administradores enxergarem o número de visualizações.
 
-### Eleições COMPLIR 2025 - Versão Preliminar
-
-Disponibilizada versão preliminar do formulário de inscrição para as Eleições COMPLIR 2025, para fins de validação.
-
 ### Encaminhamentos - Impressão de encaminhamento interno
 
 Foi disponibilizada a opção de imprimir encaminhamentos internos. Além disso, o número de protocolo do encaminhamento passa a ser exibido em todas as telas, permitindo também sua pesquisa.
