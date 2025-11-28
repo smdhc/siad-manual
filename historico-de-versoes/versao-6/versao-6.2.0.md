@@ -10,9 +10,17 @@ Confira abaixo todos os detalhes dessa atualização.
 
 ## Melhorias
 
+### Cadastro de Pessoas - Pesquisa de Município
+
+A pesquisa de municípios foi melhorada de forma a permitir pesquisar com ou sem acentos, voltando a exibir seu respectivo Estado.
+
 ### CadÚnico
 
 Adicionada coluna com o Nome da Mãe com possibilidade de pesquisa.
+
+### Encaminhamentos - Impressão de encaminhamento interno
+
+Foi disponibilizada a opção de imprimir encaminhamentos internos. Além disso, o número de protocolo do encaminhamento passa a ser exibido em todas as telas, permitindo também sua pesquisa.
 
 ### Módulo Admin - Seleção de módulos
 
