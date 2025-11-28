@@ -18,6 +18,10 @@ A pesquisa de municípios foi melhorada de forma a permitir pesquisar com ou sem
 
 Adicionada coluna com o Nome da Mãe com possibilidade de pesquisa.
 
+### Eleições COMPLIR 2025 - Versão Preliminar
+
+Disponibilizada versão preliminar do formulário de inscrição para as Eleições COMPLIR 2025, para fins de validação.
+
 ### Encaminhamentos - Impressão de encaminhamento interno
 
 Foi disponibilizada a opção de imprimir encaminhamentos internos. Além disso, o número de protocolo do encaminhamento passa a ser exibido em todas as telas, permitindo também sua pesquisa.
@@ -44,6 +48,8 @@ Foram realizadas as seguintes melhorias e ajustes no SIAD Projetos:
 * Exibição dos anexos cadastrados em etapas no menu de Anexos.
 * Ordenação da lista de responsáveis suplentes no cadastro do projeto.
 * Ordenação da lista de áreas responsáveis no cadastro da etapa.
+* Atualização do título da página de visualização do projeto para "Ficha do Projeto".
+* Inclusão do botão "Cronograma" na Ficha do Projeto.
 * Correção das labels dos campos de e-mails.
 
 ### Rango Responsa - Fase de recursos à autoridade
@@ -52,9 +58,13 @@ Implementada a fase de recursos à autoridade competente da SMDHC no Edital Rang
 
 ## Ajustes
 
-### Atendimentos - Revisão de formulários
+### Atendimentos - Correções
 
-Realizados alguns ajustes no gerador dos formulários de atendimentos para evitar erros e atualizar componentes.
+Foram realizados os seguintes ajustes no módulo de atendimentos:
+
+* Correção de erro genérico que era exibido ao tentar inserir uma data inválida no registro de atendimento.
+* Correção de erro que era exibido ao tentar imprimir a ficha de atividade coletiva.
+* Correção da obrigatoriedade dos campos na tela de configuração de visibilidade dos tipos de atendimentos.
 
 ### Transcidadania - Correção de erro ao remover mês da frequência
 
