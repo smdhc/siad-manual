@@ -57,7 +57,7 @@ Por exemplo, quando selecionamos os itens "Área Corresponsável 1" e "Data do c
 
 Além da pesquisa, é possível utilizar os filtros para selecionar quais projetos aparecerão na lista.&#x20;
 
-<figure><img src="../../.gitbook/assets/xx5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/xx5 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Quanto mais projetos cadastrados pela área, mais importante a utilização de filtros para que seja possível localizar os projetos relevantes para aquele momento.&#x20;
@@ -76,11 +76,11 @@ Ao clicar no botão **"Filtrar"**, o usuário possui à disposição os seguinte
 
 Por exemplo, quando filtramos pelo status e selecionamos apenas os projetos com status "Travado", a tabela ficará da seguinte forma:&#x20;
 
-<figure><img src="../../.gitbook/assets/xx8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/xx8 (1).png" alt=""><figcaption></figcaption></figure>
 
 Ainda, é possível agrupar os projetos conforme os status ou a área, tanto em ordem crescente quanto decrescente. Para isso, clique no botão "Agrupar por" no canto esquerdo da tabela:
 
-<figure><img src="../../.gitbook/assets/xx7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/xx7 (1).png" alt=""><figcaption></figcaption></figure>
 
 Feita a apresentação da página **"Lista de Projetos",** agora é o momento de apresentar como se cadastra um projeto no SIAD-Projetos.&#x20;
 
