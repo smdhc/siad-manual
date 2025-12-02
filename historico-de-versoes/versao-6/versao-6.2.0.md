@@ -19,6 +19,7 @@ Foram realizados os seguintes ajustes no módulo de atendimentos:
 * Correção de erro genérico que era exibido ao tentar inserir uma data inválida no registro de atendimento.
 * Correção de erro que era exibido ao tentar imprimir a ficha de atividade coletiva.
 * Correção da obrigatoriedade dos campos na tela de configuração de visibilidade dos tipos de atendimentos.
+* Correção da sincronização dos campos de Situação Migratória, Menor Desacompanhado e Escolaridade com o Cadastro de Pessoas.
 
 ### Cadastro de Pessoas - Pesquisa de Município
 
@@ -61,6 +62,7 @@ Foram realizadas as seguintes melhorias e ajustes no SIAD Projetos:
 * Atualização do título da página de visualização do projeto para "Ficha do Projeto".
 * Inclusão do botão "Cronograma" na Ficha do Projeto.
 * Correção das labels dos campos de e-mails.
+* Remoção da restrição de exclusão de projetos pelas áreas.
 
 ### Rango Responsa - Fase de recursos à autoridade
 
