@@ -63,6 +63,9 @@ Foram realizadas as seguintes melhorias e ajustes no SIAD Projetos:
 * Inclusão do botão "Cronograma" na Ficha do Projeto.
 * Correção das labels dos campos de e-mails.
 * Remoção da restrição de exclusão de projetos pelas áreas.
+* Inclusão de justificativa ao excluir um projeto.
+* Correção de erro ao editar e adicionar um responsável suplente ao projeto.
+* Correção de erro ao editar a data de início de uma etapa.
 
 ### Rango Responsa - Fase de recursos à autoridade
 
@@ -84,3 +87,10 @@ Foram realizados os seguintes ajustes no Transcidadania:
 * Corrigido erro que era exibido ao remover a seleção do campo "Mês" da tela de registro de frequência.
 * Corrigido status exibido na tela de acompanhamento para meses futuros.
 * Tabela de frequência passa a também exibir o período de correção.
+
+### Rango Responsa - Ajustes
+
+Foram realizados os seguintes ajustes no formulário do Rango Responsa:
+
+* Correção da verificação do prazo de contrarrazões;
+* Correção da exibição do texto de encerramento.
