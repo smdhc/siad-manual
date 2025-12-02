@@ -6,11 +6,15 @@ A ficha do projeto reúne todas as informações cadastradas em um só espaço, 
 
 **Como é a ficha do projeto?**
 
-A ficha está organizada em abas, cujo conteúdo é igual ao conteúdo preenchido no cadastro. Por meio do menu lateral da ficha, é possível navegar no modo de visualização, no modo de edição, acessar o cronograma, a parte de anexos, as edições e o histórico de alterações.&#x20;
+A ficha está organizada em abas, cujo conteúdo é igual ao conteúdo preenchido no cadastro, com uma única exceção: a aba de <mark style="color:$info;">Critérios de Planejamento</mark>\*.&#x20;
+
+Por meio do menu lateral da ficha, é possível navegar no modo de visualização, no modo de edição, acessar o cronograma, a parte de anexos, as edições e o histórico de alterações.&#x20;
 
 (<mark style="color:red;">atualizar print - Ficha do Projeto</mark>)
 
 <figure><img src="../../.gitbook/assets/xx4.png" alt=""><figcaption></figcaption></figure>
+
+\*A aba de <mark style="color:$info;">Critérios de Planejamento</mark> é preenchida exclusivamente por CPI e só aparecerá para as áreas quando CPI já tiver validado os critérios. Assim, não se preocupe se essa aba não for exibida para você quando abrir a ficha de um projeto.&#x20;
 
 ### Como acessar a ficha do projeto?
 
