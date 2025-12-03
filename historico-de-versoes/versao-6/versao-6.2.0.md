@@ -50,6 +50,10 @@ Além disso, foram adicionados os campos abaixo no cadastro:
 * Outros contatos;
 * Observações.
 
+### Profissionais - Filtro de ativos
+
+Adicionado filtro de ativos/inativos na tela de consulta de profissionais.
+
 ### Projetos - Melhorias e ajustes diversos
 
 Foram realizadas as seguintes melhorias e ajustes no SIAD Projetos:
