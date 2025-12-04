@@ -98,3 +98,9 @@ Foram realizados os seguintes ajustes no formulário do Rango Responsa:
 
 * Correção da verificação do prazo de contrarrazões;
 * Correção da exibição do texto de encerramento.
+
+### Hotfixes
+
+Após a publicação da versão, foi necessário realizar alguns ajustes, conforme abaixo:
+
+* v6.2.1: Correção de erro ao gravar atividade coletiva.
