@@ -75,13 +75,13 @@
   * [Edição e exclusão](planejamento/siad-projetos/edicao-e-exclusao/README.md)
     * [Edição de projetos cadastrados](planejamento/siad-projetos/edicao-e-exclusao/edicao-de-projetos-cadastrados.md)
     * [Exclusão de projetos cadastrados](planejamento/siad-projetos/edicao-e-exclusao/exclusao-de-projetos-cadastrados.md)
-    * [Edição de etapas cadastradas no cronograma](planejamento/siad-projetos/edicao-e-exclusao/edicao-de-etapas-cadastradas-no-cronograma.md)
-    * [Exclusão de etapas cadastradas no cronograma](planejamento/siad-projetos/edicao-e-exclusao/exclusao-de-etapas-cadastradas-no-cronograma.md)
   * [Priorização](planejamento/siad-projetos/priorizacao.md)
   * [Cronograma](planejamento/siad-projetos/cronograma/README.md)
     * [Inclusão de etapas](planejamento/siad-projetos/cronograma/inclusao-de-etapas.md)
     * [Atribuição e atualização de status](planejamento/siad-projetos/cronograma/atribuicao-e-atualizacao-de-status.md)
     * [Alteração de ordem das etapas](planejamento/siad-projetos/cronograma/alteracao-de-ordem-das-etapas.md)
+    * [Edição de etapas](planejamento/siad-projetos/cronograma/edicao-de-etapas.md)
+    * [Exclusão de etapas](planejamento/siad-projetos/cronograma/exclusao-de-etapas.md)
   * [Anexos](planejamento/siad-projetos/anexos.md)
 
 ## Cidade Solidária

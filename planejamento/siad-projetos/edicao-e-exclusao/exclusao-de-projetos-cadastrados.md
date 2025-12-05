@@ -24,6 +24,6 @@ Caso tenha excluído um projeto e precise recuperá-lo, basta clicar no botão "
 
 <figure><img src="../../../.gitbook/assets/xx8.png" alt=""><figcaption></figcaption></figure>
 
-Ao localizar o projeto excluído que deseja recuperar, basta clicar nos 3 pontos no canto direito da linha da tabela inicial de projetos e clicar em "<mark style="color:$info;">Restaurar</mark>".&#x20;
+Ao localizar o projeto excluído que deseja recuperar, basta clicar nos 3 pontos no canto direito da linha da tabela inicial de projetos e clicar em "_<mark style="color:$info;">⮌</mark>_ _<mark style="color:$info;">Restaurar</mark>_".&#x20;
 
 <figure><img src="../../../.gitbook/assets/xx9.png" alt=""><figcaption></figcaption></figure>
