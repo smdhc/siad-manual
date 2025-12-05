@@ -17,7 +17,7 @@ A aba “**Dados do projeto**” serve para a inserção dos dados básicos do p
 
 Todos os campos de preenchimento contam com uma explicação e instruções para preenchimento, que podem ser acessadas por meio do botão ao lado de cada campo. Por exemplo:&#x20;
 
-<figure><img src="../../../.gitbook/assets/xx1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xx1 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ao clicar no botão, um texto explicativo aparecerá:
 
@@ -29,7 +29,7 @@ Ao clicar no botão, um texto explicativo aparecerá:
 * Os campos “**E-mail do responsável principal**” e “**E-mail do responsável suplente**”: preenchidos com o e-mail vinculado ao usuário da pessoa apontada como responsável em algum dos dois campos.&#x20;
 
 {% hint style="warning" %}
-O usuário que realiza o cadastro de um projeto não precisa ser o responsável (principal ou suplente) pelo projeto. No entanto, para que uma pessoa seja apontada com responsável por um projeto, deve ter um cadastro no SIAD-Projetos.
+O usuário que realiza o cadastro de um projeto não precisa ser o responsável (principal ou suplente) pelo projeto. No entanto, para que uma pessoa seja apontada com responsável por um projeto, ela deve ter um cadastro no SIAD-Projetos.
 {% endhint %}
 
 A seguir, as instruções sobre a aba "**Dados Complementares**".

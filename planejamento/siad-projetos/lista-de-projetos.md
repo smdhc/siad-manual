@@ -8,9 +8,13 @@ description: Nessa seção entenderá todas as funcionalidades da página "Lista
 
 A página "**Lista de Projetos**" reúne todos os projetos **cadastrados pela área** ou que tenham a área como **corresponsável** pelo projeto e as suas principais informações, para uma visão global dos seus projetos.&#x20;
 
+Ela é acessada clicando em "Projetos", no menu esquerdo da tela.&#x20;
+
+<figure><img src="../../.gitbook/assets/xx2.png" alt=""><figcaption></figcaption></figure>
+
 Os projetos e suas informações estão em formato de tabela, conforme a imagem abaixo.
 
-<figure><img src="../../.gitbook/assets/xx1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/xx1 (1).png" alt=""><figcaption></figcaption></figure>
 
 Ainda, como indicado no início da tela, os projetos destacados em <mark style="background-color:yellow;">amarelo</mark> possuem etapas em atraso. Isso facilita a visualização.&#x20;
 
@@ -30,7 +34,7 @@ A tabela com a lista de projetos estará sempre acompanhada das colunas:
 * Se é prioritário; e
 * Status indicado pela área
 
-<figure><img src="../../.gitbook/assets/xx2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/xx2 (1).png" alt=""><figcaption></figcaption></figure>
 
 Além dessas, é possível incluir as seguintes colunas clicando no botão ao lado do campo de pesquisa:
 
@@ -47,17 +51,17 @@ Além dessas, é possível incluir as seguintes colunas clicando no botão ao la
 
 Por exemplo, quando selecionamos os itens "Área Corresponsável 1" e "Data do cadastro", a tabela de projetos ficará da seguinte forma:
 
-<figure><img src="../../.gitbook/assets/xx3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/xx3 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Filtro e Agrupamento dos projetos
 
 É possível pesquisar pelo projeto desejado por meio de seu nome, do nome do responsável principal ou pelo código do projeto na barra de pesquisa localizada na parte superior direita da tabela inicial.&#x20;
 
-<figure><img src="../../.gitbook/assets/xx4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/xx4 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Além da pesquisa, é possível utilizar os filtros para selecionar quais projetos aparecerão na lista.&#x20;
 
-<figure><img src="../../.gitbook/assets/xx5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/xx5 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Quanto mais projetos cadastrados pela área, mais importante a utilização de filtros para que seja possível localizar os projetos relevantes para aquele momento.&#x20;
@@ -76,11 +80,11 @@ Ao clicar no botão **"Filtrar"**, o usuário possui à disposição os seguinte
 
 Por exemplo, quando filtramos pelo status e selecionamos apenas os projetos com status "Travado", a tabela ficará da seguinte forma:&#x20;
 
-<figure><img src="../../.gitbook/assets/xx8 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/xx8 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ainda, é possível agrupar os projetos conforme os status ou a área, tanto em ordem crescente quanto decrescente. Para isso, clique no botão "Agrupar por" no canto esquerdo da tabela:
 
-<figure><img src="../../.gitbook/assets/xx7 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/xx7 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Feita a apresentação da página **"Lista de Projetos",** agora é o momento de apresentar como se cadastra um projeto no SIAD-Projetos.&#x20;
 

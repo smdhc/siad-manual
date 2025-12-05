@@ -20,6 +20,6 @@ Aqui a área deverá responder algumas perguntas sobre o projeto e sua realizaç
 
 Todos esses campos de preenchimento contam com uma explicação e instruções para preenchimento, que podem ser acessadas por meio do botão “**Consultar significado**”.
 
-<figure><img src="../../../.gitbook/assets/xx3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xx3 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Após completar o preenchimento dessa aba, é possível avançar para a próxima por meio do botão “<mark style="color:purple;">Próximo</mark>”, localizado no canto inferior direito da tela, ou retornar para a aba **Dados do Projeto** para editar alguma informação, clicando no botão “<mark style="color:$info;">Voltar</mark>”, no canto inferior esquerdo. &#x20;

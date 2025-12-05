@@ -1,15 +1,29 @@
 # Exclusão de projetos cadastrados
 
-Para excluir um projeto salvo no SIAD, basta clicar nos 3 pontos à direita da linha referente ao projeto na tela inicial e clicar em _<mark style="color:purple;">Excluir</mark>_.&#x20;
+O usuário poderá excluir apenas os projetos pelos quais sua área seja a **área responsável**. Se sua área é corresponsável por um projeto, a exclusão não será possível.&#x20;
 
-Caso os Critérios de Planejamento não tenham sido preenchidos, esse é o único passo a ser seguido.&#x20;
+Para excluir um projeto salvo no SIAD, há dois caminhos:&#x20;
 
-Caso os Critérios de Planejamento tenham sido preenchidos, será obrigatório informar uma justificativa e selecionar o botão de “Salvar” para excluir o projeto.&#x20;
+1. Clicar nos 3 pontos no canto direito da linha do projeto na tabela inicial e clicar em _<mark style="color:red;">Excluir</mark>_.&#x20;
+
+<figure><img src="../../../.gitbook/assets/xx5.png" alt=""><figcaption></figcaption></figure>
+
+2. Selecionar a linha do projeto na tabela inicial (o que abrirá a Ficha do Projeto) e clicar em _<mark style="color:red;">Excluir</mark>_, no canto superior direito da tela;&#x20;
+
+<figure><img src="../../../.gitbook/assets/xx6.png" alt=""><figcaption></figcaption></figure>
+
+Ao selecionar esse botão, é obrigatório informar uma **justificativa** para a exclusão.
+
+<figure><img src="../../../.gitbook/assets/xx7.png" alt=""><figcaption></figcaption></figure>
+
+Após informar a justificativa, basta clicar em _<mark style="color:red;">Excluir</mark>_.&#x20;
 
 ## Como recuperar um projeto após sua exclusão?
 
-Caso tenha excluído um projeto e precise recuperá-lo, é possível solicitar aos responsáveis pelo monitoramento o restauro dos dados.&#x20;
+Caso tenha excluído um projeto e precise recuperá-lo, basta clicar no botão "**Filtrar**" na tabela inicial e filtrar pelos projetos excluídos, selecionando "<mark style="color:$info;">Exibir registros excluídos</mark>".&#x20;
 
-{% hint style="warning" %}
-Essa ação só é possível caso todos os dados tenham sido devidamente salvos.&#x20;
-{% endhint %}
+<figure><img src="../../../.gitbook/assets/xx8.png" alt=""><figcaption></figcaption></figure>
+
+Ao localizar o projeto excluído que deseja recuperar, basta clicar nos 3 pontos no canto direito da linha da tabela inicial de projetos e clicar em "<mark style="color:$info;">Restaurar</mark>".&#x20;
+
+<figure><img src="../../../.gitbook/assets/xx9.png" alt=""><figcaption></figcaption></figure>
