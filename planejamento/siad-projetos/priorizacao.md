@@ -25,7 +25,7 @@ Assim, os instrumentos de planejamento verificados são:&#x20;
 8. Planejamento Estratégico da SMDHC.&#x20;
 {% endhint %}
 
-Os _<mark style="color:purple;">Dados Complementares</mark>_ e os _<mark style="color:purple;">Critérios de Priorização</mark>_ auxiliarão o Gabinete na decisão de quais serão os projetos prioritários.
+Os _<mark style="color:purple;">Dados do Projeto</mark>_ (especificamente a vinculação ao Planejamento Estratégico da SMDHC), os _<mark style="color:purple;">Dados Complementares</mark>_ e os _<mark style="color:purple;">Critérios de Priorização</mark>_ auxiliarão o Gabinete na decisão de quais serão os projetos prioritários.
 
 {% hint style="danger" %}
 Ao priorizar um projeto, o Gabinete poderá levar em consideração outros critérios para além dos que foram registrados pela área e por CPI. O que for preenchido não vincula automaticamente a decisão de priorização.  &#x20;
