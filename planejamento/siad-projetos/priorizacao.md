@@ -31,6 +31,6 @@ Os _<mark style="color:purple;">Dados do Projeto</mark>_ (especificamente a vinc
 Ao priorizar um projeto, o Gabinete poderá levar em consideração outros critérios para além dos que foram registrados pela área e por CPI. O que for preenchido não vincula automaticamente a decisão de priorização.  &#x20;
 {% endhint %}
 
-Para saber os projetos prioritários de sua área, verifique o projeto na coluna _<mark style="color:$info;">**Prioritário?**</mark>_, na tela inicial dos projetos.&#x20;
+Para saber os projetos prioritários de sua área, verifique o projeto na coluna <mark style="color:$info;">**Prioritário?**</mark>, na tela inicial dos projetos.&#x20;
 
 <figure><img src="../../.gitbook/assets/xx12 (2).png" alt=""><figcaption></figcaption></figure>

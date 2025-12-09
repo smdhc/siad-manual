@@ -13,7 +13,7 @@ Por meio do menu lateral da ficha, é possível navegar no modo de visualizaçã
 <figure><img src="../../.gitbook/assets/xx1.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:$warning;">\*</mark>A aba de <mark style="color:$info;">Critérios de Planejamento</mark> é preenchida exclusivamente por CPI e só aparecerá para as áreas quando CPI já tiver validado os critérios. Assim, não se preocupe se essa aba não for exibida para você quando abrir a ficha de um projeto.&#x20;
+\*A aba de <mark style="color:$info;">Critérios de Planejamento</mark> é preenchida exclusivamente por CPI e só aparecerá para as áreas quando CPI já tiver validado os critérios. Assim, não se preocupe se essa aba não for exibida para você quando abrir a ficha de um projeto.&#x20;
 {% endhint %}
 
 ### Como acessar a ficha do projeto?
