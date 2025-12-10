@@ -78,6 +78,7 @@
   * [Priorização](planejamento/siad-projetos/priorizacao.md)
   * [Cronograma](planejamento/siad-projetos/cronograma/README.md)
     * [Inclusão de etapas](planejamento/siad-projetos/cronograma/inclusao-de-etapas.md)
+    * [Lista de etapas](planejamento/siad-projetos/cronograma/lista-de-etapas.md)
     * [Alteração de ordem das etapas](planejamento/siad-projetos/cronograma/alteracao-de-ordem-das-etapas.md)
     * [Edição de etapas](planejamento/siad-projetos/cronograma/edicao-de-etapas.md)
     * [Exclusão de etapas](planejamento/siad-projetos/cronograma/exclusao-de-etapas.md)

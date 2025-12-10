@@ -72,7 +72,7 @@ Ao clicar no botão **"Filtrar"**, o usuário possui à disposição os seguinte
 * **Status** – filtra por meio do status do projeto inserido pela área durante o cadastro do projeto. É possível selecionar mais de uma opção;&#x20;
 * **Prioritário?** – filtra apenas os projetos marcados como prioritários ou não, decorrente de decisão do gabinete;&#x20;
 * **Conclusão** – filtra os projetos dentro de um período de datas de conclusão do projeto, mostrando na tabela apenas os que serão concluídos dentro dessa margem;&#x20;
-* **Registros excluídos** – quando um projeto é excluído, ele deixa de aparecer na tela principal de projetos. No entanto, por meio desse filtro, é possível mostrá-los selecionando “Exibir registros excluídos” ou “Somente registros excluídos”;
+* **Registros excluídos** – quando um projeto é excluído, ele deixa de aparecer na tela principal de projetos. No entanto, por meio desse filtro, é possível mostrá-los selecionando “Exibir registros excluídos” ou “Somente registros excluídos” (essa explicação está mais detalhada no item [Exclusão de projetos cadastrados](edicao-e-exclusao/exclusao-de-projetos-cadastrados.md));
 * **Possui relação com os resultados-chave do Planejamento Estratégico da SMDHC?** – filtra apenas os projetos que possuem relação direta (ou não) com o Planejamento Estratégico;
 * **Periodicidade de Monitoramento** – filtra os projetos a partir de sua periodicidade de monitoramento, para aqueles que possuem periodicidade definida;&#x20;
 * **Objetivo Estratégico** – filtra todos os projetos relacionados ao mesmo Objetivo Estratégico do Planejamento Estratégico. É possível selecionar mais de uma opção;
@@ -82,7 +82,7 @@ Por exemplo, quando filtramos pelo status e selecionamos apenas os projetos com 
 
 <figure><img src="../../.gitbook/assets/xx8 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Ainda, é possível agrupar os projetos conforme os status ou a área, tanto em ordem crescente quanto decrescente. Para isso, clique no botão "Agrupar por" no canto esquerdo da tabela:
+Ainda, é possível **agrupar** os projetos conforme os status ou a área, tanto em ordem crescente quanto decrescente. Para isso, clique no botão "Agrupar por" no canto esquerdo da tabela:
 
 <figure><img src="../../.gitbook/assets/xx7 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
