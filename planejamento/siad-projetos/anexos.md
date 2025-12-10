@@ -1,6 +1,6 @@
 # Anexos
 
-Já vimos que o SIAD permite que sejam anexados documentos dentro de cada etapa do cronograma de um projeto. Essa explicação se encontra no final da seção [Inclusão de etapas](cronograma/inclusao-de-etapas.md).
+Já vimos que o SIAD permite que sejam anexados documentos dentro de _cada etapa_ do cronograma de um projeto. Essa explicação se encontra no final da seção [Inclusão de etapas](cronograma/inclusao-de-etapas.md).
 
 Mas além do cadastro, do cronograma e dos anexos de cada etapa, a parte de gestão de projetos do SIAD também permite que sejam anexados documentos relacionados ao projeto como um todo.
 
