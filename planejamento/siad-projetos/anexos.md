@@ -4,7 +4,7 @@ Já vimos que o SIAD permite que sejam anexados documentos dentro de _cada etapa
 
 Mas além do cadastro, do cronograma e dos anexos de cada etapa, a parte de gestão de projetos do SIAD também permite que sejam anexados documentos relacionados ao projeto como um todo.
 
-Se trata de uma funcionalidade <mark style="background-color:yellow;">opcional</mark>, voltada para que as áreas possam acessar recursos que facilitem a gestão de seus projetos.&#x20;
+Se trata de uma funcionalidade <mark style="background-color:yellow;">opcional</mark>, para que as áreas possam acessar recursos que facilitem a gestão de seus projetos.&#x20;
 
 Para acessar a parte de anexos, é possível acessar a ficha do projeto desejado e clicar no botão _<mark style="color:purple;">Anexos</mark>_ no menu lateral. &#x20;
 
