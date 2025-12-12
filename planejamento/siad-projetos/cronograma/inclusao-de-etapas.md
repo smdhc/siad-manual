@@ -47,7 +47,7 @@ Importante apontar que a _<mark style="color:$info;">Área Responsável</mark>_ 
 Isso porque pode ser que uma área seja responsável apenas por uma única etapa do projeto.&#x20;
 
 {% hint style="info" %}
-Por exemplo, em um projeto cuja área responsável seja CPI e CPDDH seja uma área corresponsável, pode ser que a Assessoria Jurídica (AJ) seja responsável por apenas uma etapa. Nesse caso, CPI e CPDDH, enquanto áreas responsáveis, poderão visualizar e editar todo o projeto e todas as etapas, e poderão atribuir uma das etapas à AJ. Nesse caso, a AJ poderá visualizar e editar apenas a _etapa_ pela qual ela é responsável.&#x20;
+**Exemplo:** em um projeto no qual a CPI é a área responsável e a CPDDH é uma área corresponsável, pode haver uma etapa específica de responsabilidade da Assessoria Jurídica (AJ). Nesse cenário, CPI e CPDDH – por serem áreas responsáveis – poderão visualizar e editar todo o projeto e todas as etapas. Já a AJ, por ser responsável apenas por uma etapa específica, terá permissão de visualizar e editar _exclusivamente_ essa etapa.
 {% endhint %}
 
 Por fim, o SIAD permite que sejam anexados documentos relacionados à etapa. Se trata de uma funcionalidade <mark style="background-color:yellow;">opcional</mark>, voltada para que as áreas possam acessar recursos que facilitem a gestão do cronograma de seus projetos.
