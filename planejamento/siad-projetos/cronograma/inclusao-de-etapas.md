@@ -6,13 +6,13 @@ Para cadastrar a etapa de um projeto, acesse o cronograma e clique no botão _<m
 
 Após clicar no botão, aparecerá um pop-up na tela com algumas informações necessárias sobre a etapa. São elas:
 
-* Nome da etapa
-* Status
-* Data de Início
-* Data Final
-* Área Responsável
-* Responsável Principal
-* Descrição da Etapa
+* Nome da etapa;
+* Status;
+* Data de Início;
+* Data Final;
+* Área Responsável;
+* Responsável Principal;
+* Descrição da Etapa; e
 * Anexos
 
 {% hint style="warning" %}
