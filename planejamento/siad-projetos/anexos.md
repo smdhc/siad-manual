@@ -6,11 +6,11 @@ Mas além do cadastro, do cronograma e dos anexos de cada etapa, a parte de gest
 
 Se trata de uma funcionalidade <mark style="background-color:yellow;">opcional</mark>, para que as áreas possam acessar recursos que facilitem a gestão de seus projetos.&#x20;
 
-Para acessar a parte de anexos, é possível acessar a ficha do projeto desejado e clicar no botão _<mark style="color:purple;">Anexos</mark>_ no menu lateral. &#x20;
+Para acessar a página de anexos, é possível acessar a ficha do projeto desejado e clicar no botão _<mark style="color:$info;">Anexos</mark>_ no menu lateral. &#x20;
 
 <figure><img src="../../.gitbook/assets/xx27.png" alt=""><figcaption></figcaption></figure>
 
-Também é possível acessar essa parte diretamente clicando nos 3 pontos à direita do projeto na tabela inicial e selecionando _<mark style="color:purple;">Anexos</mark>_.&#x20;
+Também é possível acessar essa parte diretamente clicando nos 3 pontos à direita do projeto na tabela inicial e selecionando _<mark style="color:$info;">Anexos</mark>_.&#x20;
 
 <figure><img src="../../.gitbook/assets/xx7 (2).png" alt=""><figcaption></figcaption></figure>
 
