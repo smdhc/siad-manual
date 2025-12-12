@@ -45,7 +45,7 @@ Para abrir um documento salvo, é necessário clicar na linha do documento, e se
 
 Também é possível visualizar, editar ou excluir um arquivo por meio dos 3 pontos no canto direito da respectiva linha.&#x20;
 
-<figure><img src="../../.gitbook/assets/xx31.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/xx2 (4).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Apenas o usuário que anexou um documento pode editá-lo ou excluí-lo.&#x20;
@@ -53,7 +53,7 @@ Apenas o usuário que anexou um documento pode editá-lo ou excluí-lo.&#x20;
 
 ### Anexos de Etapas
 
-Ainda, na parte de baixo da mesma página, há uma relação de <mark style="color:$info;">Anexos de Etapas</mark>. Aqui, você conseguirá ver todos os documentos que foram anexados em _todas as etapas_ daquele projeto, separados por etapa.&#x20;
+Ainda, ao final da mesma página, há uma relação de _<mark style="color:$info;">Anexos de Etapas</mark>_. Aqui, você conseguirá ver todos os documentos que foram anexados em _todas as etapas_ daquele projeto, separados por etapa.&#x20;
 
 Nessa tabela, constam as seguintes informações:
 
@@ -65,7 +65,7 @@ Nessa tabela, constam as seguintes informações:
 
 <figure><img src="../../.gitbook/assets/xx32.png" alt=""><figcaption></figcaption></figure>
 
-Para abrir um documento salvo, é possível clicar na linha do documento. Isso abrirá o mesmo pop-up do cadastro e da visualização da etapa e, assim, também será possível fazer o download do arquivo.&#x20;
+Da mesma forma, para abrir um documento salvo, é possível clicar na linha do documento. Isso abrirá o mesmo pop-up do cadastro e da visualização da etapa e, assim, também será possível fazer o download do arquivo.&#x20;
 
 <figure><img src="../../.gitbook/assets/xx34 (1).png" alt=""><figcaption></figcaption></figure>
 
