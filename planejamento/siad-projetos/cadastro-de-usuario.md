@@ -8,15 +8,16 @@ description: >-
 
 ### Quem pode acessar?
 
-O SIAD-Projetos poderá ser acessado por todos os funcionários de SMDHC que preencherem o formulário do seguinte link:
+O SIAD-Projetos poderá ser acessado por todos os funcionários de SMDHC.&#x20;
 
-> [**https://forms.office.com/r/NU4uPekYD1**](https://forms.office.com/r/NU4uPekYD1)
+Para isso, basta enviar um e-mail para <mark style="color:purple;">siad@prefeitura.sp.gov.br</mark> com o assunto "**Cadastro SIAD-Projetos**". Nesse e-mail, envie os seguintes dados de quem precisará ser cadastrado:  &#x20;
 
-Após o preenchimento, a Coordenadoria de Planejamento e Informação (CPI) enviará um e-mail (<mark style="background-color:purple;">siad@prefeitura.sp.gov.br</mark>) com o login e senha para iniciar o acesso.&#x20;
+* Nome completo
+* CPF
+* Área/Coordenação
+* E-mail institucional
 
-{% hint style="info" %}
-Caso não tenha recebido o e-mail com os dados de acesso em até duas semanas após cadastro, envie um mensagem para o e-mail <mark style="color:$info;">siad@prefeitura.sp.gov</mark>, com o assunto: **"Cadastro SIAD-Projetos"**. No corpo do e-mail, indique o seu nome e RF.&#x20;
-{% endhint %}
+Após o envio, a Coordenadoria de Planejamento e Informação (CPI) enviará um e-mail (<mark style="background-color:purple;">siad@prefeitura.sp.gov.br</mark>) com o login e senha para iniciar o acesso.&#x20;
 
 Por ser uma ferramenta para uso interno, ela estará disponível exclusivamente para os servidores lotados nessa secretaria.
 
