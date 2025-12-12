@@ -12,7 +12,7 @@ Ela é acessada clicando em "Projetos", no menu esquerdo da tela.&#x20;
 
 <figure><img src="../../.gitbook/assets/xx2.png" alt=""><figcaption></figcaption></figure>
 
-Os projetos e suas informações estão em formato de tabela, conforme a imagem abaixo.
+Os projetos e suas informações estão em formato de tabela, conforme a imagem abaixo:
 
 <figure><img src="../../.gitbook/assets/xx1 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -20,7 +20,7 @@ Ainda, como indicado no início da tela, os projetos destacados em <mark style="
 
 Explicaremos como acessar as informações detalhadas dos projetos em [ficha-do-projeto.md](ficha-do-projeto.md "mention").&#x20;
 
-A critério do usuário, é possível adicionar colunas na tabela e aplicar ferramentas de busca, filtragem e agrupação de projetos. A seguir, explicaremos cada uma dessas funcionalidades.
+A critério do usuário, é possível adicionar colunas na tabela e aplicar ferramentas de busca, filtragem e agrupação de projetos. A seguir, explicaremos cada uma dessas funcionalidades.&#x20;
 
 ### Informações disponíveis na lista de projetos
 
@@ -74,7 +74,7 @@ Ao clicar no botão **"Filtrar"**, o usuário possui à disposição os seguinte
 * **Conclusão** – filtra os projetos dentro de um período de datas de conclusão do projeto, mostrando na tabela apenas os que serão concluídos dentro dessa margem;&#x20;
 * **Registros excluídos** – quando um projeto é excluído, ele deixa de aparecer na tela principal de projetos. No entanto, por meio desse filtro, é possível mostrá-los selecionando “Exibir registros excluídos” ou “Somente registros excluídos” (essa explicação está mais detalhada no item [Exclusão de projetos cadastrados](edicao-e-exclusao/exclusao-de-projetos-cadastrados.md));
 * **Possui relação com os resultados-chave do Planejamento Estratégico da SMDHC?** – filtra apenas os projetos que possuem relação direta (ou não) com o Planejamento Estratégico;
-* **Periodicidade de Monitoramento** – filtra os projetos a partir de sua periodicidade de monitoramento, para aqueles que possuem periodicidade definida;&#x20;
+* **Periodicidade de Monitoramento** – filtra os projetos a partir de sua periodicidade de monitoramento, para aqueles que possuem periodicidade definida;
 * **Objetivo Estratégico** – filtra todos os projetos relacionados ao mesmo Objetivo Estratégico do Planejamento Estratégico. É possível selecionar mais de uma opção;
 * **Resultado-Chave** – filtra todos os projetos relacionados ao mesmo resultado-chave do Planejamento Estratégico. É possível selecionar mais de uma opção.
 
