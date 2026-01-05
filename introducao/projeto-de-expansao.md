@@ -14,16 +14,6 @@ Entre **04/04/2025 e 31/07/2025**, foram lançadas diversas versões que compõe
 
 Após **1 ano** de existência (em 31/07/2025), o SIAD já estava implantado em 86% de toda a rede de atendimentos SMDHC, com mais de 28 mil cadastros e 38 mil registros de atendimentos.
 
-{% hint style="info" %}
-Espera-se que, até o final de **2025**, o sistema já possibilite o registro dos atendimentos e atividades de toda a nossa rede de direitos humanos, gerando os principais indicadores para o trabalho das coordenações.
-{% endhint %}
-
-{% hint style="info" %}
-Além da expansão, também estamos planejando, para 2025, o desenvolvimento de novas funcionalidades, como:
-
-* Novos relatórios, painéis e indicadores;
-* Cadastro de Desaparecidos;
-* Gestão de Benefícios;
-* Gestão de Programas;
-* Agendamento.
+{% hint style="success" %}
+O projeto de expansão do SIAD foi concluído em **31/10/2025**, alcançando implantação em 100% da rede de atendimento da SMDHC.
 {% endhint %}

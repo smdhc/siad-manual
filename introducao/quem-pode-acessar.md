@@ -1,11 +1,11 @@
 # Quem pode acessar?
 
-Nesse momento, todos os equipamentos da Rede de Atendimento SMDHC podem utilizar o sistema. O acesso está sendo concedido mediante cronograma de implantação e formação das equipes de atendimentos.
+Nesse momento, todos os equipamentos da [Rede de Atendimento SMDHC](https://rededireitoshumanos.prefeitura.sp.gov.br/) (exceto Segurança Alimentar e Conselhos Tutelares) podem utilizar o sistema.
 
-{% hint style="warning" %}
-Todos os novos equipamentos da rede passarão a utilizar automaticamente o SIAD.
-{% endhint %}
+Para solicitar acesso ao sistema, os(as) coordenadores(as) responsáveis pelos equipamentos deverão enviar um e-mail para [siad@prefeitura.sp.gov.br](mailto:siad@prefeitura.sp.gov.br), informando os seguintes dados dos(as) colaboradores(as) que irão utilizar efetivamente o sistema:
 
-Para saber se o seu equipamento já pode iniciar o uso do SIAD, entre em contato com a sua **coordenação responsável**.
-
-Caso o seu equipamento já esteja apto a utilizar o sistema, confira na página a seguir o procedimento para solicitar acesso.
+* Nome completo
+* CPF
+* E-mail individual
+* Cargo/Função
+* Número de conselho (se houver)
