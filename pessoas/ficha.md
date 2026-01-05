@@ -26,7 +26,7 @@ Você pode recolher as seções clicando no título ou na seta no canto superior
 Por exemplo, "Prontuários" está recolhida e "Documentos" está expandida.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Prontuário recolhido / Prontuário expandido</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Prontuário recolhido / Prontuário expandido</p></figcaption></figure>
 
 
 

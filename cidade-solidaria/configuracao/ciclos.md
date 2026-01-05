@@ -18,7 +18,7 @@ Para cadastrar um novo ciclo, clique no botão "<mark style="background-color:$p
 
 Na tela de cadastro, informe o período desejado e clique em "<mark style="background-color:$primary;">**Criar**</mark>".
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 O sistema não permitirá cadastrar ciclos para o mesmo período.

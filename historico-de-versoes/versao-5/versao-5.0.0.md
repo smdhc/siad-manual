@@ -24,7 +24,7 @@ Nesse primeiro momento, a base será primordialmente utilizada no cadastro de fa
 
 Além disso, conforme imagem abaixo, a ficha de cadastro da pessoa já passará a exibir a informação se um cadastro do SIAD está na base do CadÚnico e sua respectiva data da última atualização.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 A base do CadÚnico é atualizada mensalmente e depende da disponibilização periódica por parte da SMADS, podendo assim não exibir a informação de pessoas que foram cadastradas recentemente. Para saber a data da atualização da base, basta passar o mouse por cima do campo "Cadastrada(o) no CadÚnico?".
@@ -71,7 +71,7 @@ Essa configuração ocorrerá conforme o cadastro dos profissionais forem atuali
 
 ### Cadastro de Organizações - Ficha de Cadastro
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Nova ficha de cadastro da organização</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Nova ficha de cadastro da organização</p></figcaption></figure>
 
 O Cadastro de Organizações foi repaginado de forma a seguir o mesmo padrão do Cadastro de Pessoas, o que permitirá visualizar de uma forma mais fácil os seus relacionamentos com equipamentos, programas entre outros.
 

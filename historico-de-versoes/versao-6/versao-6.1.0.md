@@ -12,9 +12,9 @@ Confira abaixo todos os detalhes dessa atualização.
 
 ### Atendimentos - Impressão do atendimento
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Foi disponibilizado um novo botão na tela de visualização que permite imprimir a ficha de atendimento.
 
