@@ -22,6 +22,17 @@ Disponibilizado novo formulário para habilitação de entidades de defesa e/ou 
 
 Foi disponibilizado um novo item de menu, “Histórico de Alterações”, na Ficha de Cadastro da Pessoa, que permite aos administradores do sistema visualizar, campo a campo, todas as alterações realizadas no cadastro.
 
+### Projetos - Melhorias e ajustes diversos
+
+Foram realizadas as seguintes melhorias e ajustes no SIAD Projetos:
+
+* O sistema passa a solicitar uma justificativa caso algum dos seguintes campos sejam alterados, no cadastro da etapa: Nome e Responsável Principal.
+* O sistema passa a solicitar uma jutificativa ao excluir uma etapa de um projeto.
+* Ajustado título da tela de Etapas para "Lista de Etapas".
+* Foram corrigidos os títulos das janelas de anexos do projeto.
+* Foram removidas as menções de anos nos critérios de planejamento.
+* A data de início do projeto passa a ser obrigatória.
+
 ## Ajustes
 
 ### Cadastro de Pessoas
