@@ -37,6 +37,7 @@ Foram realizadas as seguintes melhorias e ajustes no SIAD Projetos:
 * Foram removidas as menções de anos nos critérios de planejamento.
 * A data de início do projeto passa a ser obrigatória.
 * Foi corrigido o link de acesso aos manuais do sistema.
+* Foi corrrigido erro que era exibido ao tentar ordenar pela coluna "Responsável Principal".
 
 ## Ajustes
 
