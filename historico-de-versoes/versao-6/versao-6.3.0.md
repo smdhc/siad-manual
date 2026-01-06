@@ -16,6 +16,10 @@ Disponibilizado novo formulário para habilitação de entidades de defesa e/ou 
 
 ## Melhorias
 
+### Atendimentos
+
+* Correção do impresso de atendimentos com listas extensas.
+
 ### Cadastro de Pessoas - Histórico de Alterações
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
