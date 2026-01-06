@@ -21,3 +21,9 @@ Disponibilizado novo formulário para habilitação de entidades de defesa e/ou 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Foi disponibilizado um novo item de menu, “Histórico de Alterações”, na Ficha de Cadastro da Pessoa, que permite aos administradores do sistema visualizar, campo a campo, todas as alterações realizadas no cadastro.
+
+## Ajustes
+
+### Cadastro de Pessoas
+
+* A lista de países foi corrigida, uma vez que a China aparecia repetida três vezes.
