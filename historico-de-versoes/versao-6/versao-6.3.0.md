@@ -44,3 +44,7 @@ Foram realizadas as seguintes melhorias e ajustes no SIAD Projetos:
 ### Cadastro de Pessoas
 
 * A lista de países foi corrigida, uma vez que a China aparecia repetida três vezes.
+
+### Encaminhamentos
+
+* Correção de erro ao tentar gravar encaminhamento feito fora do cadastro da pessoa.
