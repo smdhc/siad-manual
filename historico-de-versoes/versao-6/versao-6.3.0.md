@@ -22,7 +22,7 @@ Disponibilizado novo formulário para habilitação de entidades de defesa e/ou 
 
 ### Cadastro de Pessoas - Histórico de Alterações
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Foi disponibilizado um novo item de menu, “Histórico de Alterações”, na Ficha de Cadastro da Pessoa, que permite aos administradores do sistema visualizar, campo a campo, todas as alterações realizadas no cadastro.
 

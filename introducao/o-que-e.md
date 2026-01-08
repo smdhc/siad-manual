@@ -12,6 +12,8 @@ O sistema possibilita um acompanhamento mais amplo e minucioso de casos de viol�
 
 Além disso, os dados coletados auxiliam num processo de **tomada de decisão** mais qualificado para o desenvolvimento de políticas públicas e seus projetos.&#x20;
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 Confira também o vídeo explicativo desta funcionalidade:
 
 {% hint style="info" %}
