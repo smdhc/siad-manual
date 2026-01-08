@@ -117,6 +117,7 @@
   * [Versão 6.1.0](historico-de-versoes/versao-6/versao-6.1.0.md)
   * [Versão 6.2.0](historico-de-versoes/versao-6/versao-6.2.0.md)
   * [Versão 6.3.0](historico-de-versoes/versao-6/versao-6.3.0.md)
+  * [Versão 6.4.0](historico-de-versoes/versao-6/versao-6.4.0.md)
 * [Versão 5](historico-de-versoes/versao-5/README.md)
   * [Versão 5.0.0](historico-de-versoes/versao-5/versao-5.0.0.md)
   * [Versão 5.1.0](historico-de-versoes/versao-5/versao-5.1.0.md)
