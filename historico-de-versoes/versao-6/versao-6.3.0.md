@@ -16,10 +16,6 @@ Disponibilizado novo formulário para habilitação de entidades de defesa e/ou 
 
 ## Melhorias
 
-### Atendimentos
-
-* Correção do impresso de atendimentos com listas extensas.
-
 ### Cadastro de Pessoas - Histórico de Alterações
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
@@ -40,6 +36,10 @@ Foram realizadas as seguintes melhorias e ajustes no SIAD Projetos:
 * Foi corrrigido erro que era exibido ao tentar ordenar pela coluna "Responsável Principal".
 
 ## Ajustes
+
+### Atendimentos
+
+* Correção do impresso de atendimentos com listas extensas.
 
 ### Cadastro de Pessoas
 
