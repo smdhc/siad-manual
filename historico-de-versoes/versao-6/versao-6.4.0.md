@@ -27,3 +27,6 @@ Foram realizados os seguintes ajustes e melhorias no módulo de Encaminhamentos:
 * Foi disponibilizado um novo filtro "Termo de busca" que permite realizar buscas por termos específicos dentro do conteúdo dos encaminhamentos.
 * O rol de opções de cores do conteúdo foi simplificado.
 
+### Usuários / Profissionais - Ocupação obrigatória
+
+O campo "Ocupação" passa a ser obrigatório no cadastro de usuários.
