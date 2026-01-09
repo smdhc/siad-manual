@@ -14,6 +14,16 @@ Confira abaixo todos os detalhes dessa atualização.
 
 Foi disponibilizado um novo filtro "Termo de busca" que permite realizar buscas por termos específicos dentro do conteúdo dos atendimentos.
 
-### Encaminhamentos
+### Encaminhamentos - Melhorias e ajustes diversos
 
-Foi disponibilizado um novo filtro "Termo de busca" que permite realizar buscas por termos específicos dentro do conteúdo dos encaminhamentos.
+Foram realizados os seguintes ajustes e melhorias no módulo de Encaminhamentos:
+
+* Os campos de profissionais do registro de encaminhamento foram substituídos por uma listagem dos profissionais cadastrados no equipamento, permitindo a seleção de múltiplos profissionais. Esse função está disponível somente para novos encaminhamentos. Os encaminhamentos antigos continuarão exibindo os campos antigos.
+* Foi adicionada uma nova opção que permite habilitar ou desabilitar as assinaturas no encaminhamento impresso.
+* Foi adicionado um novo filtro de profissionais na tela de listagem de encaminhamentos, funcionando somente para novos encaminhamentos nesse novo formato.
+* O campo "Endereço da instituição" (nos casos externos) foi ampliado, passando a aceitar um conteúdo maior, se necessário.
+* Corrigida a cor padrão do conteúdo do encaminhamento na impressão.
+* Foram removidas as linhas separatórias no impresso.
+* Foi disponibilizado um novo filtro "Termo de busca" que permite realizar buscas por termos específicos dentro do conteúdo dos encaminhamentos.
+* O rol de opções de cores do conteúdo foi simplificado.
+
