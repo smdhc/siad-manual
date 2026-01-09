@@ -48,3 +48,9 @@ Foram realizadas as seguintes melhorias e ajustes no SIAD Projetos:
 ### Encaminhamentos
 
 * Correção de erro ao tentar gravar encaminhamento feito fora do cadastro da pessoa.
+
+### Hotfixes
+
+Após a publicação da versão, foi necessário realizar alguns ajustes, conforme abaixo:
+
+* v6.3.1: Correção de erro ao registrar atendimento de imigrantes para pessoa cadastrada sem situação migratória.
