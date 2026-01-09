@@ -14,6 +14,10 @@ Confira abaixo todos os detalhes dessa atualização.
 
 Foi disponibilizado um novo filtro "Termo de busca" que permite realizar buscas por termos específicos dentro do conteúdo dos atendimentos.
 
+### Cadastro de Pessoas - Permissão de campos obrigatórios
+
+Foi criada uma nova permissão para Administradores que possibilita a edição de cadastros sem os campos obrigatórios.
+
 ### Encaminhamentos - Melhorias e ajustes diversos
 
 Foram realizados os seguintes ajustes e melhorias no módulo de Encaminhamentos:
