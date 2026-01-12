@@ -54,3 +54,4 @@ Foram realizadas as seguintes melhorias e ajustes no SIAD Projetos:
 Após a publicação da versão, foi necessário realizar alguns ajustes, conforme abaixo:
 
 * v6.3.1: Correção de erro ao registrar atendimento de imigrantes para pessoa cadastrada sem situação migratória.
+* v6.3.2: Correção de erro ao tentar fazer o download de anexos múltiplos na tela de acompanhamento das Eleições COMPLIR 2026.
