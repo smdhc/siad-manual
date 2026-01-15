@@ -8,6 +8,21 @@ A **versão 6.4.0** do SIAD é uma versão que traz melhorias e ajustes diversos
 
 Confira abaixo todos os detalhes dessa atualização.
 
+## Novas funcionalidades
+
+### Atendimentos - Formulários Externos Dinâmicos
+
+Foi implementada uma nova funcionalidade na tela de configuração dos Tipos de Atendimento, que permite a configuração dinâmica de formulários externos integrados ao registro de atendimento do SIAD. Esses formulários poderão ser utilizados em eventos específicos, como o Carnaval e a Virada Cultural, entre outros.
+
+Mudanças implementadas na funcionalidade Tipo de Atendimento:
+
+* Novo tipo de Visibilidade "Externo";
+* Nova seção "Configurações do Formulário" vinculada à visibilidade "Externo";
+* Páginas externas (com prefixo "/public/") geradas dinamicamente a partir dessas configurações;
+* Número de colunas do formulário de atendimento passa a ser configurável;
+* Nova função de duplicação de Tipos de Atendimentos;
+* Nova configuração de atributo que permite somar seu respectivo valor à quantidade total do atendimento.
+
 ## Melhorias
 
 ### Atendimentos - Filtro de conteúdo
