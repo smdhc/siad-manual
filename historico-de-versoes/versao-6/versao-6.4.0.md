@@ -23,6 +23,12 @@ Mudanças implementadas na funcionalidade Tipo de Atendimento:
 * Nova função de duplicação de Tipos de Atendimentos;
 * Nova configuração de atributo que permite somar seu respectivo valor à quantidade total do atendimento.
 
+### Projetos - Monitoramento de indicadores
+
+Foi criada uma nova tela para cadastro de Indicadores, acessível tanto pelo menu principal quanto pelo projeto.&#x20;
+
+Além disso, foram adicionados novos campos no cadastro de resultados-chave, permitindo a configuração de indicadores relacionados.
+
 ## Melhorias
 
 ### Atendimentos - Filtro de conteúdo
