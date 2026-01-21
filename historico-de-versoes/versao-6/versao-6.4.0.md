@@ -33,9 +33,10 @@ Os projetos passam a aceitar também múltiplos objetivo estratégicos/resultado
 
 ## Melhorias
 
-### Atendimentos - Filtro de conteúdo
+### Atendimentos - Melhorias e ajustes diversos
 
-Foi disponibilizado um novo filtro "Termo de busca" que permite realizar buscas por termos específicos dentro do conteúdo dos atendimentos.
+* Foi disponibilizado um novo filtro "Termo de busca" que permite realizar buscas por termos específicos dentro do conteúdo dos atendimentos.
+* Adicionada nova configuração (administradores) que permite ordenar e pesquisar listas nos formulários de atendimento.
 
 ### Cadastro de Pessoas - Revisão da impressão
 
