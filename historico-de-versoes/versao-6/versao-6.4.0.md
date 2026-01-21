@@ -37,6 +37,7 @@ Os projetos passam a aceitar também múltiplos objetivo estratégicos/resultado
 
 * Foi disponibilizado um novo filtro "Termo de busca" que permite realizar buscas por termos específicos dentro do conteúdo dos atendimentos.
 * Adicionada nova configuração (administradores) que permite ordenar e pesquisar listas nos formulários de atendimento.
+* Adicionada nova configuração (administradores) que permite quebrar linha e ocultar campos do formulário externo.
 
 ### Cadastro de Pessoas - Revisão da impressão
 
