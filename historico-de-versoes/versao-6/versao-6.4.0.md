@@ -29,6 +29,8 @@ Foi criada uma nova tela para cadastro de Indicadores, acessível tanto pelo men
 
 Além disso, foram adicionados novos campos no cadastro de resultados-chave, permitindo a configuração de indicadores relacionados.
 
+Os projetos passam a aceitar também múltiplos objetivo estratégicos/resultados-chave.
+
 ## Melhorias
 
 ### Atendimentos - Filtro de conteúdo
