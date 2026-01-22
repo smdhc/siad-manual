@@ -23,6 +23,10 @@ Mudanças implementadas na funcionalidade Tipo de Atendimento:
 * Nova função de duplicação de Tipos de Atendimentos;
 * Nova configuração de atributo que permite somar seu respectivo valor à quantidade total do atendimento.
 
+### Formulários - Edital Meu Trampo é Empreender
+
+Foi disponibilizado um novo formulário para o futuro Edital do Meu Trampo é Empreender (2026).
+
 ### Projetos - Monitoramento de indicadores
 
 Foi criada uma nova tela para cadastro de Indicadores, acessível tanto pelo menu principal quanto pelo projeto.&#x20;
