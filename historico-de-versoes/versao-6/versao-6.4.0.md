@@ -60,6 +60,10 @@ Foram realizados os seguintes ajustes e melhorias no módulo de Encaminhamentos:
 * Foi disponibilizado um novo filtro "Termo de busca" que permite realizar buscas por termos específicos dentro do conteúdo dos encaminhamentos.
 * O rol de opções de cores do conteúdo foi simplificado.
 
+### Transcidadania - Novas regras de desconto 2026
+
+Foi implementada nova regra de desconto de frequências a partir de 2026. Além disso, foi adicionada uma nova configuração de pagamentos, que permitirá calcular o valor do benefício no registro da frequência.
+
 ### Usuários / Profissionais - Ocupação obrigatória
 
 O campo "Ocupação" passa a ser obrigatório no cadastro de usuários.
