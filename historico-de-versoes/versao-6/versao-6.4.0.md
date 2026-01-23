@@ -31,9 +31,11 @@ Foi disponibilizado um novo formulário para o futuro Edital do Meu Trampo é Em
 
 Foi criada uma nova tela para cadastro de Indicadores, acessível tanto pelo menu principal quanto pelo projeto.&#x20;
 
-Além disso, foram adicionados novos campos no cadastro de resultados-chave, permitindo a configuração de indicadores relacionados.
+Além disso, foram realizadas as seguintes melhorias e ajustes:
 
-Os projetos passam a aceitar também múltiplos objetivo estratégicos/resultados-chave.
+* Foram adicionados novos campos no cadastro de resultados-chave, permitindo a configuração de indicadores relacionados.
+* Os projetos passam a aceitar também múltiplos objetivo estratégicos/resultados-chave.
+* Será exibido um aviso caso haja mudança no status de uma etapa com projeto ainda não iniciado.
 
 ## Melhorias
 
@@ -42,6 +44,7 @@ Os projetos passam a aceitar também múltiplos objetivo estratégicos/resultado
 * Foi disponibilizado um novo filtro "Termo de busca" que permite realizar buscas por termos específicos dentro do conteúdo dos atendimentos.
 * Adicionada nova configuração (administradores) que permite ordenar e pesquisar listas nos formulários de atendimento.
 * Adicionada nova configuração (administradores) que permite quebrar linha e ocultar campos do formulário externo.
+* Foi adicionada uma nova configuração opcional de prazo em dias para inclusão/edição/exclusão do atendimento no Cadastro de Equipamentos, Grupos de Atendimentos e Tipos de Atendimentos. Caso configurado, o sistema não permitirá mais inserir, editar ou excluir atendimentos acima do prazo configurado.
 
 ### Cadastro de Pessoas - Revisão da impressão
 
@@ -63,6 +66,10 @@ Foram realizados os seguintes ajustes e melhorias no módulo de Encaminhamentos:
 * Foram removidas as linhas separatórias no impresso.
 * Foi disponibilizado um novo filtro "Termo de busca" que permite realizar buscas por termos específicos dentro do conteúdo dos encaminhamentos.
 * O rol de opções de cores do conteúdo foi simplificado.
+
+### Equipamentos
+
+Foi adicionado um novo menu lateral no cadastro de equipamentos, com a inclusão de um novo item de menu "Configurações", de forma a organizar melhor a funcionalidade.
 
 ### Transcidadania - Novas regras de desconto 2026
 
