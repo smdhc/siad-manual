@@ -47,13 +47,12 @@ Além disso, foram realizadas as seguintes melhorias e ajustes:
 * Foi adicionada uma nova configuração opcional de prazo em dias para inclusão/edição/exclusão do atendimento no Cadastro de Equipamentos, Grupos de Atendimentos e Tipos de Atendimentos. Caso configurado, o sistema não permitirá mais inserir, editar ou excluir atendimentos acima do prazo configurado.
 * Foi aplicada uma nova validação para impedir o cadastro de atributos com chave contendo caracteres especiais (que estavam causando erros).
 
-### Cadastro de Pessoas - Revisão da impressão
+### Cadastro de Pessoas - Melhorias e ajustes
 
-A impressão da Ficha de Cadastro da Pessoa foi revisada para ocupar menos espaço na folha e para seguir o padrão adotado nos demais impressos.
-
-### Cadastro de Pessoas - Permissão de campos obrigatórios
-
-Foi criada uma nova permissão para Administradores que possibilita a edição de cadastros sem os campos obrigatórios.
+* Foi adicionado um texto abaixo do campo de CPF que deixa mais explícito o mecanismo de sincronização do cadastro com o CadÚnico. Além disso, o modal de importação foi ajustado para trazer mais informações ao usuário (a permissão para essa funcionalidade será liberada em breve para toda a rede de atendimento).
+* Foi criada nova configuração para ligar/desligar a sincronização automática do cadastro com o CadÚnico.
+* A impressão da Ficha de Cadastro da Pessoa foi revisada para ocupar menos espaço na folha e para seguir o padrão adotado nos demais impressos.
+* Foi criada uma nova permissão para Administradores que possibilita a edição de cadastros sem os campos obrigatórios.
 
 ### Encaminhamentos - Melhorias e ajustes diversos
 
