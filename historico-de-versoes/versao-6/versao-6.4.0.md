@@ -1,5 +1,5 @@
 ---
-description: 'Data de lançamento: a definir'
+description: 'Data de lançamento: 29/01/2026'
 ---
 
 # Versão 6.4.0
