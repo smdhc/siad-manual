@@ -45,6 +45,7 @@ Além disso, foram realizadas as seguintes melhorias e ajustes:
 * Adicionada nova configuração (administradores) que permite ordenar e pesquisar listas nos formulários de atendimento.
 * Adicionada nova configuração (administradores) que permite quebrar linha e ocultar campos do formulário externo.
 * Foi adicionada uma nova configuração opcional de prazo em dias para inclusão/edição/exclusão do atendimento no Cadastro de Equipamentos, Grupos de Atendimentos e Tipos de Atendimentos. Caso configurado, o sistema não permitirá mais inserir, editar ou excluir atendimentos acima do prazo configurado.
+* Foi aplicada uma nova validação para impedir o cadastro de atributos com chave contendo caracteres especiais (que estavam causando erros).
 
 ### Cadastro de Pessoas - Revisão da impressão
 
