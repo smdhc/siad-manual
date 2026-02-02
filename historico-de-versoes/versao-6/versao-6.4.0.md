@@ -78,3 +78,7 @@ Foi implementada nova regra de desconto de frequências a partir de 2026. Além 
 ### Usuários / Profissionais - Ocupação obrigatória
 
 O campo "Ocupação" passa a ser obrigatório no cadastro de usuários.
+
+## Hotfixes
+
+* v6.4.1: Correção do layout de impressão de atendimento.
