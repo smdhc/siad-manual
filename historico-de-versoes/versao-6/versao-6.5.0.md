@@ -8,6 +8,12 @@ A **versão 6.5.0** do SIAD é uma versão que traz melhorias e ajustes diversos
 
 Confira abaixo todos os detalhes dessa atualização.
 
+## Melhorias
+
+### Cadastro de Pessoas - Transferência de Sigilo
+
+Foi adicionado um novo botão "Transferir sigilo" na Ficha de Cadastro da Pessoa, visível somente para administradores e para cadastros sigilosos, com janela que permite selecionar o cadastro destino e o modo de transferência (copiar ou mover).
+
 ## Ajustes
 
 ### Cadastro de Pessoas - Correção de erro ao consultar cadastro
