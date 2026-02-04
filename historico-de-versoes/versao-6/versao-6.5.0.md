@@ -10,9 +10,11 @@ Confira abaixo todos os detalhes dessa atualização.
 
 ## Melhorias
 
-### Cadastro de Pessoas - Transferência de Sigilo
+### Cadastro de Pessoas - Transferência de Sigilo e Atividades Coletivas
 
 Foi adicionado um novo botão "Transferir sigilo" na Ficha de Cadastro da Pessoa, visível somente para administradores e para cadastros sigilosos, com janela que permite selecionar o cadastro destino e o modo de transferência (copiar ou mover).
+
+Além disso, agora também é possível (mediante permissão de Administrador) transferir as atividades coletivas de um cadastro duplicado para outro.
 
 ## Ajustes
 
