@@ -10,6 +10,10 @@ Confira abaixo todos os detalhes dessa atualização.
 
 ## Melhorias
 
+### Atendimentos - Tela de acompanhamento externo
+
+Foi disponibilizada uma configuração que permite habilitar uma tela de acompanhamento para os formulários externos.
+
 ### Cadastro de Pessoas - Transferência de Sigilo e Atividades Coletivas
 
 Foi adicionado um novo botão "Transferir sigilo" na Ficha de Cadastro da Pessoa, visível somente para administradores e para cadastros sigilosos, com janela que permite selecionar o cadastro destino e o modo de transferência (copiar ou mover).
