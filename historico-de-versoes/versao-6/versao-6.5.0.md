@@ -22,6 +22,10 @@ Além disso, agora também é possível (mediante permissão de Administrador) t
 
 Foi corrigido um erro exibido ao tentar consultar um cadastro através da pesquisa global, no módulo "Admin".
 
+### Cadastro de Pessoas - Correção de erro gravar novo cadastro
+
+Foi corrigido um erro exibido ao gravar novos cadastros que possuíam CEP inválido no CadÚnico.
+
 ### Formulários externos - Ajustes diversos
 
 Foram realizados os seguintes ajustes nas configurações do formulário externo:
@@ -32,3 +36,7 @@ Foram realizados os seguintes ajustes nas configurações do formulário externo
 ### Meu Trampo - Ajustes de regras
 
 Foram realizados ajustes diversos nas regras de funcionamento da fase de recursos do Edital Meu Trampo é Empreender.
+
+### Transcidadania - Ajuste na sincronização de frequências
+
+A sincronização de frequências com o cadastro do Transcidadania foi desligada na edição de frequências, e mantida somente no registro de novas frequências.
