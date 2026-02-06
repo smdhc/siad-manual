@@ -1,5 +1,5 @@
 ---
-description: 'Previsão de lançamento: 05/02/2026'
+description: 'Previsão de lançamento: 10/02/2026'
 ---
 
 # Versão 6.5.0
