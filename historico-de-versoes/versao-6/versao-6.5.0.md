@@ -1,5 +1,5 @@
 ---
-description: 'Previsão de lançamento: 10/02/2026'
+description: 'Previsão de lançamento: 12/02/2026'
 ---
 
 # Versão 6.5.0
@@ -13,6 +13,8 @@ Confira abaixo todos os detalhes dessa atualização.
 ### Atendimentos - Tela de acompanhamento externo
 
 Foi disponibilizada uma configuração que permite habilitar uma tela de acompanhamento para os formulários externos.
+
+Além disso, foi implementada a possibilidade de vincular o atendimento à pessoa posteriormente, em modo de edição.
 
 ### Cadastro de Pessoas - Transferência de Sigilo e Atividades Coletivas
 
