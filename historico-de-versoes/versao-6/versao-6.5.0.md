@@ -10,6 +10,10 @@ Confira abaixo todos os detalhes dessa atualização.
 
 ## Melhorias
 
+### Atendimentos - Importação e exportação de tipos de atendimentos
+
+Foi disponibilzada uma funcionalidade de importação e exportação na tela de configuração dos tipos de atendimentos, permitindo migrar tipos de atendimentos entre ambientes (testes e produção, por exemplo).
+
 ### Atendimentos - Tela de acompanhamento externo
 
 Foi disponibilizada uma configuração que permite habilitar uma tela de acompanhamento para os formulários externos.
