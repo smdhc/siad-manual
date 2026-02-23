@@ -28,3 +28,8 @@ Foi disponibilizada uma nova funcionalidade que permite aos Administradores cria
 * Editais
 * Formulários públicos.
 
+## Ajustes
+
+### Projetos - Exibição do menu de indicadores
+
+A exibição do menu de indicadores, na ficha do projeto, foi corrigida, passando a considerar o novo relacionamento de um projeto podendo ter múltiplos resultados-chaves.
