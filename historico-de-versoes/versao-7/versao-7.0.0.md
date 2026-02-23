@@ -28,6 +28,18 @@ Foi disponibilizada uma nova funcionalidade que permite aos Administradores cria
 * Editais
 * Formulários públicos.
 
+## Melhorias
+
+### Usuários - Troca de Equipamentos e de Módulos
+
+<figure><img src="../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
+
+O menu de navegação superior do SIAD foi alterado da seguinte forma:
+
+* Exibição do equipamento em que o usuário está logado;
+* Funcionalidade de troca de equipamento para usuários que possem múltiplos vínculos;
+* Funcionalidade de troca de módulos para usuários com permissão em múltiplos módulos do sistema.
+
 ## Ajustes
 
 ### Projetos - Exibição do menu de indicadores
