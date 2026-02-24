@@ -46,7 +46,7 @@ Por enquanto somente o SIAD-Projetos está disponível.&#x20;
 {% step %}
 #### Clique no botão "Projetos"
 
-O botão "Projetos" está no canto esquerdo, na sessão "Gestão de Projetos".&#x20;
+O botão "Projetos" está no canto esquerdo, na seção "Gestão de Projetos".&#x20;
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2025-03-24 113128.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
