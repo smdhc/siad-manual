@@ -46,6 +46,14 @@ O menu de navegação superior do SIAD foi alterado da seguinte forma:
 
 Corrigido erro apresentado em alguns casos quando o campo de CPF ainda não havia sido completamente exibido.
 
+### Projetos - Correção de justificativa de edição
+
+Corrigido problema ao justificar edição de um projeto contendo erros de validação. Ao invés de um popup, o campo de justificativa passa a ser exibido no próprio formulário de edição do projeto.
+
+### Projetos - Correção da obrigatoriedade de campos
+
+Foi corrigida a obrigatoriedade dos campos de objetivos estratégicos e resultados-chaves.
+
 ### Projetos - Exibição do menu de indicadores
 
 A exibição do menu de indicadores, na ficha do projeto, foi corrigida, passando a considerar o novo relacionamento de um projeto podendo ter múltiplos resultados-chaves.
