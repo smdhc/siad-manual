@@ -42,6 +42,10 @@ O menu de navegação superior do SIAD foi alterado da seguinte forma:
 
 ## Ajustes
 
+### Autenticação - Correção de erro de CPF
+
+Corrigido erro apresentado em alguns casos quando o campo de CPF ainda não havia sido completamente exibido.
+
 ### Projetos - Exibição do menu de indicadores
 
 A exibição do menu de indicadores, na ficha do projeto, foi corrigida, passando a considerar o novo relacionamento de um projeto podendo ter múltiplos resultados-chaves.
