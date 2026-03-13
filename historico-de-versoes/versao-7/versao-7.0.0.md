@@ -30,6 +30,10 @@ Foi disponibilizada uma nova funcionalidade que permite aos Administradores cria
 
 ## Melhorias
 
+### Equipamentos - Inclusão de Distrito e Subprefeitura na API
+
+Foram incluídos os campos de Distrito e Subprefeitura na API de equipamentos do SIAD.
+
 ### Usuários - Troca de Equipamentos e de Módulos
 
 <figure><img src="../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
