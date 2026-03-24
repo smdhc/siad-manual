@@ -10,15 +10,15 @@ Caso precise alterar alguma informação no cadastro de projetos ou atualizar se
 
 1. Selecionar a linha do projeto na tabela inicial (o que abrirá a Ficha do Projeto) e clicar em _<mark style="color:$info;">Editar Projeto</mark>_, no menu lateral, à esquerda da tela;&#x20;
 
-<figure><img src="../../../.gitbook/assets/xx3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/editar projeto.png" alt=""><figcaption></figcaption></figure>
 
 2. Selecionar a linha do projeto na tabela inicial (o que abrirá a Ficha do Projeto) e clicar no botão _<mark style="color:purple;">Editar</mark>_, no canto superior direito da tela;&#x20;
 
-<figure><img src="../../../.gitbook/assets/xx4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/editar projeto 2.png" alt=""><figcaption></figcaption></figure>
 
 2. Clicar nos 3 pontos no canto direito da linha da tabela inicial e clicar em _<mark style="color:purple;">Editar</mark>_.&#x20;
 
-<figure><img src="../../../.gitbook/assets/xx6 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/editar 3.png" alt=""><figcaption></figcaption></figure>
 
 Depois, basta alterar as informações desejadas e selecionar o botão _<mark style="color:purple;">Salvar</mark>_, na parte de baixo da tela. &#x20;
 

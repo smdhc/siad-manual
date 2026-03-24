@@ -81,6 +81,7 @@
     * [Alteração de ordem das etapas](planejamento/siad-projetos/cronograma/alteracao-de-ordem-das-etapas.md)
     * [Edição de etapas](planejamento/siad-projetos/cronograma/edicao-de-etapas.md)
     * [Exclusão de etapas](planejamento/siad-projetos/cronograma/exclusao-de-etapas.md)
+  * [Indicadores](planejamento/siad-projetos/indicadores.md)
   * [Anexos](planejamento/siad-projetos/anexos.md)
 
 ## Cidade Solidária

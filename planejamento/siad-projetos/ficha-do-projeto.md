@@ -8,9 +8,9 @@ A ficha do projeto reúne todas as informações cadastradas em um só espaço, 
 
 A ficha está organizada em abas, cujo conteúdo é igual ao conteúdo preenchido no cadastro, com uma única exceção: a aba de <mark style="color:$info;">Critérios de Planejamento</mark>\*.&#x20;
 
-Por meio do menu lateral da ficha, é possível navegar no modo de visualização, no modo de edição, acessar o cronograma, a parte de anexos, as edições e o histórico de alterações.&#x20;
+Por meio do menu lateral da ficha, é possível navegar no modo de visualização, no modo de edição, acessar o cronograma, os indicadores, os anexos, as edições e o histórico de alterações.&#x20;
 
-<figure><img src="../../.gitbook/assets/xx1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/projeto.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 \*A aba de <mark style="color:$info;">Critérios de Planejamento</mark> é preenchida exclusivamente por CPI e só aparecerá para as áreas quando CPI já tiver validado os critérios. Assim, não se preocupe se essa aba não for exibida para você quando abrir a ficha de um projeto.&#x20;
@@ -27,5 +27,5 @@ Aberta a lista de projetos, existem duas formas de acessar a ficha de um projeto
 1. Clique em **qualquer lugar da linha do projeto**. Assim, você será redirecionado automaticamente para a sua ficha;
 2. No canto direito da linha do projeto, vá até o canto direito e clique no botão com três pontos na vertical. Feito isso, clique no botão "<mark style="color:$info;">**Visualizar**</mark>". &#x20;
 
-<figure><img src="../../.gitbook/assets/xx5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/visualizar.png" alt=""><figcaption></figcaption></figure>
 
