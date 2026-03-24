@@ -30,7 +30,7 @@ Para mais informações sobre a realização de login no SIAD, consulte [acesso.
 Existem dois níveis de acesso ao SIAD-Projetos:
 
 * Perfil das áreas: acesso e edição apenas das entregas da própria área;
-* Perfil de administrador (admin): acesso das entregas de todas as áreas e realização da priorização, sem poder alterar os dados cadastrados pelo perfil das áreas.
+* Perfil de administrador (admin): acesso e edição das entregas de todas as áreas e realização da priorização.
 
 A classificação dos níveis de acesso será feita por CPI.&#x20;
 

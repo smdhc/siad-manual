@@ -16,19 +16,15 @@ Caso precise alterar alguma informação no cadastro de projetos ou atualizar se
 
 <figure><img src="../../../.gitbook/assets/editar projeto 2.png" alt=""><figcaption></figcaption></figure>
 
-2. Clicar nos 3 pontos no canto direito da linha da tabela inicial e clicar em _<mark style="color:purple;">Editar</mark>_.&#x20;
+3. Clicar nos 3 pontos no canto direito da linha da tabela inicial (Lista de Projetos) e clicar em _<mark style="color:purple;">Editar</mark>_.&#x20;
 
 <figure><img src="../../../.gitbook/assets/editar 3.png" alt=""><figcaption></figcaption></figure>
 
-Depois, basta alterar as informações desejadas e selecionar o botão _<mark style="color:purple;">Salvar</mark>_, na parte de baixo da tela. &#x20;
+Depois, basta alterar as informações desejadas e selecionar o botão _<mark style="color:purple;">Salvar</mark>_, no final da tela, à esquerda. &#x20;
 
 <figure><img src="../../../.gitbook/assets/xx7 (1).png" alt=""><figcaption></figcaption></figure>
 
-Ao selecionar esse botão, é obrigatório informar uma **justificativa** para as alterações. Essa etapa é importante para que seja possível um acompanhamento mais detalhado do projeto.&#x20;
-
-{% hint style="danger" %}
-Não é possível editar os campos _Nome_ e _Área Responsável_.&#x20;
-{% endhint %}
+Ao selecionar esse botão, é obrigatório informar uma **justificativa** para as alterações<mark style="color:$danger;background-color:yellow;">\*</mark>. Essa etapa é importante para que seja possível um acompanhamento mais detalhado do projeto.&#x20;
 
 Após informar a justificativa, basta clicar em _<mark style="color:purple;">Enviar</mark>_ e as alterações serão salvas.&#x20;
 

@@ -36,7 +36,7 @@ A tabela com a lista de projetos estará sempre acompanhada das colunas:
 * Se é prioritário; e
 * Status indicado pela área
 
-<figure><img src="../../.gitbook/assets/colunas disponíveis.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/colunas.png" alt=""><figcaption></figcaption></figure>
 
 Além dessas, ao clicar no botão ao lado do campo de pesquisa, é possível incluir as seguintes colunas:
 

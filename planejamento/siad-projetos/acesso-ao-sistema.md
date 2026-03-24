@@ -38,7 +38,7 @@ Caso seja o seu primeiro acesso, siga as instruções em [cadastro-de-usuario.md
 
 Essa página conterá todas as funcionalidades do SIAD-Planejamento.&#x20;
 
-Por enquanto somente o SIAD-Projetos está disponível.&#x20;
+Por enquanto, somente o SIAD-Projetos está disponível.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
