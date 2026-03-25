@@ -50,3 +50,7 @@ Foram realizados ajustes diversos nas regras de funcionamento da fase de recurso
 ### Transcidadania - Ajuste na sincronização de frequências
 
 A sincronização de frequências com o cadastro do Transcidadania foi desligada na edição de frequências, e mantida somente no registro de novas frequências.
+
+## Hotfixes
+
+* v6.5.1: Ajuste na obrigatoriedade de campos do formulário do Meu Trampo.
