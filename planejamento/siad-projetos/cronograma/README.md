@@ -1,6 +1,6 @@
 # Cronograma
 
-O cronograma é a principal funcionalidade da parte de gestão de projetos do SIAD, já que possibilita a gestão e o acompanhamento das etapas necessárias para a conclusão de um projeto. Nessa seção, será explicado como produzir e atualizar um cronograma de projetos no sistema.&#x20;
+O cronograma é a principal funcionalidade da parte de gestão de projetos do SIAD, já que possibilita a gestão e o acompanhamento das **etapas** necessárias para a conclusão de um projeto. Nessa seção, será explicado como produzir e atualizar um cronograma de projetos no sistema.&#x20;
 
 ## Como acessar?
 
