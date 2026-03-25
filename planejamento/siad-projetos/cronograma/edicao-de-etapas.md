@@ -10,10 +10,12 @@ Esse botão abre o mesmo pop-up do cadastro da etapa, e é possível editar todo
 
 <figure><img src="../../../.gitbook/assets/xx14.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="background-color:yellow;">Qualquer alteração em qualquer um dos campos básicos exigirá uma</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**justificativa**</mark><mark style="background-color:yellow;">, que aparecerá automaticamente para preenchimento.</mark>
+Caso seja feita alguma alteração nos campos de _<mark style="color:$info;">Área Responsável</mark>_ ou _<mark style="color:$info;">Data Final</mark>_, um campo para **justificativa** aparecerá automaticamente para preenchimento. Os outros campos podem ser alterados livremente, sem necessidade de justificar.&#x20;
 
 <figure><img src="../../../.gitbook/assets/xx15.png" alt=""><figcaption></figcaption></figure>
 
-Os únicos campos que podem ser alterados livremente sem justificativa são os campos de _<mark style="color:$info;">Descrição da Etapa</mark>_ e de _<mark style="color:$info;">Anexos</mark>_.
+Além disso, é possível excluir os anexos da etapa, clicando no x à esquerda do anexo que se deseja excluir.
+
+<figure><img src="../../../.gitbook/assets/excluir anexo.png" alt=""><figcaption></figcaption></figure>
 
 Após alterar as informações, é necessário clicar em _<mark style="color:purple;">Salvar alterações</mark>_ para salvar a mudança.

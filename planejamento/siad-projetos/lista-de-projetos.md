@@ -53,7 +53,7 @@ Além dessas, ao clicar no botão ao lado do campo de pesquisa, é possível inc
 
 Por exemplo, quando selecionamos os itens "Área Corresponsável 1" e "Data do cadastro", a tabela de projetos ficará da seguinte forma:
 
-<figure><img src="../../.gitbook/assets/novas colunas.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 ### Filtro e Agrupamento dos projetos
 

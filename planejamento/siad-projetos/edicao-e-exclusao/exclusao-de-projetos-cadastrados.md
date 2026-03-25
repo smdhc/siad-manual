@@ -9,7 +9,7 @@ Para excluir um projeto salvo no SIAD, há dois caminhos:&#x20;
 <figure><img src="../../../.gitbook/assets/excluir.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Perceba: se você clicar nos 3 pontos da linha de um projeto pelo qual sua área não é a área responsável, mas corresponsável, o botão _<mark style="color:red;">Excluir</mark>_ não aparecerá.
+Perceba: se você clicar nos 3 pontos da linha de um projeto pelo qual sua área **não** é a área responsável, mas corresponsável, o botão _<mark style="color:red;">Excluir</mark>_ não aparecerá.
 {% endhint %}
 
 <div align="center" data-full-width="true"><figure><img src="../../../.gitbook/assets/sem excluir.png" alt="" width="191"><figcaption></figcaption></figure></div>

@@ -10,9 +10,9 @@ Para acessar a página de anexos, é possível acessar a ficha do projeto deseja
 
 <figure><img src="../../.gitbook/assets/xx27.png" alt=""><figcaption></figcaption></figure>
 
-Também é possível acessar essa parte diretamente clicando nos 3 pontos à direita do projeto na tabela inicial e selecionando _<mark style="color:$info;">Anexos</mark>_.&#x20;
+Também é possível acessar essa parte diretamente clicando nos 3 pontos à direita do projeto na tabela inicial (Lista de Projetos) e selecionando _<mark style="color:$info;">Anexos</mark>_.&#x20;
 
-<figure><img src="../../.gitbook/assets/xx7 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/anexoss (1).png" alt=""><figcaption></figcaption></figure>
 
 Após acessar a página de anexos, basta seguir o passo a passo:&#x20;
 
@@ -22,12 +22,12 @@ Após acessar a página de anexos, basta seguir o passo a passo:&#x20;
 
 2. Arraste o documento que deseja incluir ou selecione em seus arquivos;&#x20;
 
-<figure><img src="../../.gitbook/assets/xx28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/incluir anexo.png" alt=""><figcaption></figcaption></figure>
 
 3. Preencha a parte de descrição do anexo. Recomendamos que indique do que o documento se trata sucintamente;&#x20;
 4. Para salvar o documento, é possível clicar em _<mark style="color:purple;">Criar</mark>_ ou em _<mark style="color:$info;">Salvar e criar outro</mark>_. Esse último botão salva o documento incluso e volta para o início do passo a passo, para que seja possível anexar mais de um documento.
 
-{% hint style="warning" %}
+{% hint style="info" %}
 O SIAD Projetos aceita qualquer formato de documento.&#x20;
 {% endhint %}
 
@@ -39,16 +39,16 @@ Todos os arquivos anexados àquele projeto podem ser encontrados em uma tabela n
 
 <figure><img src="../../.gitbook/assets/xx29.png" alt=""><figcaption></figcaption></figure>
 
-Para abrir um documento salvo, é necessário clicar na linha do documento, e será possível fazer seu download.&#x20;
+Para abrir um documento salvo, é necessário clicar na linha do documento, e será possível abri-lo ou fazer seu download.&#x20;
 
-<figure><img src="../../.gitbook/assets/xx30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/baixar anexo.png" alt=""><figcaption></figcaption></figure>
 
 Também é possível visualizar, editar ou excluir um arquivo por meio dos 3 pontos no canto direito da respectiva linha.&#x20;
 
 <figure><img src="../../.gitbook/assets/xx2 (4).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Apenas o usuário que anexou um documento pode editá-lo ou excluí-lo.&#x20;
+Todos os usuários da área **responsável** e da área **corresponsável** pelo projeto podem editar ou excluir um documento anexado.
 {% endhint %}
 
 ### Anexos de Etapas
@@ -65,7 +65,7 @@ Nessa tabela, constam as seguintes informações:
 
 <figure><img src="../../.gitbook/assets/xx32.png" alt=""><figcaption></figcaption></figure>
 
-Da mesma forma, para abrir um documento salvo, é possível clicar na linha do documento. Isso abrirá o mesmo pop-up do cadastro e da visualização da etapa e, assim, também será possível fazer o download do arquivo.&#x20;
+Da mesma forma, para abrir um documento salvo, é possível clicar na linha do documento. Isso abrirá o mesmo pop-up do cadastro e da visualização da etapa e, assim, também será possível abrir o arquivo ou fazer o seu download.&#x20;
 
 <figure><img src="../../.gitbook/assets/xx34 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -73,4 +73,7 @@ Também é possível visualizar um arquivo por meio dos 3 pontos no canto direit
 
 <figure><img src="../../.gitbook/assets/xx33.png" alt=""><figcaption></figcaption></figure>
 
-x
+{% hint style="warning" %}
+Para excluir anexos de etapas, é necessário acessar diretamente a etapa desejada, clicar para editar a etapa e, então, excluir o anexo (como indicado na página [Edição de etapas](cronograma/edicao-de-etapas.md)).&#x20;
+{% endhint %}
+

@@ -24,12 +24,14 @@ Depois, basta alterar as informações desejadas e selecionar o botão _<mark st
 
 <figure><img src="../../../.gitbook/assets/xx7 (1).png" alt=""><figcaption></figcaption></figure>
 
-Ao selecionar esse botão, é obrigatório informar uma **justificativa** para as alterações<mark style="color:$danger;background-color:yellow;">\*</mark>. Essa etapa é importante para que seja possível um acompanhamento mais detalhado do projeto.&#x20;
+Caso seja feita alguma alteração nos campos de _<mark style="color:$info;">Nome do Projeto</mark>_, _<mark style="color:$info;">Área Responsável</mark>_ ou _<mark style="color:$info;">Data de Conclusão</mark>_, um campo para **justificativa** aparecerá automaticamente para preenchimento. Essa etapa é importante para que seja possível um acompanhamento mais detalhado do projeto e de suas atualizações mais importantes.&#x20;
 
 Após informar a justificativa, basta clicar em _<mark style="color:purple;">Enviar</mark>_ e as alterações serão salvas.&#x20;
 
 <figure><img src="../../../.gitbook/assets/xx8 (1).png" alt=""><figcaption></figcaption></figure>
 
-Caso queira abandonar o processo de edição sem salvar as alterações, basta clicar em _<mark style="color:$info;">Cancelar</mark>_, ao lado do botão _<mark style="color:purple;">Salvar</mark>_.&#x20;
+Os outros campos podem ser alterados livremente, sem necessidade de justificar.
+
+Ainda, caso queira abandonar o processo de edição sem salvar as alterações, basta clicar em _<mark style="color:$info;">Cancelar</mark>_, ao lado do botão _<mark style="color:purple;">Salvar</mark>_.&#x20;
 
 <figure><img src="../../../.gitbook/assets/xx9 (1).png" alt=""><figcaption></figcaption></figure>
