@@ -34,6 +34,10 @@ Foi disponibilizada uma nova funcionalidade que permite aos Administradores cria
 
 Foram incluídos os campos de Distrito e Subprefeitura na API de equipamentos do SIAD.
 
+### Profissionais - Edição de cadastro
+
+Foi liberada a permissão para edição do cadastro de profissionais para os equipamentos, podendo assim atualizar com informações de Ocupação e Conselho de Classe sem precisar solicitar via e-mail.
+
 ### Usuários - Troca de Equipamentos e de Módulos
 
 <figure><img src="../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
@@ -61,3 +65,7 @@ Foi corrigida a obrigatoriedade dos campos de objetivos estratégicos e resultad
 ### Projetos - Exibição do menu de indicadores
 
 A exibição do menu de indicadores, na ficha do projeto, foi corrigida, passando a considerar o novo relacionamento de um projeto podendo ter múltiplos resultados-chaves.
+
+### Projetos - Remoção de alerta de anexos
+
+Foi removido um alerta da tela de anexos que exibia orientação indevida sobre exclusão de anexos.
