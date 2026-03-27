@@ -38,6 +38,10 @@ Foram incluídos os campos de Distrito e Subprefeitura na API de equipamentos do
 
 Foi liberada a permissão para edição do cadastro de profissionais para os equipamentos, podendo assim atualizar com informações de Ocupação e Conselho de Classe sem precisar solicitar via e-mail.
 
+### Projetos - Validação de datas das etapas
+
+Foi removida a validação que impedia gravar uma etapa com data de início anterior à data de início do projeto ou com data fim posterior à data fim do projeto. Ao invés disso, será exibida uma mensagem de alerta não impeditiva, assim como a indicação de inconsistência na listagem de etapas.
+
 ### Usuários - Troca de Equipamentos e de Módulos
 
 <figure><img src="../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
