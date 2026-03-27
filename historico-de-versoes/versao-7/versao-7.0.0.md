@@ -34,6 +34,22 @@ Foi disponibilizada uma nova funcionalidade que permite aos Administradores cria
 
 Foram incluídos os campos de Distrito e Subprefeitura na API de equipamentos do SIAD.
 
+### Formulários - Novos componentes
+
+Foram disponibilizados os seguintes componentes para a funcionalidade de gerenciamento de atributos de formulários dinâmicos (somente admin):
+
+* Raça/Cor
+* Identidade de Gênero
+* Orientação Sexual
+* CPF
+* Tipo de Deficiência
+* País
+* Município
+* Condição de Moradia
+* Subprefeituras
+* Equipamentos
+* SEI
+
 ### Profissionais - Edição de cadastro
 
 Foi liberada a permissão para edição do cadastro de profissionais para os equipamentos, podendo assim atualizar com informações de Ocupação e Conselho de Classe sem precisar solicitar via e-mail.
