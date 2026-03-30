@@ -54,6 +54,10 @@ Foram disponibilizados os seguintes componentes para a funcionalidade de gerenci
 
 Foi liberada a permissão para edição do cadastro de profissionais para os equipamentos, podendo assim atualizar com informações de Ocupação e Conselho de Classe sem precisar solicitar via e-mail.
 
+### Projetos - Áreas Corresponsáveis
+
+O cadastro de projetos e etapas foi atualizado para permitir a associação de múltiplas áreas corresponsáveis. Anteriormente, era possível vincular apenas duas áreas, e as etapas não contavam com essa funcionalidade. Além disso, foram adicionados os filtros correspondentes em todas as telas.
+
 ### Projetos - Validação de datas das etapas
 
 Foi removida a validação que impedia gravar uma etapa com data de início anterior à data de início do projeto ou com data fim posterior à data fim do projeto. Ao invés disso, será exibida uma mensagem de alerta não impeditiva, assim como a indicação de inconsistência na listagem de etapas.
