@@ -28,7 +28,7 @@ Por exemplo: o resultado-chave 3A do Planejamento Estratégico ("_Realizar 10 fo
 
 Se a sua área possuir um projeto (ou mais de um) relacionado a este resultado-chave, você (ou a pessoa responsável na sua área) precisará responder periodicamente ao indicador relacionado.&#x20;
 
-Isso significa que, ao final de cada trimestre, as áreas que possuem projetos relacionados a este resultado devem acessar a Lista de Indicadores e devem preencher este indicador (que já terá sido cadastrado pela CPI) para cada um de seus projetos.
+Isso significa que, ao final de cada trimestre, a área deve acessar a Lista de Indicadores e preencher este indicador (que já terá sido cadastrado pela CPI) para cada um de seus projetos.
 
 Ao clicar em cima da linha do indicador, aparecerá um pop-up para esse preenchimento. A tela trará algumas informações:&#x20;
 
