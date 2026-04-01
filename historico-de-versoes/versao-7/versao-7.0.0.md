@@ -28,6 +28,10 @@ Foi disponibilizada uma nova funcionalidade que permite aos Administradores cria
 * Editais
 * Formulários públicos.
 
+### Selo Igualdade Racial 2026
+
+O formulário de inscrições para o Programa Selo Igualdade Racial foi reativado para receber as inscrições de 2026 (cronograma ainda a ser publicado em Edital).
+
 ## Melhorias
 
 ### Equipamentos - Inclusão de Distrito e Subprefeitura na API
