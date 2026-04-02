@@ -58,9 +58,11 @@ Foram disponibilizados os seguintes componentes para a funcionalidade de gerenci
 
 Foi liberada a permissão para edição do cadastro de profissionais para os equipamentos, podendo assim atualizar com informações de Ocupação e Conselho de Classe sem precisar solicitar via e-mail.
 
-### Projetos - Áreas Corresponsáveis
+### Projetos - Áreas Corresponsáveis e Envolvidas
 
 O cadastro de projetos e etapas foi atualizado para permitir a associação de múltiplas áreas corresponsáveis. Anteriormente, era possível vincular apenas duas áreas, e as etapas não contavam com essa funcionalidade. Além disso, foram adicionados os filtros correspondentes em todas as telas.
+
+Também foi inserido um novo conceito de "áreas envolvidas", tanto no projeto quanto nas etapas, que permite acesso de consulta às mesmas.
 
 ### Projetos - Validação de datas das etapas
 
@@ -81,6 +83,10 @@ O menu de navegação superior do SIAD foi alterado da seguinte forma:
 ### Autenticação - Correção de erro de CPF
 
 Corrigido erro apresentado em alguns casos quando o campo de CPF ainda não havia sido completamente exibido.
+
+### Projetos - Correção de erro ao anexar planilhas
+
+Corrigido erro que impossibilitava anexar planilhas às etapas de um projeto.
 
 ### Projetos - Correção de justificativa de edição
 
