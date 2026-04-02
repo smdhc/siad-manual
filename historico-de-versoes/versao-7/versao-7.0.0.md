@@ -64,6 +64,13 @@ O cadastro de projetos e etapas foi atualizado para permitir a associação de m
 
 Também foi inserido um novo conceito de "áreas envolvidas", tanto no projeto quanto nas etapas, que permite acesso de consulta às mesmas.
 
+### Projetos - Justificativas
+
+A exigência de justificativa ao editar um projeto e etapa foi revisto de forma a ser exigido somente nos seguintes casos:
+
+* Projetos: alteração do nome do projeto, área responsável ou data de conclusão;
+* Etapas: alteração da área responsável ou data de conclusão.
+
 ### Projetos - Validação de datas das etapas
 
 Foi removida a validação que impedia gravar uma etapa com data de início anterior à data de início do projeto ou com data fim posterior à data fim do projeto. Ao invés disso, será exibida uma mensagem de alerta não impeditiva, assim como a indicação de inconsistência na listagem de etapas.
