@@ -75,6 +75,20 @@ A exigência de justificativa ao editar um projeto e etapa foi revisto de forma 
 
 Foi removida a validação que impedia gravar uma etapa com data de início anterior à data de início do projeto ou com data fim posterior à data fim do projeto. Ao invés disso, será exibida uma mensagem de alerta não impeditiva, assim como a indicação de inconsistência na listagem de etapas.
 
+### Usuários - Nova forma de login
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+A tela de login do SIAD foi alterada de forma incluir uma etapa adicional de seleção de equipamentos/módulos após autenticação, conforme mudanças abaixo:
+
+* Todos os endereços de módulos do SIAD (ex: /atendimento, /planejamento etc.) passam a redirecionar para uma única tela de login central;
+* Seletor de equipamentos passa a ser exibido somente após autenticação;
+* Após selecionar o equipamento, serão exibidos os módulos que o usuário tem acesso.
+
+{% hint style="warning" %}
+Caso não seja exibido nenhum módulo após seleção do equipamento ou em caso de dúvidas, entre em contato através do e-mail **siad@prefeitura.sp.gov.br**.
+{% endhint %}
+
 ### Usuários - Troca de Equipamentos e de Módulos
 
 <figure><img src="../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
