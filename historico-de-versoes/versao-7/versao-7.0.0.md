@@ -69,6 +69,10 @@ O cadastro de projetos e etapas foi atualizado para permitir a associação de m
 
 Também foi inserido um novo conceito de "áreas envolvidas", tanto no projeto quanto nas etapas, que permite acesso de consulta às mesmas.
 
+### Projetos - Indicador de Subprefeitura
+
+O indicador do tipo "Subprefeitura" foi revisado de forma a exibir uma relação completa das subprefeituras com suas respectivas métricas. Além disso, foi removida a exigência de justificativa na alteração do indicador.
+
 ### Projetos - Justificativas
 
 A exigência de justificativa ao editar um projeto e etapa foi revisto de forma a ser exigido somente nos seguintes casos:
