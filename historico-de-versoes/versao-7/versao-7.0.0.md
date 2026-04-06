@@ -54,6 +54,11 @@ Foram disponibilizados os seguintes componentes para a funcionalidade de gerenci
 * Equipamentos
 * SEI
 
+### Infraestrutura - Melhorias de Infraestrutura e SEO
+
+* **Well-Known URLs (W3C):** Implementadas as rotas /.well-known/change-password (redirecionando para as configurações de perfil) e /.well-known/passkey-endpoints (sinalizando a compatibilidade base) para aprimorar o suporte e a facilitação nativa de gerenciadores de senhas e passkeys.&#x20;
+* **Open Graph (og:site\_name):** Adicionada a meta tag og:site\_name aos cabeçalhos globais do sistema, melhorando a identificação e a apresentação visual (prévias) do SIAD quando links são compartilhados ou interpretados por ferramentas e redes.
+
 ### Profissionais - Edição de cadastro
 
 Foi liberada a permissão para edição do cadastro de profissionais para os equipamentos, podendo assim atualizar com informações de Ocupação e Conselho de Classe sem precisar solicitar via e-mail.
