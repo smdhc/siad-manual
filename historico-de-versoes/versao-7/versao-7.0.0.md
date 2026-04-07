@@ -133,3 +133,7 @@ A exibição do menu de indicadores, na ficha do projeto, foi corrigida, passand
 ### Projetos - Remoção de alerta de anexos
 
 Foi removido um alerta da tela de anexos que exibia orientação indevida sobre exclusão de anexos.
+
+### Segurança - Correção de permissões
+
+Foi corrigido o permissionamento da funcionalidade de inscrições das Eleições COMPLIR.
