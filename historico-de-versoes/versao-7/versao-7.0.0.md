@@ -1,5 +1,5 @@
 ---
-description: 'Data de lançamento: a definir'
+description: 'Data de lançamento: 09/04/2026'
 ---
 
 # Versão 7.0.0
@@ -77,8 +77,12 @@ O indicador do tipo "Subprefeitura" foi revisado de forma a exibir uma relação
 
 A exigência de justificativa ao editar um projeto e etapa foi revisto de forma a ser exigido somente nos seguintes casos:
 
-* Projetos: alteração do nome do projeto, área responsável ou data de conclusão;
-* Etapas: alteração da área responsável ou data de conclusão.
+* Projetos: alteração do nome do projeto, área responsável, áreas corresponsáveis ou data de conclusão;
+* Etapas: alteração da área responsável, áreas corresponsáveis ou data de conclusão.
+
+### Projetos - Nome do módulo
+
+O nome do módulo "Planejamento" foi renomeado para "Projetos".
 
 ### Projetos - Validação de datas das etapas
 
@@ -113,6 +117,14 @@ O menu de navegação superior do SIAD foi alterado da seguinte forma:
 ### Autenticação - Correção de erro de CPF
 
 Corrigido erro apresentado em alguns casos quando o campo de CPF ainda não havia sido completamente exibido.
+
+### Formulários - Correção no download de arquivos
+
+Corrigido erro que era exibido ao tentar fazer download de anexos contendo caracteres especiais no nome do arquivo.
+
+### Projetos - Correção das mensagens de validação
+
+As mensagens de validação foram corrigidas de forma a exibir corretamente o nome do campo correspondente.
 
 ### Projetos - Correção de erro ao anexar planilhas
 
