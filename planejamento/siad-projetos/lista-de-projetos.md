@@ -20,6 +20,8 @@ Ainda, como indicado no início da tela, os projetos destacados em <mark style="
 
 <figure><img src="../../.gitbook/assets/projeto amarelo.png" alt=""><figcaption></figcaption></figure>
 
+Já os projetos com datas destacadas em vermelho indicam alguma inconsistência com relação às datas.&#x20;
+
 Explicaremos como acessar as informações detalhadas dos projetos em [ficha-do-projeto.md](ficha-do-projeto.md "mention").&#x20;
 
 A critério do usuário, é possível adicionar colunas na tabela e aplicar ferramentas de busca, filtragem e agrupação de projetos. A seguir, explicaremos cada uma dessas funcionalidades.&#x20;

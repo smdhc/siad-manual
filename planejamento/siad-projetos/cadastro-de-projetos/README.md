@@ -1,6 +1,6 @@
 ---
 description: >-
-  Nessa seção encontrará instruções de como cadastrar um projeto no
+  Nessa seção você encontrará instruções de como cadastrar um projeto no
   SIAD-Projetos.
 ---
 

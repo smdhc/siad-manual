@@ -8,19 +8,29 @@ description: >-
 
 ### Como acessar o SIAD-Projetos?
 
-Para acessar ao SIAD-Projetos, siga os passos a seguir
+Agora, o login para todos os módulos do SIAD será feito por meio do mesmo endereço. Para acessar o SIAD-Projetos, siga os passos a seguir.&#x20;
 
 {% stepper %}
 {% step %}
-#### Entre no link da página do SIAD-Projetos
+#### Entre no link da página do SIAD
 
-Link: [<mark style="color:blue;">https://siad.prefeitura.sp.gov.br/planejamento</mark>](https://siad.prefeitura.sp.gov.br/planejamento)
+Link: [<mark style="color:blue;">https://siad.prefeitura.sp.gov.br</mark>](https://siad.prefeitura.sp.gov.br/planejamento)
 {% endstep %}
 
 {% step %}
 #### Insira o login e senha enviados por CPI
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2025-11-12 161741.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/login (1).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+#### Selecione o equipamento e o módulo
+
+Caso você tenha cadastro autorizado para mais de uma coordenação/equipamento, selecione aquela para a(o) qual deseja o acesso.&#x20;
+
+Da mesma forma, você pode ter acesso a mais de um módulo do SIAD (Atendimento, Benefícios, Projetos etc.). Selecione o módulo "Projetos" e clique em Login.&#x20;
+
+<figure><img src="../../.gitbook/assets/login projetos.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
