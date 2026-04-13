@@ -10,7 +10,7 @@ A ficha está organizada em abas, cujo conteúdo é igual ao conteúdo preenchid
 
 Por meio do menu lateral da ficha, é possível navegar no modo de visualização, no modo de edição, acessar o cronograma, os indicadores (se houver - veja mais na página de [Indicadores](indicadores.md)), os anexos, as edições e o histórico de alterações.&#x20;
 
-<figure><img src="../../.gitbook/assets/projeto.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ficha do projeto.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 \*A aba de <mark style="color:$info;">Critérios de Planejamento</mark> é preenchida exclusivamente por CPI e só aparecerá para as áreas quando CPI já tiver validado os critérios. Assim, não se preocupe se essa aba não for exibida para você quando abrir a ficha de um projeto.&#x20;
