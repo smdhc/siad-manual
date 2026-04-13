@@ -28,7 +28,7 @@ Link: [<mark style="color:blue;">https://siad.prefeitura.sp.gov.br</mark>](https
 
 Caso você tenha cadastro autorizado para mais de uma coordenação/equipamento, selecione aquela para a(o) qual deseja o acesso.&#x20;
 
-Da mesma forma, você pode ter acesso a mais de um módulo do SIAD (Atendimento, Benefícios, Projetos etc.). Selecione o módulo "Projetos" e clique em Login.&#x20;
+Da mesma forma, você pode ter acesso a mais de um módulo do SIAD (Atendimento, Benefícios, Projetos etc.). Selecione o módulo "Projetos" e clique em <mark style="color:yellow;">Login</mark>.&#x20;
 
 <figure><img src="../../.gitbook/assets/login projetos.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -63,5 +63,13 @@ O botão "Projetos" está no canto esquerdo, na seção "Gestão de Projetos".&#
 {% endstepper %}
 
 A seguir, entrará na página **"Lista de Projetos"**, por meio da qual incluirá novos projetos e poderá visualizar os que já foram cadastrados.&#x20;
+
+Importante: se você possuir cadastro para mais de uma coordenação/equipamento e quiser alterar o login, basta clicar em um dos dois botões no menu superior direito da tela.&#x20;
+
+<figure><img src="../../.gitbook/assets/botao canto.png" alt=""><figcaption></figcaption></figure>
+
+Depois, aparecerá um campo para "Trocar de Equipamento". Basta selecionar a área com a qual deseja logar.&#x20;
+
+<figure><img src="../../.gitbook/assets/trocar de equipamento.png" alt="" width="297"><figcaption></figcaption></figure>
 
 Avance para entender como funciona a página **"Lista de Projetos"**.&#x20;

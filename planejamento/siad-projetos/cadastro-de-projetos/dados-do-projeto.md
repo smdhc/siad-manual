@@ -25,8 +25,16 @@ Ao clicar no botão, um texto explicativo aparecerá:
 
 É importante destacar que existem dois campos preenchidos _automaticamente_:&#x20;
 
-* O campo “**Área**”: preenchido com a área que o usuário indicou no formulário de cadastro de usuários do SIAD-Projetos;&#x20;
+* O campo “**Área Responsável**”: preenchido com a área que o usuário indicou no formulário de cadastro de usuários do SIAD-Projetos;&#x20;
 * Os campos “**E-mail do responsável principal**” e “**E-mail do responsável suplente**”: preenchidos com o e-mail vinculado ao usuário da pessoa apontada como responsável em algum dos dois campos.&#x20;
+
+Há ainda os campos "**Áreas Corresponsáveis**" e "**Outras Áreas Envolvidas**".&#x20;
+
+<figure><img src="../../../.gitbook/assets/áreas.png" alt=""><figcaption></figcaption></figure>
+
+As áreas corresponsáveis poderão editar e/ou excluir as informações do projeto e das etapas. Assim, você deve selecionar como área corresponsável apenas aquelas que realmente devam ter acesso completo ao projeto.&#x20;
+
+Já as áreas envolvidas poderão apenas visualizar as informações, mas não poderão editá-las nem excluí-las. Essa opção é relevante, especialmente quando você precisar que as áreas apenas tenham acesso rápido a um documento ou a um link, por exemplo, mas sem dar acesso completo.&#x20;
 
 {% hint style="warning" %}
 O usuário que realiza o cadastro de um projeto não precisa ser o responsável (principal ou suplente) pelo projeto. No entanto, para que uma pessoa seja apontada com responsável por um projeto, ela deve ter um cadastro no SIAD-Projetos.
