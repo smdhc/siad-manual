@@ -4,7 +4,7 @@ _<mark style="background-color:yellow;">Página em construção</mark>_
 
 Além da possibilidade de cadastrar etapas e anexar documentos, há uma outra funcionalidade da parte de gestão de projetos do SIAD: o cadastro de indicadores.&#x20;
 
-Os indicadores são métricas utilizadas para avaliar o desempenho, o progresso e o alcance de objetivos. No caso da SMDHC, são métricas que avaliam o progresso de projetos relacionados a resultados e objetivos específicos.&#x20;
+Os indicadores são métricas utilizadas para avaliar o desempenho, o progresso e o alcance de objetivos. No caso da SMDHC, métricas que avaliam o progresso de projetos relacionados a resultados e objetivos específicos.&#x20;
 
 A página "**Indicadores**" é acessada clicando em "Indicadores", no menu esquerdo da tela.&#x20;
 
@@ -15,7 +15,7 @@ Ao clicar, aparecerá a Lista de Indicadores, com todos os indicadores dos proje
 <figure><img src="../../.gitbook/assets/indicadores (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Por enquanto, apenas os projetos relacionados ao **Planejamento Estratégico** da SMDHC possuem indicadores cadastrados. Porém, a ideia é que, com o tempo, sejam incluídos _todos_ os projetos que possuem algum indicador.
+Por enquanto, apenas os projetos relacionados ao **Planejamento Estratégico** da SMDHC possuem indicadores cadastrados. Porém, a ideia é que, com o tempo, sejam cadastrados indicadores para _todos_ os projetos que possuem algum.
 {% endhint %}
 
 A CPI é quem irá cadastrar todos os indicadores, e há indicadores com diversas periodicidades – mensal, bimestral, trimestral, semestral ou anual.&#x20;

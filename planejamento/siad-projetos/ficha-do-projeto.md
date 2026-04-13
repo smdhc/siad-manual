@@ -8,7 +8,7 @@ A ficha do projeto reúne todas as informações cadastradas em um só espaço, 
 
 A ficha está organizada em abas, cujo conteúdo é igual ao conteúdo preenchido no cadastro, com uma única exceção: a aba de <mark style="color:$info;">Critérios de Planejamento</mark>\*.&#x20;
 
-Por meio do menu lateral da ficha, é possível navegar no modo de visualização, no modo de edição, acessar o cronograma, os indicadores (se houver - veja mais na página de [Indicadores](indicadores.md)), os anexos, as edições e o histórico de alterações.&#x20;
+Por meio do menu lateral da ficha, é possível navegar no modo de visualização, no modo de edição, acessar o cronograma, os indicadores (se houver - veja mais na página de [Indicadores](indicadores.md)), os anexos, as edições e o histórico de alterações. <mark style="color:$danger;">xxxxxxxxxx</mark>
 
 <figure><img src="../../.gitbook/assets/ficha do projeto.png" alt=""><figcaption></figcaption></figure>
 
