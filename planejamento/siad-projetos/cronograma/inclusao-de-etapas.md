@@ -12,11 +12,13 @@ Após clicar no botão, aparecerá um pop-up na tela com algumas informações n
 * Data Final;
 * Área Responsável;
 * Responsável Principal;
+* Áreas Corresponsáveis;
+* Áreas Envolvidas;
 * Descrição da Etapa; e
 * Anexos
 
 {% hint style="warning" %}
-Todos os campos de preenchimento são obrigatórios, _exceto_: Responsável Principal, Descrição da Etapa e Anexos.&#x20;
+Os campos de preenchimento obrigatório são: Nome da etapa, Status, Data de Início, Data Final e Área Responsável.
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/xx5 (2).png" alt=""><figcaption></figcaption></figure>
@@ -49,6 +51,8 @@ Isso porque pode ser que uma área seja responsável apenas por uma única etapa
 {% hint style="info" %}
 **Exemplo:** em um projeto no qual a CPI é a área responsável e a CPDDH é uma área corresponsável, pode haver uma etapa específica de responsabilidade da Assessoria Jurídica (AJ). Nesse cenário, CPI e CPDDH – por serem áreas responsáveis – poderão visualizar e editar todo o projeto e todas as etapas. Já a AJ, por ser responsável apenas por uma etapa específica, terá permissão de visualizar e editar _exclusivamente_ essa etapa.
 {% endhint %}
+
+Além disso, da mesma forma que nos dados do projeto, há ainda a opção de incluir _<mark style="color:$info;">Áreas Corresponsáveis</mark>_ pela etapa (que poderão editá-la ou excluí-la) e _<mark style="color:$info;">Áreas Envolvidas</mark>_ (que poderão apenas visualizar a etapa).&#x20;
 
 Por fim, o SIAD permite que sejam anexados documentos relacionados à etapa. É uma funcionalidade <mark style="background-color:yellow;">opcional</mark>, para que as áreas possam acessar recursos que facilitem a gestão do cronograma de seus projetos.
 

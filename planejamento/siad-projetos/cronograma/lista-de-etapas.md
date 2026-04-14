@@ -6,7 +6,7 @@ description: Nessa seção entenderá todas as funcionalidades da página "Lista
 
 ### O que é a lista de etapas?
 
-Da mesma forma que a Lista de Projetos, a página "**Etapas**" reúne todos as etapas pelas quais sua área seja **responsável** (ainda que tenham sido cadastradas por outra área) e as suas principais informações, para uma visão global das etapas.&#x20;
+Da mesma forma que a Lista de Projetos, a página "**Etapas**" reúne todos as etapas pelas quais sua área seja **responsável** (ainda que tenham sido cadastradas por outra área) ou **envolvida**, e as suas principais informações, para uma visão global das etapas.&#x20;
 
 Ela é acessada clicando em "Etapas", no menu esquerdo da tela.&#x20;
 
@@ -29,12 +29,15 @@ Como pode ser visto na imagem, a tabela com a lista de etapas estará sempre aco
 * Nome da etapa;
 * Data Inicial;
 * Data Final;
+* Área Responsável pela Etapa;
 * Responsável Principal (pela etapa);
 * Status; e
 * Anexos
 
 Além dessas, é possível incluir as seguintes colunas clicando no botão mais à direita ao lado do campo de pesquisa:
 
+* Áreas Corresponsáveis;
+* Áreas Envolvidas;
 * Data do cadastro; e
 * Data da última alteração
 

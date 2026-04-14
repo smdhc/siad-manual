@@ -6,7 +6,7 @@ description: Nessa seção entenderá todas as funcionalidades da página "Lista
 
 ### O que é a "Lista de Projetos"?
 
-A página "**Lista de Projetos**" reúne todos os projetos **cadastrados pela área** ou que tenham a área como **corresponsável** pelo projeto e as suas principais informações, para uma visão global dos seus projetos.&#x20;
+A página "**Lista de Projetos**" reúne todos os projetos **cadastrados pela área** ou que tenham a área como **corresponsável** pelo projeto ou **envolvida** no projeto e as suas principais informações, para uma visão global dos seus projetos.&#x20;
 
 Ela é acessada clicando em "Projetos", no menu esquerdo da tela.&#x20;
 
@@ -42,7 +42,8 @@ A tabela com a lista de projetos estará sempre acompanhada das colunas:
 
 Além dessas, ao clicar no botão ao lado do campo de pesquisa, é possível incluir as seguintes colunas:
 
-* Área Corresponsável (1 e 2);&#x20;
+* Áreas Corresponsáveis;&#x20;
+* Áreas Envolvidas;
 * Responsável Suplente;
 * Data de Início;
 * Possui relação com os resultados-chave do Planejamento Estratégico da SMDHC?;
