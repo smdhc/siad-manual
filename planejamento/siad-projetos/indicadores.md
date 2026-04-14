@@ -6,7 +6,7 @@ Além da possibilidade de cadastrar etapas e anexar documentos, há uma outra fu
 
 Os indicadores são métricas utilizadas para avaliar o desempenho, o progresso e o alcance de objetivos. No caso da SMDHC, métricas que avaliam o progresso de projetos relacionados a resultados e objetivos específicos.&#x20;
 
-A página "**Indicadores**" é acessada clicando em "Indicadores", no menu esquerdo da tela.&#x20;
+A página "**Indicadores**" é acessada clicando no botão respectivo no menu esquerdo da tela.&#x20;
 
 <figure><img src="../../.gitbook/assets/indicadores.png" alt="" width="261"><figcaption></figcaption></figure>
 
