@@ -25,6 +25,8 @@ Os campos de preenchimento obrigatório são: Nome da etapa, Status, Data de In�
 
 {% hint style="danger" %}
 Caso sejam inseridas datas que estejam fora da data prevista para o projeto, aparecerá um aviso, recomendando que as datas do projeto sejam atualizadas.&#x20;
+
+<p align="center"><img src="../../../.gitbook/assets/aviso data de início (1).png" alt="" data-size="original"></p>
 {% endhint %}
 
 Um dos campos obrigatórios é o de _<mark style="color:$info;">Status</mark>_, que terá que ser atualizado conforme o andamento do projeto.&#x20;
