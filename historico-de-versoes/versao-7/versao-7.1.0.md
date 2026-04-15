@@ -18,6 +18,10 @@ Além disso, foi acrescentado o campo "Modalidade" caso a Rede Escolar seja "Out
 
 ## Ajustes
 
+### Cadastro de Pessoas - Correção de erro na pesquisa global
+
+Foi corrigido o erro que era exibido ao utilizar a pesquisa global em outros módulos do sistema.
+
 ### Equipamentos - Campos logradouro e bairro
 
 Os campos logradouro e bairro foram desbloqueados, permitindo assim sua edição.
@@ -29,3 +33,7 @@ Foram corrigidos os textos das tabelas de projetos e etapas para refletir os nov
 ### Projetos - Correção do botão de Indicadores
 
 Foi corrigida a exibição do botão de Indicadores na Ficha do Projeto.
+
+### Transcidadania - Correção do registro de frequência
+
+Foi corrigido um erro, que subiu na junto da v7.0.0, que era exibido ao registrar frequência a partir da tela de Acompanhamento.
