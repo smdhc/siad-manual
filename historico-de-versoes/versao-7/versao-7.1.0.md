@@ -30,6 +30,10 @@ Foi corrigido o erro que era exibido ao utilizar a pesquisa global em outros mó
 
 Os campos logradouro e bairro foram desbloqueados, permitindo assim sua edição.
 
+### Meu Trampo - Correção de flag vencedora
+
+Foi corrigido um problema na persistência da informação de proposta vencedora ao analisar a proposta.
+
 ### Projetos - Correção de textos
 
 Foram corrigidos os textos das tabelas de projetos e etapas para refletir os novos campos de áreas corresponsáveis e áreas envolvidas.
