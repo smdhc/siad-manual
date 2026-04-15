@@ -10,6 +10,10 @@ Confira abaixo todos os detalhes dessa atualização.
 
 ## Melhorias
 
+### Transcidadania - Alerta de escola inconsistente
+
+Foi adicionado um novo alerta na tela de cadastro do Transcidadania, que é exibido caso a escola do cadastro esteja diferente da informada na última frequência.
+
 ### Transcidadania - Rede Escolar (Outra) e Modalidade
 
 O campo "Rede Escolar (Outra)" foi substituído por uma lista fechada de opções.
