@@ -41,7 +41,7 @@ Ao clicar em cima da linha do indicador, aparecerá um pop-up para esse preenchi
 * Indicador
 * Observações da área responsável
 
-Os únicos campos que estarão abertos para preenchimento serão o do **indicador** e o de **observações**:&#x20;
+Os únicos campos que estarão abertos para preenchimento serão o do **indicador** e o campo opcional de **observações**:&#x20;
 
 <figure><img src="../../.gitbook/assets/indicador.png" alt=""><figcaption></figcaption></figure>
 
