@@ -26,9 +26,9 @@ O mesmo acontecerá ao final de cada bimestre, trimestre, semestre e ano.&#x20;
 
 Por exemplo: o resultado-chave 3A do Planejamento Estratégico ("_Realizar 10 formações para profissionais dos equipamentos sobre impactos das mudanças climáticas em grupos vulnerabilizados_") possui um indicador: "Número de formações realizadas" e esse indicador é trimestral.&#x20;
 
-Se a sua área possuir um projeto (ou mais de um) relacionado a este resultado-chave, você (ou a pessoa responsável na sua área) precisará responder periodicamente ao indicador relacionado.&#x20;
+Se a sua área possuir um projeto (ou mais de um) relacionado a este resultado-chave, você (ou a pessoa responsável na sua área) precisará **preencher periodicamente o indicador** relacionado.&#x20;
 
-Isso significa que, ao final de cada trimestre, a área deve acessar a Lista de Indicadores e preencher este indicador (que já terá sido cadastrado pela CPI) para cada um de seus projetos.
+Isso significa que, ao final de cada trimestre, a área deve acessar a Lista de Indicadores e preencher este indicador (que já terá sido cadastrado pela CPI) para cada um de seus projetos que estejam relacionados ao resultado 3A.
 
 Ao clicar em cima da linha do indicador, aparecerá um pop-up para esse preenchimento. A tela trará algumas informações:&#x20;
 
@@ -46,5 +46,3 @@ Os únicos campos que estarão abertos para preenchimento serão o do **indicado
 <figure><img src="../../.gitbook/assets/indicador.png" alt=""><figcaption></figcaption></figure>
 
 Assim, neste exemplo, basta que a área informe o número de formações realizadas no 1º trimestre do ano de 2026, forneça, se quiser, mais informações na área de observações (como local e data da formação, por exemplo) e clique em _<mark style="color:purple;">Salvar alterações</mark>_.&#x20;
-
-A
