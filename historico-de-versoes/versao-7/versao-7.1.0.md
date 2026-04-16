@@ -10,6 +10,10 @@ Confira abaixo todos os detalhes dessa atualização.
 
 ## Melhorias
 
+### Geral - Troca de vínculo
+
+O componente de troca de vínculo agora permite selecionar também o módulo desejado, assim como é feito na tela de login.
+
 ### Infraestrutura - Atualização do Filament
 
 O framework utilizado para desenvolvimento do SIAD (Filament) foi atualizado para a v4.10.1.
