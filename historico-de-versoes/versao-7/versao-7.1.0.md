@@ -10,6 +10,10 @@ Confira abaixo todos os detalhes dessa atualização.
 
 ## Melhorias
 
+### Infraestrutura - Atualização do Filament
+
+O framework utilizado para desenvolvimento do SIAD (Filament) foi atualizado para a v4.10.1.
+
 ### Transcidadania - Alerta de escola inconsistente
 
 Foi adicionado um novo alerta na tela de cadastro do Transcidadania, que é exibido caso a escola do cadastro esteja diferente da informada na última frequência.
