@@ -50,6 +50,10 @@ Foram corrigidos os textos das tabelas de projetos e etapas para refletir os nov
 
 Foi corrigida a exibição do botão de Indicadores na Ficha do Projeto.
 
+### Projetos - Correção de indicadores em atraso
+
+Foi corrigida a verificação de indicador em atraso quando o tipo de métrica for Subprefeitura.
+
 ### Transcidadania - Correção do registro de frequência
 
 Foi corrigido um erro, que subiu na junto da v7.0.0, que era exibido ao registrar frequência a partir da tela de Acompanhamento.
