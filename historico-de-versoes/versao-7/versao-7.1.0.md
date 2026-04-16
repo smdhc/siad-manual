@@ -26,6 +26,10 @@ Além disso, foi acrescentado o campo "Modalidade" caso a Rede Escolar seja "Out
 
 ## Ajustes
 
+### Benefícios - Correção de listas pesquisáveis
+
+Foi corrigido um bug que não estava gravando corretamente as informações de atributos do tipo lista/select pesquisável.
+
 ### Cadastro de Pessoas - Correção de erro na pesquisa global
 
 Foi corrigido o erro que era exibido ao utilizar a pesquisa global em outros módulos do sistema.
