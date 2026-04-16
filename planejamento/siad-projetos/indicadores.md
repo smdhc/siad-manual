@@ -1,7 +1,5 @@
 # Indicadores
 
-_<mark style="background-color:yellow;">Página em construção</mark>_
-
 Além da possibilidade de cadastrar etapas e anexar documentos, há uma outra funcionalidade da parte de gestão de projetos do SIAD: o cadastro de indicadores.&#x20;
 
 Os indicadores são métricas utilizadas para avaliar o desempenho, o progresso e o alcance de objetivos. No caso da SMDHC, métricas que avaliam o progresso de projetos relacionados a resultados e objetivos específicos.&#x20;
