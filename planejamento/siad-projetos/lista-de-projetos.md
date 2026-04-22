@@ -1,5 +1,7 @@
 ---
-description: Nessa seção entenderá todas as funcionalidades da página "Lista de Projetos".
+description: >-
+  Nessa seção você entenderá todas as funcionalidades da página "Lista de
+  Projetos".
 ---
 
 # Lista de Projetos
