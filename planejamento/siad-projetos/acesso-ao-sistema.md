@@ -64,12 +64,12 @@ O botão "Projetos" está no canto esquerdo, na seção "Gestão de Projetos".&#
 
 A seguir, entrará na página **"Lista de Projetos"**, por meio da qual incluirá novos projetos e poderá visualizar os que já foram cadastrados.&#x20;
 
-Importante: se você possuir cadastro para mais de uma coordenação/equipamento e quiser alterar o login, basta clicar em um dos dois botões no menu superior direito da tela.&#x20;
+Importante: se você possuir cadastro para mais de uma coordenação/equipamento ou para mais de um módulo e quiser alterar o login, basta clicar em um dos dois botões no menu superior direito da tela.&#x20;
 
 <figure><img src="../../.gitbook/assets/botao canto.png" alt=""><figcaption></figcaption></figure>
 
-Depois, aparecerá um campo para "Trocar de Equipamento". Basta selecionar a área com a qual deseja logar.&#x20;
+Depois, aparecerá um campo para "Trocar vínculo". Basta selecionar a outra área e/ou o outro módulo com a/o qual deseja logar.&#x20;
 
-<figure><img src="../../.gitbook/assets/trocar de equipamento.png" alt="" width="297"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/trocar vínculo.png" alt="" width="233"><figcaption></figcaption></figure>
 
 Avance para entender como funciona a página **"Lista de Projetos"**.&#x20;
