@@ -16,7 +16,7 @@ Ela é acessada clicando em "Projetos", no menu esquerdo da tela.&#x20;
 
 Os projetos e suas informações estão em formato de tabela, conforme a imagem abaixo:
 
-<figure><img src="../../.gitbook/assets/lista de projetos.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/lista de projetos (2).png" alt=""><figcaption></figcaption></figure>
 
 Ainda, como indicado no início da tela, os projetos destacados em <mark style="background-color:yellow;">amarelo</mark> possuem etapas em atraso. Isso facilita a visualização.&#x20;
 
@@ -40,7 +40,7 @@ A tabela com a lista de projetos estará sempre acompanhada das colunas:
 * Se é prioritário; e
 * Status indicado pela área
 
-<figure><img src="../../.gitbook/assets/colunas.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/colunas (2).png" alt=""><figcaption></figcaption></figure>
 
 Além dessas, ao clicar no botão ao lado do campo de pesquisa, é possível incluir as seguintes colunas:
 
@@ -94,7 +94,3 @@ Ainda, é possível **agrupar** os projetos conforme os status ou a área, tanto
 <figure><img src="../../.gitbook/assets/agrupar.png" alt=""><figcaption></figcaption></figure>
 
 Feita a apresentação da página **"Lista de Projetos",** agora é o momento de apresentar como se cadastra um projeto no SIAD-Projetos.&#x20;
-
-
-
-###
