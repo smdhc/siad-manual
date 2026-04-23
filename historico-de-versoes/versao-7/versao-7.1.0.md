@@ -65,3 +65,7 @@ Foi corrigida a verificação de indicador em atraso quando o tipo de métrica f
 ### Transcidadania - Correção do registro de frequência
 
 Foi corrigido um erro, que subiu na junto da v7.0.0, que era exibido ao registrar frequência a partir da tela de Acompanhamento.
+
+## Hotfixes
+
+* v7.1.1: Correção na inclusão de anexos e filtros de objetivos estratégicos e resultados chave no SIAD Projetos.
