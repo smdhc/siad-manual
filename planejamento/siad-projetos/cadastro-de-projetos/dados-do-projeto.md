@@ -40,7 +40,11 @@ Já as áreas envolvidas poderão apenas _visualizar_ as informações, mas não
 O usuário que realiza o cadastro de um projeto não precisa ser o responsável (principal ou suplente) pelo projeto. No entanto, para que uma pessoa seja apontada com responsável por um projeto, ela deve ter um cadastro no SIAD-Projetos.
 {% endhint %}
 
-Além disso, há um campo "**O projeto tem relação com os resultados-chave do Planejamento Estratégico da SMDHC?**". Ao selecionar "Sim", você deve obrigatoriamente indicar quais são o Objetivo Estratégico e o Resultado-chave relacionados àquele projeto.&#x20;
+Além disso, há um campo "**O projeto tem relação com os resultados-chave do Planejamento Estratégico da SMDHC?**".&#x20;
+
+Ao selecionar "Sim", você deve obrigatoriamente indicar quais são o Objetivo Estratégico e o Resultado-Chave relacionados àquele projeto.
+
+Caso a área possua dúvidas se o projeto em questão tem relação com o Planejamento Estratégico ou caso a área ainda não tenha realizado reunião com a CPI sobre o Planejamento Estratégico, entrem em contato com a equipe de Planejamento da CPI.&#x20;
 
 <figure><img src="../../../.gitbook/assets/oe e rc.png" alt=""><figcaption></figcaption></figure>
 
