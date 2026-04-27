@@ -69,3 +69,4 @@ Foi corrigido um erro, que subiu na junto da v7.0.0, que era exibido ao registra
 ## Hotfixes
 
 * v7.1.1: Correção na inclusão de anexos e filtros de objetivos estratégicos e resultados chave no SIAD Projetos.
+* v7.1.2: Correção do cálculo do valor de pagamento do Transcidadania.
