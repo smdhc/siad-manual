@@ -113,10 +113,11 @@
 
 ## Histórico de Versões
 
+* [Versão 8](historico-de-versoes/versao-8/README.md)
+  * [Versão 8.0.0](historico-de-versoes/versao-8/versao-8.0.0.md)
 * [Versão 7](historico-de-versoes/versao-7/README.md)
   * [Versão 7.0.0](historico-de-versoes/versao-7/versao-7.0.0.md)
   * [Versão 7.1.0](historico-de-versoes/versao-7/versao-7.1.0.md)
-  * [Versão 7.2.0](historico-de-versoes/versao-7/versao-7.2.0.md)
 * [Versão 6](historico-de-versoes/versao-6/README.md)
   * [Versão 6.0.0](historico-de-versoes/versao-6/versao-6.0.0.md)
   * [Versão 6.1.0](historico-de-versoes/versao-6/versao-6.1.0.md)
