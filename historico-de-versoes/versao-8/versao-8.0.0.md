@@ -42,13 +42,17 @@ Ao cadastrar novos usuários, não será mais exibida a senha padrão "mudar123"
 
 ## Ajustes
 
-### Auditoria - Nome completo do modelo
+### Atendimento - Correção de impresso de atendimento excluído
 
-A trilha de auditoria foi ajustada para armazenar o nome completo do modelo (namespace) das informações armazenadas, para evitar ambiguidades.
+Foi corrigido o comportamento que permitia usuários imprimirem atendimentos excluídos.
 
 ### Atendimento - Correção do usuário padrão
 
 Foi corrigido o bug em que o usuário padrão não estava sendo gravado nos formulários externos de atendimento.
+
+### Auditoria - Nome completo do modelo
+
+A trilha de auditoria foi ajustada para armazenar o nome completo do modelo (namespace) das informações armazenadas, para evitar ambiguidades.
 
 ### Transcidadania - Correção de alerta de escola
 
