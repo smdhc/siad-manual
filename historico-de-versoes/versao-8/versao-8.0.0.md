@@ -1,5 +1,5 @@
 ---
-description: 'Data de lançamento: a definir'
+description: 'Data de lançamento: 21/05/2026'
 ---
 
 # Versão 8.0.0
