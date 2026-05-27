@@ -35,3 +35,7 @@ Foram realizados os seguintes ajustes no SIAD Forms:
 
 * Correção de listagem de respostas com protocolos configurados com restrição de acesso.
 * Corrigida a pesquisa de atributos pela chave.
+
+## Hotfixes
+
+* v8.1.1: Correção de erro ao cadastrar etapa no SIAD Forms.

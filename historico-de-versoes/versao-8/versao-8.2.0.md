@@ -17,3 +17,5 @@ Foram realizados os seguintes ajustes no SIAD Forms:
 * Correção de erro ao imprimir protocolo com Repeater.
 * Revisão do layout de impressão.
 * Correção de erro ao cadastrar etapa sem status padrão.
+
+##
