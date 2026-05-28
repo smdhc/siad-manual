@@ -8,6 +8,14 @@ A **versão 8.2.0** do SIAD é uma versão que traz melhorias e ajustes diversos
 
 Confira abaixo todos os detalhes dessa atualização.
 
+## Melhorias
+
+### SIAD Forms - Melhorias
+
+Foram realizadas as seguintes melhorias no SIAD Forms:
+
+* Validação de datas.
+
 ## Ajustes
 
 ### SIAD Forms - Ajustes
