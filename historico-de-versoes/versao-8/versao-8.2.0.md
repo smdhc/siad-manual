@@ -18,4 +18,6 @@ Foram realizados os seguintes ajustes no SIAD Forms:
 * Revisão do layout de impressão.
 * Correção de erro ao cadastrar etapa sem status padrão.
 
-##
+### Projetos - Alteração de nome de campos
+
+O campo "Responsável" na lista de áreas corresponsáveis da etapa foi renomeado para "Pessoa Corresponsável".
