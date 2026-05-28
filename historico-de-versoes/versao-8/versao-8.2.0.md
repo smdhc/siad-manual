@@ -10,6 +10,10 @@ Confira abaixo todos os detalhes dessa atualização.
 
 ## Melhorias
 
+### Cadastro de Equipamentos - Marcadores
+
+Foi adicionado um novo campo "Marcadores" no Cadastro de Equipamentos, permitindo associar equipamentos à "tags", facilitando assim a filtragem em painéis. A API também foi atualizada para exportar esse dado.
+
 ### SIAD Forms - Melhorias
 
 Foram realizadas as seguintes melhorias no SIAD Forms:
