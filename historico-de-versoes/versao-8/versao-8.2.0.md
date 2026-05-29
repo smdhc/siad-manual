@@ -33,6 +33,10 @@ Foram realizadas as seguintes melhorias no SIAD Forms:
 
 ## Ajustes
 
+### Atendimentos - Erro ao consultar atendimento
+
+Foi corrigido um erro exibido ao consultar qualquer atendimento a partir do módulo Admin.
+
 ### Autenticação - Auditoria de passkeys
 
 A trilha de auditoria para as tentativas de acesso utilizando chaves de acesso (passkeys) foi melhorada.
