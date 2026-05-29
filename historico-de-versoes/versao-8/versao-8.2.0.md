@@ -8,7 +8,17 @@ A **versão 8.2.0** do SIAD é uma versão que traz melhorias e ajustes diversos
 
 Confira abaixo todos os detalhes dessa atualização.
 
+## Novas funcionalidades
+
+### PIA Transcidadania
+
+Foi implementada nova funcionalidade no Transcidadania que permite construir e disponibilizar os formulários do PIA Transcidadania (Plano Individual de Atendimento) dentro do cadastro da pessoa.
+
 ## Melhorias
+
+### Autenticação - Criação automática de chaves de acesso
+
+A partir dessa versão, ao realizar o login com CPF e senha, o sistema tentará criar automaticamente uma chave de acesso para o usuário.
 
 ### Cadastro de Equipamentos - Marcadores
 
@@ -22,6 +32,10 @@ Foram realizadas as seguintes melhorias no SIAD Forms:
 * Validação de datas.
 
 ## Ajustes
+
+### Autenticação - Auditoria de passkeys
+
+A trilha de auditoria para as tentativas de acesso utilizando chaves de acesso (passkeys) foi melhorada.
 
 ### SIAD Forms - Ajustes
 
