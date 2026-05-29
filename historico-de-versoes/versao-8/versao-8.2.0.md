@@ -37,6 +37,10 @@ Foram realizadas as seguintes melhorias no SIAD Forms:
 
 A trilha de auditoria para as tentativas de acesso utilizando chaves de acesso (passkeys) foi melhorada.
 
+### Benefícios - Correção de status
+
+Foi corrigido o comportamento que permitia continuar visualizando benefícios com status rascunho ou arquivado.
+
 ### SIAD Forms - Ajustes
 
 Foram realizados os seguintes ajustes no SIAD Forms:
