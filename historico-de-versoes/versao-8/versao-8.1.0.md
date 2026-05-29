@@ -10,6 +10,10 @@ Confira abaixo todos os detalhes dessa atualização.
 
 ## Melhorias
 
+### Autenticação - Criação automática de chaves de acesso
+
+A partir dessa versão, ao realizar o login com CPF e senha, o sistema tentará criar automaticamente uma chave de acesso para o usuário.
+
 ### SIAD Forms - Melhorias
 
 Foram implementadas as seguintes melhorias no SIAD Forms:
