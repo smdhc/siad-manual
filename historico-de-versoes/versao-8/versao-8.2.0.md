@@ -29,6 +29,7 @@ Foi adicionado um novo campo "Marcadores" no Cadastro de Equipamentos, permitind
 Foram realizadas as seguintes melhorias no SIAD Forms:
 
 * Gerenciamento de notificações.
+* Sistema de pontuação.
 * Validação de datas.
 
 ## Ajustes
