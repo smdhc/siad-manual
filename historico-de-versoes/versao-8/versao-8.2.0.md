@@ -1,5 +1,5 @@
 ---
-description: 'Data de lançamento: a definir'
+description: 'Data de lançamento: 02/06/2026'
 ---
 
 # Versão 8.2.0
@@ -34,7 +34,7 @@ Foram realizadas as seguintes melhorias no SIAD Forms:
 
 ## Ajustes
 
-### Atendimentos - Erro ao consultar atendimento
+### Atendimentos - Erro ao consultar atendimento em outros módulos
 
 Foi corrigido um erro exibido ao consultar qualquer atendimento a partir do módulo Admin.
 
