@@ -30,6 +30,7 @@ Foram realizadas as seguintes melhorias no SIAD Forms:
 
 * Cadastro de novos protocolos a partir do próprio SIAD.
 * Componentes de CEP e CNPJ.
+* Configuração de banners e cores do formulário.
 * Gerenciamento de notificações.
 * Impressão em lote.
 * Sistema de pontuação.
