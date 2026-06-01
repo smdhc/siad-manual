@@ -28,6 +28,7 @@ Foi adicionado um novo campo "Marcadores" no Cadastro de Equipamentos, permitind
 
 Foram realizadas as seguintes melhorias no SIAD Forms:
 
+* Cadastro de novos protocolos a partir do próprio SIAD.
 * Componentes de CEP e CNPJ.
 * Gerenciamento de notificações.
 * Impressão em lote.
