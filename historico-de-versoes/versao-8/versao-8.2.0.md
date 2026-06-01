@@ -38,6 +38,10 @@ Foram realizadas as seguintes melhorias no SIAD Forms:
 
 Foi corrigido um erro exibido ao consultar qualquer atendimento a partir do módulo Admin.
 
+### Atendimentos - Correção de erro ao editar com regra de idade mínima
+
+Foi corrigido um erro exibido ao tentar editar um atendimento cujo tipo possua regra de idade mínima.
+
 ### Autenticação - Auditoria de passkeys
 
 A trilha de auditoria para as tentativas de acesso utilizando chaves de acesso (passkeys) foi melhorada.
