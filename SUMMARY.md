@@ -111,6 +111,10 @@
   * [Histórico de Remessas](cidade-solidaria/cadastro-de-remessas-sesana/historico-de-remessas.md)
   * [Pesquisa de Remessas](cidade-solidaria/cadastro-de-remessas-sesana/pesquisa-de-remessas.md)
 
+## SIAD Forms <a href="#forms" id="forms"></a>
+
+* [Introdução](forms/introducao.md)
+
 ## Histórico de Versões
 
 * [Versão 8](historico-de-versoes/versao-8/README.md)
