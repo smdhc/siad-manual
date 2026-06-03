@@ -114,6 +114,7 @@
 ## SIAD Forms <a href="#forms" id="forms"></a>
 
 * [Introdução](forms/introducao.md)
+* [Quando usar?](forms/quando-usar.md)
 
 ## Histórico de Versões
 
