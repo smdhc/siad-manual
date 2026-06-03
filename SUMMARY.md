@@ -115,6 +115,11 @@
 
 * [Introdução](forms/introducao.md)
 * [Quando usar?](forms/quando-usar.md)
+* [Conceitos Fundamentais](forms/conceitos-fundamentais.md)
+* [Construção de Formulários](forms/construcao-de-formularios/README.md)
+  * [Criar o formulário](forms/construcao-de-formularios/criar-o-formulario.md)
+  * [Criar uma versão](forms/construcao-de-formularios/criar-uma-versao.md)
+  * [Criar uma seção](forms/construcao-de-formularios/criar-uma-secao.md)
 
 ## Histórico de Versões
 

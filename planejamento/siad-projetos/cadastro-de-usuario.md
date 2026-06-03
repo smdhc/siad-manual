@@ -2,6 +2,24 @@
 description: >-
   Nessa seção aprenderá como cadastrar um usuário no SIAD-Projetos e os seus
   diferentes perfis
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Cadastro de usuário
