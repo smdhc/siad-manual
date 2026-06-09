@@ -33,3 +33,7 @@ Foram realizados os seguintes ajustes no SIAD Forms:
 * Corrigido problema ao gravar formulário com cor de fundo configurada.
 * Corrigido problema na impressão de respostas que começavam na segunda página.
 * O tamanho do logotipo da SMDHC nos e-mails foi ajustado.
+
+### Usuários - Duplicação na reativação
+
+Foi corrigido comportamento que permitia reativar um usuário excluído gerando duplicidade de vínculos ativos no mesmo equipamento.
