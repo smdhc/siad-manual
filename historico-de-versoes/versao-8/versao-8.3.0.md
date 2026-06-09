@@ -10,6 +10,10 @@ description: 'Data de lançamento: 11/06/2026'
 
 A listagem de atendimentos passa a exibir a ocupação dos profissionais do atendimento.
 
+### SIAD Benefícios - Configurações de campos de pessoa
+
+Disponibilizado novo menu "Configurações gerais" no sidebar da tela de edição do benefício, permitindo definir quais campos do cadastro de pessoas são exibidos na ficha do beneficiário.
+
 ### Transcidadania - Impressão do PIA
 
 Foram adicionados novos botões que permitem realizar a impressão dos formulários do PIA Transcidadania.
