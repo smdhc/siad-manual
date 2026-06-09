@@ -6,8 +6,7 @@
 
 * [O que é o SIAD?](introducao/o-que-e.md)
 * [Como surgiu o sistema?](introducao/como-surgiu-o-sistema.md)
-* [Projeto Piloto](introducao/projeto-piloto.md)
-* [Projeto de Expansão](introducao/projeto-de-expansao.md)
+* [Linha do Tempo](introducao/linha-do-tempo.md)
 * [Quem pode acessar?](introducao/quem-pode-acessar.md)
 * [Contato e Suporte](introducao/contato-e-suporte.md)
 

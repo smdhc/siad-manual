@@ -1,13 +1,13 @@
 # Como surgiu o sistema?
 
-Implantado em **2024**, o SIAD surge como solução definitiva para substituir e integrar os diversos formulários e planilhas utilizados em nossa rede.
-
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Ainda que resolvessem pontualmente algumas demandas, esses instrumentais necessitavam de um maior aprimoramento a fim de facilitar o acesso aos dados, aumentar a padronização das informações, a usabilidade, a integração e, principalmente, a segurança da informação.
+Antes da implantação do SIAD, os registros da rede de direitos humanos eram realizados por meio de formulários, planilhas e diferentes sistemas independentes.
 
-Pelo fato de não existir um cadastro centralizado de pessoas e atendimentos, havia uma alta frequência de duplicidade no cadastro de usuários nos equipamentos da rede. Além disso, diversas limitações nos ferramentais de coleta geraram um processo de subnotificação dos atendimentos ou, até mesmo, estimularam a criação de outros instrumentais, fragmentando ainda mais as informações.
+Embora esses instrumentos atendessem necessidades específicas de cada serviço, a ausência de uma base integrada dificultava o compartilhamento de informações, gerava duplicidade de cadastros, aumentava o retrabalho e limitava a capacidade de produção de indicadores para gestão.
 
-O SIAD surge então para solucionar esses problemas e trazer maior **controle**, **padronização** e **segurança** dos dados. Graças ao cadastro centralizado de pessoas e atendimentos, o registro das informações se torna mais facilitado e rápido, permitindo uma melhor gestão dos dados.
+Outro desafio importante era a impossibilidade de compreender de forma integrada a trajetória dos cidadãos atendidos pela Secretaria. Muitas pessoas acessavam diferentes serviços e programas ao longo do tempo, mas essas informações permaneciam fragmentadas em bases distintas.
 
-Além disso, o sistema foi desenvolvido através de tecnologias modernas, que permitem uma evolução rápida, adaptável, flexível e escalável, de acordo com a **LGPD** e fazendo com que seja um ambiente seguro e propício para o registro das informações.
+Para enfrentar esses desafios, a SMDHC iniciou em 2024 o desenvolvimento do Sistema Integrado de Atendimento em Direitos Humanos, adotando uma estratégia baseada em tecnologias abertas, desenvolvimento interno e construção colaborativa com as equipes da rede.
+
+O resultado foi uma plataforma moderna, escalável e alinhada às diretrizes de proteção de dados pessoais, capaz de evoluir continuamente de acordo com as necessidades dos serviços e da população atendida.

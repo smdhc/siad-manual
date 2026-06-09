@@ -4,15 +4,33 @@ description: Sistema Integrado de Atendimentos em Direitos Humanos
 
 # O que é o SIAD?
 
-Desenvolvido pela Secretaria Municipal de Direitos Humanos e Cidadania de São Paulo (SMDHC) e pela **Coordenadoria de Planejamento e Informação**, o SIAD é a **ferramenta oficial** para registro de atendimentos, gestão de benefícios, bem como outras informações relevantes da nossa rede de **promoção e defesa dos direitos humanos**.&#x20;
+O Sistema Integrado de Atendimento em Direitos Humanos (SIAD) é a plataforma digital oficial da Secretaria Municipal de Direitos Humanos e Cidadania (SMDHC) da Cidade de São Paulo.
+
+Desenvolvido pela Coordenadoria de Planejamento e Informação em conjunto com as áreas finalísticas da Secretaria, o sistema foi concebido para **integrar serviços, qualificar o atendimento à população e fortalecer a gestão das políticas públicas de direitos humanos** por meio do uso estratégico de dados.
 
 <figure><img src="../.gitbook/assets/Site Rede de Serviços - Página Inicial.jpg" alt=""><figcaption></figcaption></figure>
 
-O sistema possibilita um acompanhamento mais amplo e minucioso de casos de violência, bem como uma maior qualificação dos atendimentos realizados, **integrando a nossa rede** e resultando em maior controle e responsividade por parte da administração pública.&#x20;
+O SIAD reúne em uma única plataforma o cadastro de pessoas, o registro de atendimentos, a gestão de benefícios, o acompanhamento de casos, os encaminhamentos realizados pela rede e outras informações relevantes para a promoção e defesa dos direitos humanos.
 
-Além disso, os dados coletados auxiliam num processo de **tomada de decisão** mais qualificado para o desenvolvimento de políticas públicas e seus projetos.&#x20;
+Mais do que um sistema de registro, o SIAD constitui uma infraestrutura digital que conecta diferentes serviços e programas da Secretaria, permitindo uma **visão integrada da trajetória dos cidadãos ao longo da rede de atendimento**.
+
+Atualmente, a plataforma atende **79 equipamentos públicos**, entre unidades fixas e móveis, e é utilizada por mais de 1.000 profissionais da rede municipal.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+### Nossa missão
+
+O principal objetivo do SIAD é fortalecer a capacidade da administração pública de compreender, acompanhar e responder às necessidades da população atendida.
+
+Ao integrar informações anteriormente dispersas entre diferentes equipamentos, programas e áreas temáticas, o sistema contribui para:
+
+* Qualificar os atendimentos realizados;
+* Reduzir a fragmentação das informações;
+* Evitar duplicidade de cadastros;
+* Fortalecer a articulação entre os serviços;
+* Produzir indicadores para monitoramento e avaliação;
+* Apoiar a formulação de políticas públicas baseadas em evidências;
+* Garantir maior segurança e governança das informações.
 
 Confira também o vídeo explicativo desta funcionalidade:
 

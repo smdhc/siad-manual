@@ -4,7 +4,7 @@ description: 'Data de lançamento: 19/09/2024'
 
 # Versão 1.1.0
 
-A versão 1.1.0 do SIAD traz uma série de melhorias e novas funcionalidades com base nos feedbacks recebidos ao longo do [projeto piloto](../../introducao/projeto-piloto.md), tendo como destaque a nova funcionalidade de Relatórios e melhorias diversas no módulo de [Encaminhamentos](../../pessoas/encaminhamentos.md).
+A versão 1.1.0 do SIAD traz uma série de melhorias e novas funcionalidades com base nos feedbacks recebidos ao longo do [projeto piloto](../../introducao/linha-do-tempo.md), tendo como destaque a nova funcionalidade de Relatórios e melhorias diversas no módulo de [Encaminhamentos](../../pessoas/encaminhamentos.md).
 
 ## Novas funcionalidades
 
