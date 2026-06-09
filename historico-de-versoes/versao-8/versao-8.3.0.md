@@ -6,6 +6,10 @@ description: 'Data de lançamento: 11/06/2026'
 
 ## Melhorias
 
+### Atendimentos - Ocupação do profissional
+
+A listagem de atendimentos passa a exibir a ocupação dos profissionais do atendimento.
+
 ### Transcidadania - Impressão do PIA
 
 Foram adicionados novos botões que permitem realizar a impressão dos formulários do PIA Transcidadania.
