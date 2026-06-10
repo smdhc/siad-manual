@@ -6,6 +6,10 @@ description: 'Data de lançamento: 11/06/2026'
 
 ## Melhorias
 
+### Atendimentos - Exibição dos filtros
+
+Os filtros da tela de atendimentos passarão a ser exibidos por padrão.
+
 ### Atendimentos - Ocupação do profissional
 
 A listagem de atendimentos passa a exibir a ocupação dos profissionais do atendimento.
