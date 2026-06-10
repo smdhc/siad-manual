@@ -14,6 +14,10 @@ A listagem de atendimentos passa a exibir a ocupação dos profissionais do aten
 
 Disponibilizado novo menu "Configurações gerais" no sidebar da tela de edição do benefício, permitindo definir quais campos do cadastro de pessoas são exibidos na ficha do beneficiário.
 
+### SIAD Benefícios - Filtros em colunas dinâmicas
+
+Foi adicionado filtro nas colunas dinâmicas da listagem de beneficiários, assim como a possibilidade de reordená-los.
+
 ### Transcidadania - Impressão do PIA
 
 Foram adicionados novos botões que permitem realizar a impressão dos formulários do PIA Transcidadania.
