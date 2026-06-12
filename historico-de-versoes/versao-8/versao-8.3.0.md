@@ -4,6 +4,12 @@ description: 'Data de lançamento: 15/06/2026'
 
 # Versão 8.3.0
 
+## Novas funcionalidades
+
+### PIA - Programa de Geração de Renda
+
+A seção do Programa de Geração de Renda foi reestruturada e agora conta com um menu dedicado na barra lateral da ficha de cadastro de pessoas, facilitando o acesso direto às informações do programa. Nessa nova página, é possível visualizar o cadastro da pessoa beneficiária, realizar inserções e edições por meio de modais, além de acompanhar o Plano Individual de Acompanhamento (PIA), que permite registrar e monitorar as atividades e o progresso de cada participante de forma organizada.
+
 ## Melhorias
 
 ### Atendimentos - Exibição dos filtros
