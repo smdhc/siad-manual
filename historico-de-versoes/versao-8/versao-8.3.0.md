@@ -68,6 +68,10 @@ A lista de profissionais no registro de atendimentos de atividades coletivas foi
 
 Foram realizados alguns ajustes na tela de listagem dos atendimentos visando melhorar a performance da tela.
 
+### Autenticação - Correção de vulnerabilidade
+
+Foi corrigida uma vulnerabilidade de segurança na tela de seleção de equipamento/módulo.
+
 ### CadÚnico - Correção de erro de importação
 
 Foi corrigido um erro que era exibido ao tentar importar a pessoa do CadÚnico para o cadastro de pessoas do SIAD a partir da tela do CadÚnico.
