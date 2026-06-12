@@ -65,3 +65,7 @@ Foram realizados os seguintes ajustes no SIAD Forms:
 ### Projetos - Alteração de nome de campos
 
 O campo "Responsável" na lista de áreas corresponsáveis da etapa foi renomeado para "Pessoa Corresponsável".
+
+## Hotfix
+
+* v8.2.1: correção de erro ao tentar adicionar um novo atributo a um tipo de atendimento.
