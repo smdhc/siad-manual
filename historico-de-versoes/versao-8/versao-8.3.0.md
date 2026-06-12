@@ -56,6 +56,10 @@ Foram adicionados novos botões que permitem realizar a impressão dos formulár
 
 ## Ajustes
 
+### Atendimentos - Correção de erro ao salvar e criar outro
+
+Corrigido erro que era exibido ao utilizar o botão "Salvar e criar outro" em atendimentos contendo campos do cadastro de pessoas.
+
 ### Atendimentos - Exibição de profissionais na atividade coletiva
 
 A lista de profissionais no registro de atendimentos de atividades coletivas foi corrigida de forma a exibir somente profissionais ativos na data do atendimento.
