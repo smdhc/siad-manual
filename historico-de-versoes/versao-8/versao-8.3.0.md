@@ -1,5 +1,5 @@
 ---
-description: 'Data de lançamento: 15/06/2026'
+description: 'Data de lançamento: 16/06/2026'
 ---
 
 # Versão 8.3.0
@@ -55,6 +55,10 @@ Foram realizadas as seguintes melhorias no SIAD Forms:
 * Adicionado quadro "Resumo das Versões" na infolist de fluxos, exibindo versões cadastradas com link para gerenciar etapas.
 * Implementada action "Baixar todos os anexos (ZIP)" na infolist do protocolo ao acessar dados de uma etapa (visível somente quando houver arquivos).
 * Adicionado toggle "Único" na configuração de atributo na seção, que valida e impede o cadastro de formulários com valores duplicados para o mesmo atributo na mesma etapa.
+* Callout "Etapa encerrada em DD/MM/AAAA HH:MM" exibido quando o prazo já passou.
+* Botão "Preencher Formulário" agora aparece na tela de acompanhamento público para outras etapas.
+* Novo tipo de permissão "Protocolo" para restringir acesso a protocolos específicos.
+* Nova tela de pré-visualização do e-mail de notificação.
 
 ### Transcidadania - Impressão do PIA
 
@@ -98,6 +102,16 @@ Foram realizados os seguintes ajustes no SIAD Forms:
 * Corrigida a pesquisa de usuários nas configurações de acesso (fluxo e etapa) para buscar simultaneamente por nome, e-mail e CPF (com e sem pontuação).
 * Corrigida a acentuação do campo "Habilitar impressão do protocolo" na edição do fluxo.
 * Corrigido o comportamento ao trocar a chave pai de uma seção: o campo de opções pai agora é limpo automaticamente.
+* Permitir edição de etapas mesmo com versão publicada, mantendo bloqueio de adicionar/excluir etapas.
+* Campo "Ordem de exibição" agora pode ser editado.
+* Pré-requisito de status agora bloqueia para todos os usuários, inclusive admins.
+* Actions de edição, exclusão e preenchimento agora respeitam o prazo da etapa (dh\_fim).
+* Configuração "habilitar edição de respostas" agora bloqueia para todos, inclusive admins.
+* Corrigido formulário que ficava bloqueado ao excluir resposta e tentar cadastrar nova.
+* Corrigido botão de merge tags no editor de e-mail de notificação.
+* Corrigida validação de atributos únicos que não impedia gravação.
+* Bloqueio de acesso direto via URL a etapas públicas quando o protocolo não tem permissão.
+* Correção do tamanho do logotipo no e-mail.
 
 ### Usuários - Duplicação na reativação
 
