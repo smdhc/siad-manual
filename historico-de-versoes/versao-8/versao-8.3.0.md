@@ -116,3 +116,7 @@ Foram realizados os seguintes ajustes no SIAD Forms:
 ### Usuários - Duplicação na reativação
 
 Foi corrigido comportamento que permitia reativar um usuário excluído gerando duplicidade de vínculos ativos no mesmo equipamento.
+
+## Hotfixes
+
+* v8.3.1: corrige erro ao configurar atributo em tipo de atendimento e erro ao registrar atendimento de situação migratória pelo histórico da pessoa.
