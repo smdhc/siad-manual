@@ -11,3 +11,4 @@ description: 'Data de lançamento: a  definir'
 Foram realizadas as seguintes melhorias no SIAD Forms:
 
 * Adiciona uma nova configuração na aba "Respostas" da Etapa para ocultar a aba no acompanhamento quando não houver resposta cadastrada.
+* Adiciona novos tipos de atributos: UF, Checkbox e Toggle.
