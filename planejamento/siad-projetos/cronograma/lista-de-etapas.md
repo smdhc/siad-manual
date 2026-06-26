@@ -2,9 +2,9 @@
 description: Nessa seção entenderá todas as funcionalidades da página "Lista de Etapas".
 ---
 
-# Lista de etapas
+# Lista de Etapas
 
-### O que é a lista de etapas?
+### O que é a Lista de Etapas?
 
 Da mesma forma que a Lista de Projetos, a página "**Etapas**" reúne todos as etapas pelas quais sua área seja **responsável** (ainda que tenham sido cadastradas por outra área) ou **envolvida**, e as suas principais informações, para uma visão global das etapas.&#x20;
 

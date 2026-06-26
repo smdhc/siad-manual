@@ -56,7 +56,7 @@ A classificação dos níveis de acesso será feita por CPI.&#x20;
 Será possível acessar as informações das entregas de outras áreas por meio do painel de monitoramento, que será aberto a todos os servidores de SMDHC.
 {% endhint %}
 
-Com o seu login e senha, vamos entender como acessar o SIAD-Projeto?
+Com o seu login e senha, vamos entender como acessar o SIAD Projetos?
 
 
 

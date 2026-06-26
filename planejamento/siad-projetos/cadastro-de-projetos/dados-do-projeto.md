@@ -44,7 +44,7 @@ Além disso, há um campo "**O projeto tem relação com os resultados-chave do 
 
 Ao selecionar "Sim", você deve obrigatoriamente indicar quais são o Objetivo Estratégico e o Resultado-Chave relacionados àquele projeto.
 
-Caso a área possua dúvidas se o projeto em questão tem relação com o Planejamento Estratégico ou caso a área ainda não tenha realizado reunião com a CPI sobre o Planejamento Estratégico, entrem em contato com a equipe de Planejamento da CPI.&#x20;
+Caso a área possua dúvidas se o projeto em questão tem relação com o Planejamento Estratégico ou caso a área ainda não tenha realizado reunião com a CPI sobre o Planejamento Estratégico, entrem em contato com a equipe de Planejamento da CPI. Por ora, pode apenas marcar "Não" e depois editar o projeto para acrescentar essa informação.&#x20;
 
 <figure><img src="../../../.gitbook/assets/oe e rc.png" alt=""><figcaption></figcaption></figure>
 

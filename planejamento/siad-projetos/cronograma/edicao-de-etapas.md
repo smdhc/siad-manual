@@ -1,6 +1,6 @@
 # Edição de etapas
 
-As etapas de um projeto podem ser editadas pelas áreas responsáveis pelo projeto ou pela área responsável apenas por aquela etapa.&#x20;
+As etapas de um projeto podem ser editadas pelas áreas responsáveis ou corresponsáveis pelo projeto ou pela área responsável apenas por aquela etapa.&#x20;
 
 Para editar qualquer informação de uma etapa, basta clicar nos 3 pontos no canto direito da linha da etapa e clicar em _<mark style="color:purple;">Editar</mark>_. &#x20;
 
@@ -14,7 +14,7 @@ Caso seja feita alguma alteração nos campos de _<mark style="color:$info;">Ár
 
 <figure><img src="../../../.gitbook/assets/xx15.png" alt=""><figcaption></figcaption></figure>
 
-Além disso, é possível excluir os anexos da etapa, clicando no x à esquerda do anexo que se deseja excluir.
+Além disso, é possível excluir os anexos da etapa, clicando no **x** à esquerda do anexo que se deseja excluir.
 
 <figure><img src="../../../.gitbook/assets/excluir anexo.png" alt=""><figcaption></figcaption></figure>
 

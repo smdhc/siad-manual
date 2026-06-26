@@ -1,6 +1,6 @@
 # Exclusão de projetos cadastrados
 
-O usuário poderá excluir apenas os projetos pelos quais sua área seja a **área responsável**. Se sua área é corresponsável por um projeto, a exclusão não será possível.&#x20;
+O usuário poderá excluir apenas os projetos pelos quais sua área seja a **área responsável**. Se sua área é corresponsável por um projeto (ou envolvida), a exclusão não será possível.&#x20;
 
 Para excluir um projeto salvo no SIAD, há dois caminhos:&#x20;
 
