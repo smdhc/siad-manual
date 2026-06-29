@@ -121,6 +121,7 @@
   * [Criar uma versão](forms/construcao-de-formularios/criar-uma-versao.md)
   * [Criar uma seção](forms/construcao-de-formularios/criar-uma-secao.md)
   * [Configurar atributos](forms/construcao-de-formularios/configurar-atributos.md)
+  * [Tipos de Atributos Especiais](forms/construcao-de-formularios/tipos-de-atributos-especiais.md)
   * [Editar atributos](forms/construcao-de-formularios/editar-atributos.md)
   * [Pré-visualizar formulário](forms/construcao-de-formularios/pre-visualizar-formulario.md)
   * [Publicar formulário](forms/construcao-de-formularios/publicar-formulario.md)
@@ -129,6 +130,10 @@
   * [Configurar acessos do fluxo](forms/construcao-de-formularios-1/configurar-acessos-do-fluxo.md)
   * [Configurar Notificações do Fluxo](forms/construcao-de-formularios-1/configurar-notificacoes-do-fluxo.md)
   * [Gerenciar Versões](forms/construcao-de-formularios-1/gerenciar-versoes.md)
+  * [Criar e Configurar Etapas](forms/construcao-de-formularios-1/criar-e-configurar-etapas.md)
+  * [Publicar o Fluxo](forms/construcao-de-formularios-1/publicar-o-fluxo.md)
+  * [Gerenciar Protocolos](forms/construcao-de-formularios-1/gerenciar-protocolos.md)
+  * [Gerenciar Respostas](forms/construcao-de-formularios-1/gerenciar-respostas.md)
 
 ## Histórico de Versões
 
