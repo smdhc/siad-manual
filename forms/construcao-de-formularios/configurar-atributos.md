@@ -122,3 +122,5 @@ No nosso exemplo, vou definir o campo "Nome da pessoa" com ordem = 1, para ser o
 Clique em "Criar" para finalizar a configuração. A listagem de atributos será atualizada com o atributo novo.
 
 <figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+
+Repita esse processo para cada pergunta do formulário que deseja criar.
