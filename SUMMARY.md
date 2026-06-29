@@ -57,6 +57,8 @@
   * [Novo atendimento](atendimentos/registro-de-atendimentos/novo-atendimento.md)
   * [Pesquisar atendimentos](atendimentos/registro-de-atendimentos/pesquisar-atendimentos.md)
   * [Visualizar atendimento](atendimentos/registro-de-atendimentos/visualizar-atendimento.md)
+* [Configurar Tipos de Atendimentos](atendimentos/configurar-tipos-de-atendimentos.md)
+* [Formulários Externos](atendimentos/formularios-externos.md)
 
 ## Planejamento
 
@@ -83,6 +85,13 @@
     * [Exclusão de etapas](planejamento/siad-projetos/cronograma/exclusao-de-etapas.md)
   * [Indicadores](planejamento/siad-projetos/indicadores.md)
   * [Anexos](planejamento/siad-projetos/anexos.md)
+
+## Transcidadania
+
+* [Introdução](transcidadania/introducao.md)
+* [Parte I — Configurações (perfil administrador)](transcidadania/parte-i-configuracoes-perfil-administrador.md)
+* [Parte II — Operação (perfil técnico)](transcidadania/parte-ii-operacao-perfil-tecnico.md)
+* [Parte III — Regras de Negócio](transcidadania/parte-iii-regras-de-negocio.md)
 
 ## Cidade Solidária
 
