@@ -120,6 +120,8 @@
   * [Criar o formulário](forms/construcao-de-formularios/criar-o-formulario.md)
   * [Criar uma versão](forms/construcao-de-formularios/criar-uma-versao.md)
   * [Criar uma seção](forms/construcao-de-formularios/criar-uma-secao.md)
+  * [Configurar atributos](forms/construcao-de-formularios/configurar-atributos.md)
+  * [Editar atributos](forms/construcao-de-formularios/editar-atributos.md)
 
 ## Histórico de Versões
 
