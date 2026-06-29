@@ -135,6 +135,13 @@
   * [Gerenciar Protocolos](forms/construcao-de-formularios-1/gerenciar-protocolos.md)
   * [Gerenciar Respostas](forms/construcao-de-formularios-1/gerenciar-respostas.md)
 
+## SIAD Benefícios <a href="#beneficios" id="beneficios"></a>
+
+* [Introdução](beneficios/introducao.md)
+* [Parte I — Configuração (perfil gestor)](beneficios/parte-i-configuracao-perfil-gestor.md)
+* [Parte II — Operação (perfil técnico)](beneficios/parte-ii-operacao-perfil-tecnico.md)
+* [Parte III — Integração e Referências](beneficios/parte-iii-integracao-e-referencias.md)
+
 ## Histórico de Versões
 
 * [Versão 8](historico-de-versoes/versao-8/README.md)
