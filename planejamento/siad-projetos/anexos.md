@@ -4,34 +4,34 @@ Já vimos que o SIAD permite que sejam anexados documentos dentro de _cada etapa
 
 Mas além do cadastro, do cronograma e dos anexos de cada etapa, a parte de gestão de projetos do SIAD também permite que sejam anexados documentos relacionados ao projeto como um todo.
 
-Se trata de uma funcionalidade <mark style="background-color:yellow;">opcional</mark>, para que as áreas possam acessar recursos que facilitem a gestão de seus projetos.&#x20;
+Se trata de uma funcionalidade <mark style="background-color:yellow;">opcional</mark>, para que as áreas possam acessar recursos que facilitem a gestão de seus projetos.
 
-Para acessar a página de anexos, é possível acessar a ficha do projeto desejado e clicar no botão _<mark style="color:$info;">Anexos</mark>_ no menu lateral. &#x20;
+Para acessar a página de anexos, é possível acessar a ficha do projeto desejado e clicar no botão _<mark style="color:$info;">Anexos</mark>_ no menu lateral.
 
 <figure><img src="../../.gitbook/assets/xx27.png" alt=""><figcaption></figcaption></figure>
 
-Também é possível acessar essa parte diretamente clicando nos 3 pontos à direita do projeto na tabela inicial (Lista de Projetos) e selecionando _<mark style="color:$info;">Anexos</mark>_.&#x20;
+Também é possível acessar essa parte diretamente clicando nos 3 pontos à direita do projeto na tabela inicial (Lista de Projetos) e selecionando _<mark style="color:$info;">Anexos</mark>_.
 
 <figure><img src="../../.gitbook/assets/anexoss (1).png" alt=""><figcaption></figcaption></figure>
 
-Após acessar a página de anexos, basta seguir o passo a passo:&#x20;
+Após acessar a página de anexos, basta seguir o passo a passo:
 
-1. Clique em _<mark style="color:purple;">Incluir Anexo</mark>_;&#x20;
+1. Clique em _<mark style="color:purple;">Incluir Anexo</mark>_;
 
 <figure><img src="../../.gitbook/assets/xx8 (2).png" alt=""><figcaption></figcaption></figure>
 
-2. Arraste o documento que deseja incluir ou selecione em seus arquivos;&#x20;
+2. Arraste o documento que deseja incluir ou selecione em seus arquivos;
 
 <figure><img src="../../.gitbook/assets/incluir anexo.png" alt=""><figcaption></figcaption></figure>
 
-3. Preencha a parte de descrição do anexo. Recomendamos que indique do que o documento se trata sucintamente;&#x20;
+3. Preencha a parte de descrição do anexo. Recomendamos que indique do que o documento se trata sucintamente;
 4. Para salvar o documento, é possível clicar em _<mark style="color:purple;">Criar</mark>_ ou em _<mark style="color:$info;">Salvar e criar outro</mark>_. Esse último botão salva o documento incluso e volta para o início do passo a passo, para que seja possível anexar mais de um documento.
 
 {% hint style="info" %}
-O SIAD Projetos aceita qualquer formato de documento.&#x20;
+O SIAD Projetos aceita qualquer formato de documento.
 {% endhint %}
 
-Todos os arquivos anexados àquele projeto podem ser encontrados em uma tabela na mesma seção. Nessa tabela, há os dados básicos do documento:&#x20;
+Todos os arquivos anexados àquele projeto podem ser encontrados em uma tabela na mesma seção. Nessa tabela, há os dados básicos do documento:
 
 * Nome do arquivo;
 * Descrição do documento; e
@@ -39,11 +39,11 @@ Todos os arquivos anexados àquele projeto podem ser encontrados em uma tabela n
 
 <figure><img src="../../.gitbook/assets/xx29.png" alt=""><figcaption></figcaption></figure>
 
-Para abrir um documento salvo, é necessário clicar na linha do documento, e será possível abri-lo ou fazer seu download.&#x20;
+Para abrir um documento salvo, é necessário clicar na linha do documento, e será possível abri-lo ou fazer seu download.
 
 <figure><img src="../../.gitbook/assets/baixar anexo.png" alt=""><figcaption></figcaption></figure>
 
-Também é possível visualizar, editar ou excluir um arquivo por meio dos 3 pontos no canto direito da respectiva linha.&#x20;
+Também é possível visualizar, editar ou excluir um arquivo por meio dos 3 pontos no canto direito da respectiva linha.
 
 <figure><img src="../../.gitbook/assets/xx2 (4).png" alt=""><figcaption></figcaption></figure>
 
@@ -53,7 +53,7 @@ Todos os usuários da área **responsável** e da área **corresponsável** pelo
 
 ### Anexos de Etapas
 
-Ainda, ao final da mesma página, há uma relação de _<mark style="color:$info;">Anexos de Etapas</mark>_. Aqui, você conseguirá ver todos os documentos que foram anexados em _todas as etapas_ daquele projeto, separados por etapa.&#x20;
+Ainda, ao final da mesma página, há uma relação de _<mark style="color:$info;">Anexos de Etapas</mark>_. Aqui, você conseguirá ver todos os documentos que foram anexados em _todas as etapas_ daquele projeto, separados por etapa.
 
 Nessa tabela, constam as seguintes informações:
 
@@ -65,15 +65,14 @@ Nessa tabela, constam as seguintes informações:
 
 <figure><img src="../../.gitbook/assets/xx32.png" alt=""><figcaption></figcaption></figure>
 
-Da mesma forma, para abrir um documento salvo, é possível clicar na linha do documento. Isso abrirá o mesmo pop-up do cadastro e da visualização da etapa e, assim, também será possível abrir o arquivo ou fazer o seu download.&#x20;
+Da mesma forma, para abrir um documento salvo, é possível clicar na linha do documento. Isso abrirá o mesmo pop-up do cadastro e da visualização da etapa e, assim, também será possível abrir o arquivo ou fazer o seu download.
 
-<figure><img src="../../.gitbook/assets/xx34 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/xx34.png" alt=""><figcaption></figcaption></figure>
 
-Também é possível visualizar um arquivo por meio dos 3 pontos no canto direito da respectiva linha.&#x20;
+Também é possível visualizar um arquivo por meio dos 3 pontos no canto direito da respectiva linha.
 
 <figure><img src="../../.gitbook/assets/xx33.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Para excluir anexos de etapas, é necessário acessar diretamente a etapa desejada, clicar para editar a etapa e, então, excluir o anexo (como indicado na página [Edição de etapas](cronograma/edicao-de-etapas.md)).&#x20;
+Para excluir anexos de etapas, é necessário acessar diretamente a etapa desejada, clicar para editar a etapa e, então, excluir o anexo (como indicado na página [Edição de etapas](cronograma/edicao-de-etapas.md)).
 {% endhint %}
-

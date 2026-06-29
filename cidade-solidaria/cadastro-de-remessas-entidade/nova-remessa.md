@@ -17,7 +17,7 @@ Para que o cadastro seja liberado, as seguintes condições precisam ser atendid
 
 Caso alguma dessas condições não seja atendida, será exibida uma <mark style="background-color:$danger;">tela de erro</mark>, conforme abaixo:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Exemplo de erros que podem ser exibidos ao acessar a tela de cadastro.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Exemplo de erros que podem ser exibidos ao acessar a tela de cadastro.</p></figcaption></figure>
 
 Caso a situação dependa de validação ou ação da SESANA, será necessário entrar em contato com a equipe gestora do Programa Cidade Solidária.
 
@@ -43,7 +43,7 @@ Note que a Remessa é cadastrada automaticamente com o status "<mark style="back
 
 ## Cadastrar Beneficiários
 
-Para adicionar pessoas beneficiárias na remessa, clique no botão "**Cadastrar Beneficiários**", localizado no canto superior direito da tela de visualização, ou no menu lateral "**Beneficiários**".&#x20;
+Para adicionar pessoas beneficiárias na remessa, clique no botão "**Cadastrar Beneficiários**", localizado no canto superior direito da tela de visualização, ou no menu lateral "**Beneficiários**".
 
 <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -90,6 +90,6 @@ Após a adição de um beneficiário, a exclusão não será mais permitida. Cas
 
 Caso o limite de cestas configurado para a entidade seja atingido, o sistema exibirá a mensagem abaixo e o botão "Adicionar beneficiário" ficará oculto:
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 O mesmo vale caso o lote fique indisponível por algum motivo ou o status da remessa mude.

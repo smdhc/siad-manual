@@ -43,7 +43,7 @@ Outro ponto a destacar é que futuramente implementaremos uma forma para que o D
 
 Foi corrigido o permissionamento dos botões <mark style="color:purple;">Registrar Atendimento</mark> e <mark style="color:purple;">Cadastrar Pessoa</mark> na tela inicial, que estavam sendo exibidos mesmo se o usuário não tivesse permissão específica.
 
-<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption><p>Botões da tela inicial</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (130).png" alt=""><figcaption><p>Botões da tela inicial</p></figcaption></figure>
 
 A mesma revisão foi aplicada nas seguintes telas/funcionalidades:
 

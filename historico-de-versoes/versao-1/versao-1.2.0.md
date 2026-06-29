@@ -28,7 +28,7 @@ Por questões de segurança, o [filtro ](../../pessoas/pesquisa/filtros-de-equip
 
 Apesar disso, ainda é possível acessar individualmente cadastros realizados por outros equipamentos através da [Pesquisa Global](../../pessoas/pesquisa/pesquisa-global.md).
 
-<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption><p>Pesquisa global</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption><p>Pesquisa global</p></figcaption></figure>
 
 ### Cadastro de Pessoas - Remoção do filtro "Equipamento de Cadastro"
 

@@ -68,7 +68,7 @@ A entidade poderá acessar o sistema através do endereço [http://siad.prefeitu
 
 Para reiniciar uma senha, basta abrir o menu de opções da credencial cadastrada e clicar em "<mark style="background-color:$primary;">**Reiniciar Senha**</mark>".
 
-<figure><img src="../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
 
 Após a confirmação, a nova senha será exibida em um popup no canto superior direito da tela.
 

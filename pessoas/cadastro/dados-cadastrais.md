@@ -59,7 +59,7 @@ Os campos de preenchimento obrigatório serão indicados pelo símbolo <mark sty
 
 Caso você tente criar o cadastro sem preencher todos os campos obrigatórios, uma mensagem em vermelho aparecerá dizendo que aquele campo é obrigatório.
 
-<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption><p>Exemplo de campo obrigatório sem preenchimento</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption><p>Exemplo de campo obrigatório sem preenchimento</p></figcaption></figure>
 
 ## Nomes
 
@@ -134,7 +134,7 @@ Existem situações, como de imigrantes ou crianças, nas quais a pessoa não po
 <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Opção "Não possui CPF"</p></figcaption></figure>
 
 {% hint style="warning" %}
-Não utilize essa funcionalidade para outras situações que não sejam as descritas acima. Isso pode dificultar a consulta desse cadastro posteriormente, podendo ocasionar <mark style="color:red;">duplicidades</mark> no sistema.&#x20;
+Não utilize essa funcionalidade para outras situações que não sejam as descritas acima. Isso pode dificultar a consulta desse cadastro posteriormente, podendo ocasionar <mark style="color:red;">duplicidades</mark> no sistema.
 {% endhint %}
 
 ## Edição de CPF

@@ -35,9 +35,9 @@ Ao clicar, será aberta uma caixa de consulta de cadastro existente, que permite
 Essa etapa de consulta, embora seja <mark style="color:purple;">opcional</mark>, é essencial para **evitar a duplicidade** de cadastros.
 {% endhint %}
 
-Para consultar, basta informar o <mark style="color:purple;">CPF</mark> e <mark style="color:purple;">clicar na lupa</mark> ao lado do campo.&#x20;
+Para consultar, basta informar o <mark style="color:purple;">CPF</mark> e <mark style="color:purple;">clicar na lupa</mark> ao lado do campo.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Janela de consulta de cadastro já existente</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Janela de consulta de cadastro já existente</p></figcaption></figure>
 
 Caso o CPF informado já esteja cadastrado na base de dados, uma mensagem em <mark style="color:red;">vermelho</mark> aparecerá, conforme imagem abaixo. Será exibido o Código SIAD e o nome da pessoa cadastrada para aquele CPF. Caso queira acessar esse cadastro, basta clicar no link para ser redirecionado para a ficha da pessoa.
 
