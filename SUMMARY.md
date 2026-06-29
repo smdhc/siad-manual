@@ -41,9 +41,11 @@
 * [Encaminhamentos](pessoas/encaminhamentos.md)
 * [Anexos](pessoas/anexos.md)
 
-## Cadastro de Equipamentos <a href="#equipamentos" id="equipamentos"></a>
+## Cadastros
 
-* [Consulta](equipamentos/consulta.md)
+* [Equipamentos](cadastros/consulta.md)
+* [Organizações](cadastros/organizacoes.md)
+* [Usuários](cadastros/usuarios.md)
 
 ## Atendimentos
 
@@ -92,6 +94,11 @@
 * [Parte I — Configurações (perfil administrador)](transcidadania/parte-i-configuracoes-perfil-administrador.md)
 * [Parte II — Operação (perfil técnico)](transcidadania/parte-ii-operacao-perfil-tecnico.md)
 * [Parte III — Regras de Negócio](transcidadania/parte-iii-regras-de-negocio.md)
+
+## Programa Geração de Renda <a href="#geracao-renda" id="geracao-renda"></a>
+
+* [Introdução](geracao-renda/introducao.md)
+* [Manual](geracao-renda/manual.md)
 
 ## Cidade Solidária
 
