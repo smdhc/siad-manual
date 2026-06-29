@@ -123,6 +123,12 @@
   * [Configurar atributos](forms/construcao-de-formularios/configurar-atributos.md)
   * [Editar atributos](forms/construcao-de-formularios/editar-atributos.md)
   * [Pré-visualizar formulário](forms/construcao-de-formularios/pre-visualizar-formulario.md)
+  * [Publicar formulário](forms/construcao-de-formularios/publicar-formulario.md)
+* [Construção de Fluxos](forms/construcao-de-formularios-1/README.md)
+  * [Criar o fluxo](forms/construcao-de-formularios-1/criar-o-fluxo.md)
+  * [Configurar acessos do fluxo](forms/construcao-de-formularios-1/configurar-acessos-do-fluxo.md)
+  * [Configurar Notificações do Fluxo](forms/construcao-de-formularios-1/configurar-notificacoes-do-fluxo.md)
+  * [Gerenciar Versões](forms/construcao-de-formularios-1/gerenciar-versoes.md)
 
 ## Histórico de Versões
 
