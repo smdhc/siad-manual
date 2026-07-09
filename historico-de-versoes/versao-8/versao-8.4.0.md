@@ -36,6 +36,10 @@ Dois novos tipos de campo disponíveis para configuração nos formulários: cai
 
 Etapas que ainda não possuem resposta podem ser ocultadas automaticamente na tela de acompanhamento, deixando a visualização mais limpa.
 
+### SIAD Benefícios- Acompanhamento Mensal do programa Geração de Renda
+
+O programa Geração de Renda passa a contar com registro de frequências mensal.
+
 ### Usuários - Modal de confirmação ao reiniciar senha
 
 Ao reiniciar a senha de um usuário, o sistema exibe uma janela de confirmação antes de executar a ação.
