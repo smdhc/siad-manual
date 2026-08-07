@@ -166,6 +166,8 @@
   * [Versão 8.2.0](historico-de-versoes/versao-8/versao-8.2.0.md)
   * [Versão 8.3.0](historico-de-versoes/versao-8/versao-8.3.0.md)
   * [Versão 8.4.0](historico-de-versoes/versao-8/versao-8.4.0.md)
+  * [Versão 8.4.1](historico-de-versoes/versao-8/versao-8.4.1.md)
+  * [Versão 8.4.2](historico-de-versoes/versao-8/versao-8.4.2.md)
 * [Versão 7](historico-de-versoes/versao-7/README.md)
   * [Versão 7.0.0](historico-de-versoes/versao-7/versao-7.0.0.md)
   * [Versão 7.1.0](historico-de-versoes/versao-7/versao-7.1.0.md)
