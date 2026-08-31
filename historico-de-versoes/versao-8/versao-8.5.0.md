@@ -42,3 +42,8 @@ O painel de monitoramento do sistema recebeu melhorias significativas em suas fe
 
 Ajustamos a URL da tela de redefinição de senha para manter o padrão e a organização das rotas de autenticação da aplicação. A rota antiga `/atendimento/pasword-reset` foi corrigida e agora o acesso ocorre adequadamente através do caminho `/auth/password-reset`.
 
+## Hotfix
+
+### Redirecionamento para URL pretendida
+
+Se o usuário tentar acessar um link restrito sem estar logado, ele será levado para a tela de login. A novidade é que, após entrar no sistema, ele poderá ser redirecionado direto para a página que tentou acessar no início, já sendo aplicado para o SIAD FORMS.
