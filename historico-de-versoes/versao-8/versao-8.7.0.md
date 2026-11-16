@@ -14,7 +14,11 @@ Foi adicionado um novo status "Aguardando deliberação do gabinete" para projet
 
 ### **Descrição dos Objetivos Estratégicos no Planejamento**
 
-Foi disponibilizado no SIAD o cadastro de descrições para os Objetivos Estratégicos do planejamento. Agora, além do nome, é possível registrar uma explicação detalhada sobre cada objetivo, exibida na tabela de cadastro com apoio de tooltip. No formulário de projetos, uma nova ação permite consultar, em um painel lateral, o nome e a descrição de todos os objetivos estratégicos antes de realizar a seleção. A melhoria facilita a compreensão dos objetivos e apoia o correto enquadramento dos projetos.
+Foi disponibilizado no SIAD o cadastro de descrições para os Objetivos Estratégicos e Resultados Chave do planejamento. Agora, além do nome, é possível registrar uma explicação detalhada sobre cada objetivo, exibida na tabela de cadastro com apoio de tooltip. No formulário de projetos, uma nova ação permite consultar, em um painel lateral, o nome e a descrição de todos os objetivos estratégicos antes de realizar a seleção. A melhoria facilita a compreensão dos objetivos e apoia o correto enquadramento dos projetos.
+
+### Página Meus Forms no SIAD Forms
+
+
 
 ## Ajustes
 
