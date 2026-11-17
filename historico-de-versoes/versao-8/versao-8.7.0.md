@@ -18,12 +18,14 @@ Foi disponibilizado no SIAD o cadastro de descrições para os Objetivos Estrat�
 
 ### Página Meus Forms no SIAD Forms
 
-
+O Meus Forms passou a ser exibido como um módulo na seleção de módulos do SIAD, junto aos demais módulos disponíveis para o vínculo. Ao escolhê-lo, o usuário é levado à página inicial do SIAD Forms. Na tela de login, foi incluído o link "Consultar protocolo e formulários públicos", que permite acessar a consulta sem autenticação. Na página do SIAD Forms, usuários não autenticados contam com o botão "Entrar", e a seção "Meus protocolos" fica sempre visível, bloqueada até o login. Usuários que ainda não aceitaram o termo de uso visualizam o termo antes de acessar o módulo.
 
 ## Ajustes
 
 ### Correção de redirecionamento no login
 
-No SIAD, foi corrigido o redirecionamento após o login para respeitar o módulo selecionado pelo usuário. Quando o acesso parte de uma página específica de um painel autorizado, o sistema mantém o destino original; já páginas iniciais de painéis, destinos externos ou áreas sem permissão levam ao módulo escolhido.\
-<br>
+No SIAD, foi corrigido o redirecionamento após o login para respeitar o módulo selecionado pelo usuário. Quando o acesso parte de uma página específica de um painel autorizado, o sistema mantém o destino original; já páginas iniciais de painéis, destinos externos ou áreas sem permissão levam ao módulo escolhido.
 
+### Permissões de campos para Editor do fluxo
+
+No SIAD Forms, foi corrigida a aplicação das permissões de acesso dos campos para usuários com perfil Editor no fluxo. Agora esses usuários recebem as permissões configuradas para o perfil Editor, e não as do perfil Usuário, e os campos configurados com permissão de alteração voltam a ser exibidos na edição da resposta.
